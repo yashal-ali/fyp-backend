@@ -1,0 +1,1591 @@
+id,name,city,state,address,iscod,status,ivr,remarks,total
+30145,Man,Nayagarh,Odisha,Jagadish Prasad GolapokhariBhapur Road Fategarh Nayagarh,True,Delivered,Confirmed,pickrr,999
+30144,Dik,Thane,Maharashtra,Shanti Garden Sector 4  flat 401 building 2 Mira Bhayandar Mumbai,True,Delivered,Confirmed,On call,599
+30143,Shi,Bangalore,Karnataka,280 2nd main 2nd cross vinobha nagar kg halli,True,Delivered,Confirmed,On call,599
+30142,Pre,Mumbai,Maharashtra,1404 Accord Nidhi above Bikaji Link Road Malad West,True,Delivered,Confirmed,Script,3596
+30138,Dr,Pauri Garhwal,Uttarakhand,10 am to 3 pm Please call Before Coming Room No106 1st floor Trauma Building Opp Emergency Building Government Base Hospital Kotdwar Uttarakhand,True,Delivered,Confirmed,Script,999
+30137,Ric,Indore,Madhya Pradesh,Flat no202moon palace building12 laal radio wali gali near dollar market,False,Delivered,Confirmed,Paid,3719
+30135,Man,Nilgiris,Tamil Nadu,No 80college road coonoor,False,Delivered,Confirmed,On call,3417
+30134,Roh,Mumbai,Maharashtra,R4A 308 mmrda bldg sharma estate goregaon east,True,Delivered,Confirmed,On call,3596
+30133,Lun,Dimapur,Nagaland,Zeliangrong village near Marino school dimapur nagaland,True,Delivered,Confirmed,Script,599
+30132,Mad,Thane,Maharashtra,C 204 shrikrishna sadan  mumbra Devi Colony Road,True,Returned,Confirmed,Will order next month,2156
+30131,Hee,Rajsamand,Rajasthan,Reti mholaa kakaroli waad no 33,True,Returned,Confirmed,DPU 2,999
+30129,Uts,West Champaran,Bihar,SO Ashwini Kumar SrivastavaShanti NagarArun Nagar Supriya cinema roadNear poddar glass housebehind riddhi shiddhi hotel,False,Delivered,Confirmed,Payment Link Sent,3417
+30128,PM,Hyderabad,Telangana,H NO123359 FLAT NO402 SARASWATHI NILAYAM PRASHANTH NAGAR  NIZAMPET ROAD  HYDERNAGAR  HYDERABAD,True,Delivered,Confirmed,Script,2156
+30127,Sat,Thane,Maharashtra,Panvelkar campus c5 flat no 404 bhopiwadi  ambernath west,False,Delivered,Confirmed,On call,950
+30126,Ish,North 24 Parganas,West Bengal,901 Block  3 Elita Garden Vista New Town,False,Delivered,Confirmed,On call,3417
+30125,San,Rajkot,Gujarat,Pride corporate kkv hol opp lp show room a wing A 206,True,Delivered,Confirmed,On call,999
+30124,Dha,Sangli,Maharashtra,52 vasantasra radha krishna Vasahat Near s t stand Sangli,True,Delivered,Confirmed,On call,999
+30123,Vic,Ludhiana,Punjab,Barewal Awana Near magnet road mahavir enclave,True,Returned,Confirmed,DPU 4,3596
+30122,Shr,North West Delhi,Delhi,Ap 29 2nd floor Shalimar Bagh near city centre mall,True,Delivered,Confirmed,DPU order,3596
+30121,J,Coimbatore,Tamil Nadu,142C G kuppuswamy naidu memorial hospital,False,Delivered,Confirmed,On call,2049
+30120,Sum,Visakhapatnam,Andhra Pradesh,509354FF1Sri Krishna residencySanthi66,False,Delivered,Confirmed,On call,3417
+30119,Yoj,Mumbai,Maharashtra,P 1803 srishti heights mayuresh srishti complex LBS road bhandup west,False,Delivered,Confirmed,On call,3417
+30113,Oli,North 24 Parganas,West Bengal,AC2611 whitehouse apartment kestopur rabindrapally,False,Delivered,Confirmed,On call,1898
+30112,Flo,Tiruchirappalli,Tamil Nadu,Wireless roadAmalapuri colonyThendral nagar petrol bunk backsidekk nagar,True,Delivered,Confirmed,on call,3596
+30109,Jat,Gurgaon,Haryana,House no 513 first floor sector 10 near community center Gurgaon,False,Delivered,Confirmed,On call,950
+30108,Sai,KVRangareddy,Telangana,1117123 Baghatsingh nagar saroornagar Hyderabad Telangana,False,Delivered,Confirmed,On call,950
+30103,Rav,Hyderabad,Telangana,Flat no 101vrr gayathri arcadebeside gowthami talent schoolDammaigudaecilhyd telangana,False,Delivered,Confirmed,On call,950
+30101,Vin,Visakhapatnam,Andhra Pradesh,Flat no409Plot No10425,True,Delivered,Confirmed,Script,999
+30100,Pra,Kanchipuram,Tamil Nadu,3ADwaraka Sai Brindavan apts,False,Delivered,Confirmed,On call,1671
+30099,Far,Udhampur,Jammu  Kashmir,Hospital road udhampur ward no 13house no 115,True,Delivered,Confirmed,on call,999
+30098,Man,Faridabad,Haryana,282 sector 17 Faridabad Haryana,False,Delivered,Confirmed,On call,2049
+30096,Sun,West Delhi,Delhi,B4 Bhagwan Dass nagar East Punjabi Bagh,False,Delivered,Confirmed,On call,2049
+30093,Ash,Kanchipuram,Tamil Nadu,Sunkalp 1st floor  5th cross street andal nagar,False,Delivered,Confirmed,On call,3417
+30088,Neh,Ghaziabad,Uttar Pradesh,House 314A Sector 3A Top Floor Vaishali PNB Road Ghaziabad Above the Grand Prix toy shop,False,Delivered,Confirmed,On call,2049
+30087,Har,Patiala,Punjab,H no 75A,False,Delivered,Converted,On call,950
+30085,Bas,Visakhapatnam,Andhra Pradesh,24711mig46samatha nagar colonypedagatyadavisakhapatnam,True,Returned,Confirmed,on call,999
+30083,Del,Mumbai,Maharashtra,D 1303 lake florence lake homes powai mumbai,True,Delivered,Confirmed,on call,3596
+30082,Nam,Bangalore,Karnataka,No425lehari house7thB main road30th cross4th block Jayanagarnear maiyas hotel,True,Delivered,Confirmed,Script,3596
+30081,Swa,Bargarh,Odisha,Staff Quarters Chc AttabiraInside Hospital CampusAttabiraDist BargarhState Odisha,True,Delivered,Confirmed,pickrr,3596
+30079,Man,Gurgaon,Haryana,A11804 tulip violet sector69 gurgaon,True,Delivered,Confirmed,DPU order,999
+30078,Ham,Bangalore,Karnataka,164 3rd main Sadananda nagar NGEF layout,False,Delivered,Confirmed,On call,2049
+30076,Nag,Dharwad,Karnataka,Sonapur4th cross Gulaganjikoppa Dharwad,True,Delivered,Confirmed,on call,999
+30075,Unn,Mumbai,Maharashtra,10B 10th floor Krishna Mai Building Sir Pochkanwala Road Near Sai Temple Worli Mumbai,False,Delivered,Confirmed,On call,3417
+30074,Pip,Dimapur,Nagaland,House No 187 sector 4 near sub stationkushiabill Village,True,Delivered,Confirmed,On call,1598
+30072,Est,Dimapur,Nagaland,House no 13 viola colony Dimapur Nagaland,False,Delivered,Confirmed,On call,570
+30071,Adi,Supaul,Bihar,Gol chauk pratapganj nearChhaya telecom,True,Delivered,Confirmed,on call,759
+30068,Mal,Srikakulam,Andhra Pradesh,G3intern hostelRagolu gems hospital,True,Delivered,Confirmed,Script,3596
+30066,Rad,Balangir,Odisha,near circuit house Manoharpur Tulsi nagarnear DrSubash lane,False,Delivered,Confirmed,On call,950
+30065,Swa,Bangalore,Karnataka,A5 308 genesis apartment,False,Delivered,Confirmed,On call,3417
+30064,Kha,Mumbai,Maharashtra,Sewri X road wadala Mumbai  building no 4room no 8,True,Delivered,Confirmed,on call,999
+30063,Anj,Bangalore,Karnataka,Q 1303 Purva Fountain Square near Spice Garden Marathalli,True,Delivered,Confirmed,Confirm on whatsapp,3596
+30062,Aar,Bhopal,Madhya Pradesh,83A malviya nagarroshanpura roadbehind Kalyan jewellers,True,Delivered,Confirmed,on call,999
+30060,Sha,Ananthapur,Andhra Pradesh,81045Beside state bank of India Anantapuram Road Gooty Anantapuram dist Andhra pradesh,False,Delivered,Confirmed,On call,3417
+30057,Kam,Jodhpur,Rajasthan,Near by bank of baroda Ranisarpariyal,True,Delivered,Confirmed,On call,3596
+30056,Mil,Surat,Gujarat,4404 Jagdishvar  galemandi  Main roaf,True,Delivered,Confirmed,DPU order,3596
+30047,Rin,Mandsaur,Madhya Pradesh,Bhatuni Shree Ram mandir,True,Returned,Confirmed,Customer Refused,3596
+30046,Ani,Coimbatore,Tamil Nadu,Site no 16 Teachers colony 7th right next  check post left first right,True,Delivered,Confirmed,Script,999
+30045,Lak,Pudukkottai,Tamil Nadu,M59poonga nagar rajagopala puram post pudukkottai,True,Delivered,Confirmed,Confirm on whatsapp,599
+30044,Jaw,Namakkal,Tamil Nadu,257ckkp street,True,Delivered,Confirmed,On call,999
+30043,Aks,Bangalore,Karnataka,144 Shankarnagar,True,Returned,Confirmed,DPU 4,999
+30042,Tys,Bangalore,Karnataka,Meghamala Residency Flat No 102 GM Palya New Thippasandra Post Bangalore 560075,True,Delivered,Confirmed,Script,999
+30040,Pul,Gurgaon,Haryana,A2 Second Floor Lilac2 Sector49,False,Delivered,Confirmed,On call,3417
+30039,Hum,Aurangabad,Maharashtra,Arif colony plot no 01 Near Jama masjid vip road,True,Delivered,Confirmed,On call,999
+30038,Div,Agra,Uttar Pradesh,5 model town near idgah busstand agra UP,False,Delivered,Confirmed,On call,570
+30037,Suc,Muzaffarpur,Bihar,Ajay Kumar TeacherBajrangpuram Road No2 Bhagwanpur Muzaffarpur,True,Delivered,Confirmed,Script,599
+30036,Alv,Chennai,Tamil Nadu,966B Masliamani lane Foxen Street Perambur Chennai,True,Delivered,Confirmed,On call,999
+30034,Gee,Hyderabad,Telangana,11151170  Chilkalguda secunderabad Padmavati appartment flatnum 103  Near chilkalguda police station,True,Delivered,Confirmed,Confirm on whatsapp,3596
+30033,Ran,South 24 Parganas,West Bengal,jethigat fresergonj South 24 Parganas,True,Delivered,Confirmed,Script,599
+30031,Ant,Indore,Madhya Pradesh,Fh 403 scheme no 54 opp Softvision college vijaynagarindore,False,Delivered,Confirmed,On call,950
+30030,Bha,Pune,Maharashtra,house no b 602 Kumar Pinakin Mumbai Pune Bypass Road Baner,True,Delivered,Confirmed,On call,3596
+30029,Saa,Gurgaon,Haryana,92 arjun marg dlf phase 1,False,Delivered,Confirmed,On call,570
+30028,Vin,Srinagar,Jammu  Kashmir,Batwara gate,True,Returned,Confirmed,Script,999
+30027,Pra,Kanpur Dehat,Uttar Pradesh,1805 kursawan behind Geet hotel phool bagh Mall Road kanpur,False,Delivered,Confirmed,Payment Link Sent,3417
+30025,Raj,Jammu,Jammu  Kashmir,121 Dhounchak Jourian  akhnoor,True,RTO,Confirmed,Script,3596
+30024,Shi,South West Delhi,Delhi,61286 D6 2nd floor near flyover Vasant Kunj new delhi,True,Delivered,Confirmed,On call,999
+30022,Vin,Krishna,Andhra Pradesh,G1nagasiva residencyRama nagarnidamanuru,True,Returned,Confirmed,DPU order,599
+30021,Rak,Jalgaon,Maharashtra,77 baba harsram society ganesh nagar jalgaon,True,Delivered,Confirmed,on call,3596
+30019,Jay,Thane,Maharashtra,401 sai janki sadan opp pramila hospita,True,Delivered,Confirmed,Escalated,1358
+30018,Pra,Bagalkot,Karnataka,Fabric spa shop Ilkal IB opposite,True,Delivered,Confirmed,on call,3596
+30017,Kan,Ludhiana,Punjab,Altos enterprise ltd near satsung bhawan humbra road ludhiana,True,Delivered,Confirmed,DPU order,999
+30015,Sha,Tiruvallur,Tamil Nadu,1156 17th street West End Colony Chennai,False,Delivered,Converted,Payment Link Sent,3417
+30014,Mon,Bangalore,Karnataka,Adhur village Bidarahalli hobile Virgo nagar post Bangalore Near yellamma temple Adhur,True,Delivered,Confirmed,On call,3596
+30013,Mil,Mumbai,Maharashtra,601 Varsha Apartment Parbat Nagar SV Road Dahisar East,False,Delivered,Confirmed,On call,950
+30012,Tri,Dehradun,Uttarakhand,Kaveri block Flat no 303 Siddharth Paradise Panditwadi Dehradun,True,Delivered,Confirmed,DPU order,3596
+30011,Bha,Bangalore,Karnataka,32011th cross sapthagiri layout hesaraghatta main road,True,Returned,Confirmed,On call,999
+30010,Gay,Jamnagar,Gujarat,Sector 26 Building 11 block E Reliance green town ship jamnagar,True,Delivered,Confirmed,on call,3596
+30009,Ree,Ahmedabad,Gujarat,124 sakar county shela ahemdabad,True,Delivered,Confirmed,on call,1998
+30008,Lub,Hyderabad,Telangana,SRT137 Chandulal baradari colony,True,Returned,Confirmed,DPU ORDER,999
+30007,Rin,Kamrup,Assam,Ganesguri Kahilipara janakpur road house no 2 shringer parlour,True,Returned,Confirmed,on call,999
+30006,Sau,East Champaran,Bihar,G2near jai guru dev aasarammathiya dih chatuni Motihari,True,Delivered,Confirmed,On call,759
+30004,Amu,Karim Nagar,Telangana,Hno204524 Subhashnagar Karimnagar Telangana,True,Delivered,Confirmed,Confirm on whatsapp,599
+30003,Hem,Pune,Maharashtra,B 403 Alcon Rethos Opp Forest County Near eon it park kharadi pune maharashtra,False,Delivered,Confirmed,On call,950
+30002,Ady,Mumbai,Maharashtra,202 bhagtani heights yari road andheri west,True,Delivered,Confirmed,On call,999
+30001,Aar,Gautam Buddha Nagar,Uttar Pradesh,C010 Vivek Vihar Sector 82 Noida,True,Delivered,Confirmed,On call,999
+30000,Dam,Raipur,Chattisgarh,oberois gulshaan kawardha bada near minakshi beauty palour raipur cg,True,Delivered,Confirmed,On call,2716
+29998,Kus,Bangalore,Karnataka,1333 F2 SR Enclave 3rd Cross MRHB colony Govindrajnagar post Prashanth nagar main road Bangalore,True,Delivered,Confirmed,Mailed,3596
+29996,Sne,Mumbai,Maharashtra,42 kshitij apartment near VN Purav RC marg monorail station Chembur naka Chembur,True,Delivered,Confirmed,On call,3596
+29993,San,East Godavari,Andhra Pradesh,18169 First Street Agraharam Dowaleswaram,True,Delivered,Confirmed,on call,3596
+29992,Utp,Belgaum,Karnataka,Plot no 176 3 main 3 cross near masjid Sadashivnagar  Belagavi,False,Delivered,Confirmed,On call,1898
+29991,Pre,Kanchipuram,Tamil Nadu,No 2 first floor ganapathy nagar pallikaranai Chennai,False,Delivered,Confirmed,On call,2049
+29990,Mut,Nellore,Andhra Pradesh,Near IOB bank bogole bitragunta,False,Delivered,Confirmed,On call,950
+29989,Cha,Mumbai,Maharashtra,18 salot nsroad 3 juhu scheme vile parle west,False,Delivered,Confirmed,On call,2049
+29988,Shw,Chennai,Tamil Nadu,S34514 Chandra apartments Perumal koil Street Choolaimedu Chennai,False,Delivered,Confirmed,On call,722
+29987,Pav,Gulbarga,Karnataka,backside of bhavani temple Sutan puri galli aland,True,Returned,Confirmed,On call,999
+29986,Lar,East Khasi Hills,Meghalaya,Jaiaw upper lansonalane,False,Delivered,Converted,On call,950
+29984,Tha,Bangalore,Karnataka,337 Phase 3 O block platinum city stage 1 behind peenya metro station,True,Delivered,Confirmed,On call,999
+29983,Ini,Kohima,Nagaland,Near nagaland civil secretariat office Billy Graham road,True,Returned,Confirmed,On call,999
+29981,Sya,Hyderabad,Telangana,Sri srmuti residence bandari layout 4a nizmpete,True,Returned,Confirmed,On call,599
+29980,Par,North West Delhi,Delhi,124 Kalyan Vihar Near Kalyan Vihar Police Chowki New Delhi,False,Delivered,Confirmed,On call,3417
+29978,Sur,East Godavari,Andhra Pradesh,Sri aditya trading and services,True,Delivered,Confirmed,Script,999
+29977,Aye,Mysore,Karnataka,C 014 Mittal panorama lalit mahal road next to KSRP,True,Delivered,Confirmed,On call,3596
+29976,Pal,Kanpur Nagar,Uttar Pradesh,174AKrishna nagar GT road,True,Returned,Confirmed,Not in the town,3596
+29975,Kru,Anand,Gujarat,02shaan society jahangir pura road hadgud,True,Returned,Confirmed,DPU ORDER,999
+29973,Mit,Barmer,Rajasthan,Mahaveer nagar city center 60 feet road side,True,Delivered,Confirmed,On call,3596
+29972,Sar,Karbi Anglong,Assam,32Rongtheang near Rongtheang klimsomer club Diphu,True,Delivered,Confirmed,On call,999
+29971,Noo,Thane,Maharashtra,D 33 sopara park society near baitul nasr,True,Delivered,Confirmed,Script,3596
+29970,Arc,Pune,Maharashtra,Hyde Park 587 Haji Kadirbhai Satarkar Marg Market Yard Gultekdi,True,Delivered,Confirmed,Script,1198
+29969,Riy,Umaria,Madhya Pradesh,New Ram babu colony ward no 20 Burhar chouk Shahdol,True,Returned,Confirmed,Not in the town,999
+29967,Pra,Gautam Buddha Nagar,Uttar Pradesh,Bharat petroleum apartments flat no11 sector 62,False,Delivered,Confirmed,On call,3417
+29965,Reg,Chennai,Tamil Nadu,Moogambigai Ladies Hostel Near Saidapet Post Office  Periyapet Saidapet Chennai Tamil Nadu 600015,True,Returned,Confirmed,Will order later,999
+29964,Rah,Bahraich,Uttar Pradesh,156Shanker Pur ChawrahaNanpara,True,Returned,Confirmed,Call Declined,999
+29963,Jan,Dakshina Kannada,Karnataka,Sri Kripa 6th Cross VNG Road Behind KMC Attavar Mangalore,True,Delivered,Confirmed,on call,3596
+29962,Mug,Bengaluru,Karnataka,HNo55 1st Cross 1st Street Saraswatipuram Near Ramakrishna High School Halasuru Bangalore,True,Returned,Confirmed,Customer Refused,3596
+29961,Mal,KVRangareddy,Telangana,Plot no 1197 Vasuki Nilayam Near Elephant Statue Cross road Beside Rainbow School,True,Delivered,Confirmed,On call,999
+29960,Jag,Bangalore,Karnataka,121 Old Fatima Road Maruthi Nagar Near Anugrah Ladies PG Oppsite Arun Tent House Madiwala Bengaluru Karnataka 560068,True,Delivered,Confirmed,pickrr,999
+29959,Kis,Bareilly,Uttar Pradesh,C 04 Paul Pothan Nagar IFFCO Township Aonla Bareilly Uttar Pradesh,False,Delivered,Confirmed,On call,3417
+29958,Pra,Bangalore,Karnataka,981 2nd K cross 1st block HRBR Next to I3SYS and State Bank of India HRBR Bangalore Karnataka,False,Delivered,Converted,Payment Link Sent,950
+29956,Cho,Dimapur,Nagaland,Unity College Residency Colony Dimapur Nagaland 797112,True,Delivered,Confirmed,pickrr,599
+29955,Shr,Ahmedabad,Gujarat,A10 Alka flat near vastrapur city civic center vastrapur Gam,True,Delivered,Confirmed,On call,999
+29954,Neh,Central Delhi,Delhi,EG 87  4 th floor  Inderpuri New Delhi,True,Delivered,Confirmed,On call,759
+29951,She,Shimla,Himachal Pradesh,Yog niwas below Rajat hotel walton estate Chotta Shimla,True,Delivered,Confirmed,Script,599
+29950,Pri,RaigarhMH,Maharashtra,Suyash Park  6TH FLOOR  F wing Sec 28  Plot No 120 123  ULWE,False,Delivered,Confirmed,On call,1518
+29949,Nad,Thane,Maharashtra,Pitru chaya bldg flat no 3032nd floor behind crystal tower kausa market kausa Mumbra,True,Delivered,Confirmed,Script,599
+29948,Dee,Thiruvananthapuram,Kerala,Sandeep house no 29 Gowri nagar Pongummoodu medical college post trivandrum,False,Delivered,Confirmed,On call,950
+29947,Nad,Thane,Maharashtra,Pitru chaya bldg flat no 3032nd floor behind crystal tower kausa market kausa Mumbra,True,Returned,Confirmed,Script,999
+29944,Shi,Gautam Buddha Nagar,Uttar Pradesh,House no 2011st floor C5831 RBI Ashiana apartments sector 62 noidaUP,True,Delivered,Confirmed,DPU order,999
+29942,Pre,Shimla,Himachal Pradesh,Parth villa near jawala mata  temple road bhattakufer sanjauli Shimla Himachal Pradesh,False,Delivered,Confirmed,On call,570
+29940,Che,Pali,Rajasthan,Sundar photo studio near police station,False,Delivered,Converted,Payment Link Sent,570
+29939,Vij,Meerut,Uttar Pradesh,B214 SUPERTECH PALMGREEN apartments Near shopprix mall Delhi road Near,False,Delivered,Confirmed,On call,5273
+29938,Res,Thane,Maharashtra,Plot 53 flat 201Majestic Villa2nd floor sector 11 koparkhairane navi mumbai,False,Delivered,Confirmed,Payment Link Sent,3417
+29937,Tin,West Tripura,Tripura,The ICFAI UNIVERSITY TRIPURA Kamalghat Mohanpur west Tripura,True,Returned,Confirmed,DPU ORDER,599
+29936,Kam,Kanchipuram,Tamil Nadu,Flat A key stone sapphire ponniamman koil second cross street rajakilpakam East Tambaram Chennai,False,Delivered,Confirmed,On call,3417
+29935,Arg,Kolkata,West Bengal,262 Diamond Harbour RoadBarisha Janakalyan Christian Para,True,Delivered,Confirmed,on call,599
+29933,Bho,Hassan,Karnataka,Dudda mula hassan taluk 3rd main dudda mula,True,Returned,Confirmed,DPU,999
+29932,Hif,Chennai,Tamil Nadu,no11emerald palace3rd crs st seetanagar nungambakkam,False,Delivered,Confirmed,On call,950
+29931,Raj,Jhansi,Uttar Pradesh,Nursing officers mess MH Jhansi Jhansi cantt,False,Delivered,Confirmed,Payment Link Sent,950
+29930,Han,Kanpur Dehat,Uttar Pradesh,88215 SR tower above Family bazar 4th floor  Kanpur  Uttar pradesh,False,Delivered,Confirmed,On call,722
+29927,Pri,Tiruvallur,Tamil Nadu,No 21kannagi street kakkanji nagar Pattabiram chennai,False,Delivered,Confirmed,Payment Link Sent,570
+29924,Kri,Nellore,Andhra Pradesh,251216 RamakrishnaNursing home AKNagar,False,Delivered,Confirmed,On call,1993
+29923,Nar,Hyderabad,Telangana,Hno  552135 st no  19 Telephone colony Boduppal,False,Delivered,Confirmed,On call,950
+29922,Nab,South 24 Parganas,West Bengal,Kakdwip Haripur,True,Delivered,Confirmed,Script,3596
+29921,Neh,Seoni,Madhya Pradesh,Near ayyubiya masjid sihora mandla road lakhnadon district seoni,True,Delivered,Confirmed,DPU order,599
+29920,Mad,Kolkata,West Bengal,11a Umakant Sen laneorbit sky view,True,Delivered,Confirmed,DPU order,2716
+29918,Dis,South Delhi,Delhi,17094th floor street no 4 Govindpuri Extension opp vishal mega mart,True,Delivered,Confirmed,On call,999
+29917,Shr,Banda,Uttar Pradesh,RaghukulTulsivihar ColonyKalukuwanBanda Uttar Pradesh,False,Delivered,Confirmed,On call,532
+29915,Rak,Rewa,Madhya Pradesh,J3 shilpi upvan colony near saint marry school,True,Delivered,Confirmed,on call,999
+29913,Sym,Valsad,Gujarat,Hazel B302 Garden city Samarvani,True,Delivered,Confirmed,on call,999
+29912,Ujw,Srikakulam,Andhra Pradesh,House no1056somagandi village seethampeta mandal srikakulam district,True,Delivered,Confirmed,on call,1398
+29911,Raj,Tinsukia,Assam,Agarwal marbles  chirwapatty  tinsukia Assam,True,Delivered,Confirmed,on call,999
+29910,Sun,Bikaner,Rajasthan,5E142JNV Colony,False,Delivered,Confirmed,Payment Link Sent,3417
+29909,Sne,Ujjain,Madhya Pradesh,1012 Naga baba ki talai nazarali marg metro cineplex ke samne,True,Delivered,Confirmed,On call,999
+29907,Swa,Mumbai,Maharashtra,old rmo hostel ltmgh sion west,False,Delivered,Confirmed,On call,950
+29906,Vis,Hyderabad,Telangana,HNO154A312FLAT NO312BLOCK NOA Sri Kalki gardensRAMAKRISHNA NAGARMADINAGUDA HYDERABAD,False,Delivered,Confirmed,On call,2049
+29905,Anu,North West Delhi,Delhi,Bp127 west shalimar bagh delhi,True,Returned,Confirmed,DPU ORDER,999
+29904,Kir,Krishnagiri,Tamil Nadu,No 5 thally road lake view garden behind vj kalyana mandapam,False,Delivered,Confirmed,Payment Link Sent,570
+29899,Van,Purnia,Bihar,Zila School Road PurniaOpposite to super computer Zila School Road,True,Delivered,Confirmed,On call,1999
+29896,Bha,South Delhi,Delhi,A64 6th floor Saket Court Residential Complex,True,Delivered,Confirmed,Mailed,3596
+29895,Anu,Hyderabad,Telangana,741110 Yashodha nagar Sagar ring road near Medicare hospital,False,Delivered,Confirmed,On call,1899
+29892,Kin,Mumbai,Maharashtra,117 Bora Bazar Street 12 Trinity Chambers Fort Near HD Corporation Mumbai,True,Delivered,Confirmed,On Call,999
+29891,San,East Delhi,Delhi,Kush 605 agrasen awas 66 ip extension patparganj,False,Delivered,Confirmed,On call,2049
+29890,Tha,Tiruchirappalli,Tamil Nadu,No7 saravana thottammahalakshmi nagar Near eb officeno1 tolgate,True,Delivered,Confirmed,DPU ORDER,599
+29889,Nee,Jammu,Jammu  Kashmir,Hno 192 goarkh nagar bahu fort jammu,True,Delivered,Confirmed,On call,999
+29888,Sam,Hyderabad,Telangana,Flat no403 Royal Residency Bldg no1228262 Beside Amba Theatre Mehdipatnam Hyderabad,True,Delivered,Confirmed,On call,3596
+29887,Gee,Cuddalore,Tamil Nadu,220  B Type2 block6 Neyveli,True,Delivered,Confirmed,On call,999
+29886,Dee,Mumbai,Maharashtra,House no 504bldg no 24 csr complexnear atharva collage,True,Delivered,Confirmed,On call,699
+29885,Sra,KVRangareddy,Telangana,Hno59524Free pujitha nilayamnear nagarjuna grammar high schoolchandhanagar Hyderabadpin500019,False,Delivered,Confirmed,On call,950
+29883,Mun,Ratnagiri,Maharashtra,Khairul Bashar appartment flat no 08 mirkarwada pethkilla ratnagiri,True,Delivered,Confirmed,On call,999
+29882,Akh,Thiruvananthapuram,Kerala,Villa padua cheriya pulligal puthenkada thirupuram po,True,Delivered,Confirmed,DPU ORDER,999
+29881,Dip,Vadodara,Gujarat,Pratap nagarnavgrh templevadodara,True,Returned,Confirmed,On call,999
+29880,Pap,Nadia,West Bengal,Sree Durga Colony Near Joty Sangha Club KrishnanagarNadia,True,Delivered,Confirmed,On call,1998
+29879,Nan,Jhansi,Uttar Pradesh,1172 shivaji nagar jhansi near by Riya beauty parlor,True,Returned,Confirmed,On call,599
+29877,Ana,North West Delhi,Delhi,B161 Ashok Vihar Phase 2 New Delhi,True,Delivered,Confirmed,On call,999
+29876,Rej,Mumbai,Maharashtra,B701 Anita Holy Cross Road IC Colony Borivali West Mumbai,False,Delivered,Confirmed,On call,3417
+29875,Ank,Thane,Maharashtra,A wing  103 Anurag villa Apartment  RNP park,True,Delivered,Confirmed,DPU ORDER,2156
+29874,Sha,Madurai,Tamil Nadu,Plot no34 vairam gardanssambakulamkpudurmadurai,True,Returned,Confirmed,Script,3596
+29873,R K,Tiruvallur,Tamil Nadu,No1541 Aringnar Anna Nagar Moolachathiram MMC Post Chennai,False,Delivered,Confirmed,On call,3417
+29872,The,Dimapur,Nagaland,7th mile chumukedima near SBI ATM,True,Returned,Confirmed,On call,599
+29871,Pal,Ghaziabad,Uttar Pradesh,SCH 69 mainmarket,True,Returned,Confirmed,Wrong Number,3596
+29869,Sum,Barpeta,Assam,Ansaiphuri chandanpur barpeta road,True,Returned,Confirmed,Script,999
+29868,Man,Coimbatore,Tamil Nadu,No 46 swarnapuri enclave 4th opp to swarna mahal15 velampalayam  Tiruppur,True,Delivered,Confirmed,On call,2156
+29867,Swe,Bangalore,Karnataka,G02 srikar panorama 3rd cross new baiyappanahalli,True,Delivered,Confirmed,On call,599
+29866,Lip,Kolkata,West Bengal,Prince anuwar shah more 9 kb lane LIC staff quarter Flat no 13,True,Delivered,Confirmed,On call,2156
+29864,Raj,New Delhi,Delhi,K2 207A gali no 2BH colony sangam vihar,True,Delivered,Confirmed,On call,999
+29863,San,Agartala,Tripura,MUSKAN ENCLAVE DWELSWAR NEAR BLULUTAD CLUB,True,Delivered,Confirmed,DPU ORDER,3596
+29861,Man,Rangareddy,Telangana,2292B101 kolan Haritha towers nizampetnear panchayati office,False,Delivered,Confirmed,On call,3417
+29860,Aru,Dehradun,Uttarakhand,Main market Jagdish Pokhriyal provisional store Bhaniyawala  Doiwala,True,Delivered,Confirmed,DPU order,999
+29858,Sri,East Godavari,Andhra Pradesh,Bigwell street arthamuru ntr statue opposite house,True,Delivered,Confirmed,On call,999
+29857,Moo,Papum Pare,Arunachal Pradesh,Padung building D sector near court street hotel Naharlagun papumpare district Arunachal Pradesh,True,Delivered,Confirmed,On call,599
+29852,Hee,Faridabad,Haryana,PB234 Ground floor BPTP Parkland pride,False,Delivered,Confirmed,On call,3417
+29851,Jay,Bangalore,Karnataka,Hno 371st floorekadanta nilaya7th main Kamdhenu layoutbnarayanapurabangalore,False,Delivered,Confirmed,On call,950
+29850,Raj,Bangalore,Karnataka,69 vaddraplaya jp nagar 8th phase gottigere post bangalore,True,Delivered,Confirmed,DPU ORDER,3596
+29849,Jai,Pune,Maharashtra,Flat no501 sovereign apt bankof baroda building kalyani nagar pune,True,Returned,Confirmed,Call Declined,2156
+29847,Sne,KVRangareddy,Telangana,402Durga towersdurga towers new hafeezpet kondapur,False,Delivered,Confirmed,On call,950
+29846,Nan,Bangalore Rural,Karnataka,No18 2nd Cross Basavaeshwara Badavane Kempapura Main Road Near S M English Medium School Chikkabanavara Bangalore   560090,True,Delivered,Confirmed,DPU ORDER,999
+29843,Pal,Rohtak,Haryana,653 Sector 1 Near Water Tank Rohtak Haryana,True,Delivered,Confirmed,On call,1999
+29841,Ais,RaigarhMH,Maharashtra,A11 sneh apartment plot no 30 sector 11 kharghar,True,Delivered,Confirmed,on call,999
+29840,Pra,West Delhi,Delhi,CO NEW WEMBLEY PRODUCTS 53A4 RAMA ROAD KIRTI NAGAR NEW DELHI,False,Delivered,Confirmed,On call,950
+29839,Sye,Bangalore,Karnataka,Villa221daadys gaarden phase2hebbagudi,True,Returned,Confirmed,Not Interested,999
+29838,Dip,Bangalore,Karnataka,Phoenix one Bangalore west tower 2 2103 10th floor rajajinagar Bangalore,True,Delivered,Confirmed,recurring,999
+29837,Aka,Surat,Gujarat,47Vishal society bhatar char rasta surat,False,Delivered,Confirmed,On call,3417
+29836,Sri,Bangalore,Karnataka,Old No 25 New No 38 Annaya Reddy Road Ulsoor Near Aavishkar Academy,False,Delivered,Confirmed,On call,3417
+29835,Imr,Latur,Maharashtra,3rd Bungalow APG Abdul Kalam chock 60 fit Road Maharashtra,True,Returned,Confirmed,pickrr,3596
+29831,Aji,Satna,Madhya Pradesh,Maa shakti traders jail Road maihar,True,Delivered,Confirmed,On call,3596
+29830,Sal,Central Delhi,Delhi,EA163 Inder Puri,False,Delivered,Confirmed,On call,700
+29829,Sur,Nalgonda,Telangana,Plot no 7 Behaind vaishno land mark apartments,True,Delivered,Confirmed,DPU ORDER,599
+29827,Dev,Mumbai,Maharashtra,304 Building No1 Mahadewachi Wadi G D Ambekar Marg Parel VillageParel Mumbai Maharashtra,True,Delivered,Confirmed,On call,999
+29826,Ash,Bangalore,Karnataka,522 3rd Floor 9th Main5th CRS Putenhalli JP Nagar 7th Phase Banglore Karnataka,False,Delivered,Confirmed,On call,3417
+29824,Gau,West Delhi,Delhi,B175 SECOND FLOOR PASHIM VIHARNEW DELHI,False,Delivered,Confirmed,On call,1291
+29823,Hee,Ahmedabad,Gujarat,W403 swagat afford beside akshat icon Behind  McDonalds sargasan circle,True,Returned,Confirmed,DPU ORDER,2156
+29822,Vis,Kottayam,Kerala,Near sb college changanacherry ara46,False,Delivered,Confirmed,Payment Link Sent,722
+29821,Sam,Nalgonda,Telangana,5_9_274 HyderkhangudaNear osmania masjid Afzal nagar Road no2Nalgonda,True,Delivered,Confirmed,cod,950
+29820,Cat,Aizawl,Mizoram,Temple road vaivakawn near timo opticals,True,Delivered,Confirmed,On call,999
+29818,Pri,South Goa,Goa,385 Mauli Residency NR Shaikh General StoreAmbaji Fatorda Margao Goa,True,Delivered,Confirmed,On call,3596
+29816,Khu,Ahmedabad,Gujarat,38 saraswati society Odhav,True,Delivered,Confirmed,On call,999
+29815,Ren,Warangal,Telangana,211193 KU cross roads Warangal,False,Delivered,Confirmed,On call,3417
+29813,Man,Medak,Telangana,718 near kaman siddipet Telangana,False,Delivered,Confirmed,On call,2049
+29812,Sha,Pune,Maharashtra,Konark Aditya housing society 15 National Highwayf 9 flat number 23Solapur Bazar Camp,True,Delivered,Confirmed,On call,999
+29811,Ish,East Delhi,Delhi,556 jheel near geeta colony police station,True,Delivered,Confirmed,On call,999
+29807,Raz,East Godavari,Andhra Pradesh,699Bveera vari merakanear ramalayam templeaddalapalamsakhinetipalliegdist,True,Delivered,Confirmed,On call,999
+29806,Gar,South West Delhi,Delhi,A 822 C  ground floor  Vasant Vihar New delhi,True,Delivered,Confirmed,On call,3596
+29805,Man,East Midnapore,West Bengal,Sukh samridhi apartment HPL Link road,False,Delivered,Confirmed,On call,950
+29804,Anu,Kanchipuram,Tamil Nadu,D2Ramdas nagar 1st main road,True,Returned,Confirmed,Will order later,2156
+29797,Sri,Visakhapatnam,Andhra Pradesh,Flat no 503 srinivasa chambers opp kgh op gate maharanipeta Visakhapatnam,True,Returned,Confirmed,On call,599
+29796,War,Central Delhi,Delhi,3156 kucha Tara Chand Tirahe behrm khan new Delhi 2,True,Delivered,Confirmed,On call,1998
+29795,Rub,Hyderabad,Telangana,Flat 101 Apex Residency  anandnagar Colony,True,Delivered,Confirmed,On call,3596
+29794,Cam,Mumbai,Maharashtra,Balaji Business Park 4 Sir Mathuradas Vasanji Road Marol Andheri East,True,Delivered,Confirmed,DPU ORDER,2156
+29793,Dee,Kanpur Nagar,Uttar Pradesh,2a236 flat no302 3rd floor,True,Returned,Confirmed,Ordered for someone else,3596
+29792,Shr,Hyderabad,Telangana,302 flatno poojitha nexus road no8 pjr layout chandanagarHyderabad r,True,Delivered,Confirmed,On call,759
+29790,San,North Delhi,Delhi,b1019 avantika rohini sector1,False,Delivered,Confirmed,On call,570
+29789,Kra,Hyderabad,Telangana,1611511D254 SBI OFFICERS COLONY MOOSARAMBAGH HYDERABAD TELANGANA,False,Delivered,Confirmed,On call,3417
+29788,Sim,Bangalore,Karnataka,MC1003 Shapoorji Pallonji Parkwest Magadi Road Bangalore,False,Delivered,Confirmed,On call,3417
+29787,Pin,Pune,Maharashtra,Padmavati height flat no201 keshavnagar near old orbis school,True,Delivered,Confirmed,DPU ORDER,999
+29786,Vin,Bangalore,Karnataka,418 F block sahakar nagar Bangalore,False,Delivered,Confirmed,On call,950
+29785,Aru,Bangalore,Karnataka,No543rd cross Ramachandra layout,True,Delivered,Confirmed,Script,3596
+29784,Rak,Ghaziabad,Uttar Pradesh,FLAT F1  PLOT NO 10 A  11  VASUNDHARA SEC 10 AGHAZIABAD  UP ,True,Delivered,Confirmed,Script,3596
+29781,Gre,Palakkad,Kerala,Mayamurali vellanthara lane chittur palakkad,False,Delivered,Confirmed,On call,950
+29779,Adi,Golaghat,Assam,Dergaon chariali near raju opticals,True,Returned,Confirmed,CB SAT,2716
+29778,Abe,Imphal West,Manipur,SAYANG KURAOMAKHONG NEAR SambanLei Sekpil IMPHAL WEST MANIPUR,True,Returned,Confirmed,DPU order,999
+29777,Swa,Ghaziabad,Uttar Pradesh,Flat G1 Plot S13 Dayanand Park Shalimar Garden Extension 1 Sahibabad,True,Delivered,Confirmed,On call,599
+29776,Rac,RaigarhMH,Maharashtra,102laukik ApartmentBehind India delight Restaurant prabhat colony mahad districtRaigad Maharashtra,True,Delivered,Confirmed,DPU ORDER,999
+29775,May,Mumbai,Maharashtra,403A Vasant vihar complexDrCGRoad Chembur Mumbai,True,Delivered,Confirmed,On call,999
+29773,Dr,Dibrugarh,Assam,Circuit house road gangapara near Sagar Smriti bidya Mandir,False,Delivered,Confirmed,On call,760
+29772,Ais,Amravati,Maharashtra,Room No47 Intern Hostel Dr Panjabrao Deshmukh Memorial Medical College Panchvati Square Morshi Rd Amravati Maharashtra,True,Returned,Confirmed,pickrr,3596
+29771,Nis,Ramanathapuram,Tamil Nadu,52near sun shine mahalpattinamkathanramanathapuram,True,Delivered,Confirmed,Script,998
+29770,Dr,Surat,Gujarat,11 goverdhan park row house opp Anjani heights near Vrindavan sco Jahangirpura Surat,True,Delivered,Confirmed,On call,999
+29767,Cha,Gautam Buddha Nagar,Uttar Pradesh,Building no 751  shaberi near modren public school greater noidau p,True,Returned,Confirmed,Customer Refused,999
+29766,Lok,Lower Subansiri,Arunachal Pradesh,E117  chimpu  Itanagar Arunachal Pradesh,True,Delivered,Confirmed,Script,2156
+29765,Adi,Pune,Maharashtra,c2d 605 pride world city charoli bk via lohegaon pune,False,Delivered,Confirmed,On call,2049
+29764,Aks,Thane,Maharashtra,1B 501 Dhavalgiri Siddhachal Phase 1 Near Vasant Vihar Off Pokhran Road 2 Thane West,False,Delivered,Confirmed,On call,1899
+29763,Aks,Bangalore,Karnataka,5th Main 6th Cross Jc Nagar Kurubharahalli,True,Delivered,Confirmed,On call,999
+29762,Kun,North Delhi,Delhi,A15 Tulsi Apartment sector 14 Rohini New Delhi,False,Delivered,Confirmed,On call,570
+29761,Sar,Bhiwani,Haryana,Sec 13 house no 1705 bhim stadiums  Bhiwani  haryana,True,Delivered,Confirmed,DPU ORDER,999
+29760,Swe,Kolar,Karnataka,Anthargange main road keelukote kolar,True,Returned,Confirmed,Script,599
+29759,Kam,Amritsar,Punjab,10 Rishi vihar majitha road,True,Delivered,Confirmed,on call,599
+29758,Kam,Amritsar,Punjab,10 Rishi vihar majitha road,True,Delivered,Confirmed,on call,999
+29757,Rim,Jaipur,Rajasthan,J 10 sukhijeevan Apartment Near jai mahal Palace jacob Road Ajmer,True,Returned,Confirmed,DPU ORDER,999
+29756,Par,North West Delhi,Delhi,House No 284 first floor kohat enclavePitampura,True,Returned,Confirmed,CB TUE,3596
+29755,Neh,East Sikkim,Sikkim,near petrol pump Rangpo east sikkim,True,Delivered,Confirmed,On call,3596
+29754,Nis,Mandya,Karnataka,De Paul Degree CollegeAvverahalli,False,Delivered,Confirmed,On call,570
+29752,Ama,West Delhi,Delhi,11367 top floor sunder vihar paschim vihar,True,Delivered,Confirmed,DPU order,999
+29748,Nup,Howrah,West Bengal,91A1 Dinonath Ghosh Street Belurmath Howrah,True,Delivered,Confirmed,DPU order,999
+29744,Ame,Thane,Maharashtra,C1302 spring valley puranik city kasarwadavli ghodbunder road Thane West,True,Delivered,Confirmed,On call,759
+29743,Kay,Navsari,Gujarat,Sai sadan gulab vatika societyvansdaDistNavsari,True,Delivered,Confirmed,on call,1999
+29740,Swa,RaigarhMH,Maharashtra,B 1105B WINGRAVECHI Heights KHARGHAR,False,Delivered,Confirmed,On call,570
+29738,Ana,Bangalore,Karnataka,5 casaba mansion 5th floor 1st left JC Road near Minerva circle Next to hotel raaj Residency,False,Delivered,Confirmed,On call,950
+29736,Man,Jalandhar,Punjab,villgae Kadianwali near jalandhar heights 2,True,Delivered,Confirmed,on call,999
+29735,Ami,South West Delhi,Delhi,248 satnam farms westend marg saidullazaib,True,Delivered,Confirmed,on call,2156
+29733,Pra,Ahmed Nagar,Maharashtra,Ashirvaad nagar PPS Road near smb complex  loni,True,Delivered,Confirmed,on call,3596
+29732,Pix,Sibsagar,Assam,ONGC Out Colony Nazira Qtr no  B61,False,Delivered,Confirmed,On call,950
+29731,Gur,Udham Singh Nagar,Uttarakhand,Disha Public School Near Yadav Dharmkanta,True,Delivered,Confirmed,On call,999
+29730,Dol,South Delhi,Delhi,E1001 ground floor CR Park,False,Delivered,Confirmed,paid,3417
+29729,Lee,Bangalore,Karnataka,No 26 2nd main gangaiyamma temple Street road A narayanapura bangalore,False,Delivered,Confirmed,On call,3417
+29726,Ben,Mumbai,Maharashtra,Angel Land Road Number 26 Sahakar Nagar Wadala,True,Delivered,Confirmed,on call,999
+29725,Ish,Kanchipuram,Tamil Nadu,Ruby residency s122 chandran nagar irumbuliyur,True,Delivered,Confirmed,DPU order,599
+29724,Aks,Chennai,Tamil Nadu,127A Bricklin Road Pursaiwakkam Flat No7172 TVH Lumbini square APARTMENTS,True,Delivered,Confirmed,On call,3596
+29721,Aru,Virudhunagar,Tamil Nadu,Chatrapatti IOB bank virudhunagar district tamip nadu  626117,True,Returned,Confirmed,CB,1998
+29720,Sup,North 24 Parganas,West Bengal,Newtown Uniworld city Garden Tower 1 flat no 1003,True,Delivered,Confirmed,DPU ORDER,999
+29719,Sne,Latur,Maharashtra,Pg  hostel VDGIMS LATUR,False,Delivered,Confirmed,On call,3417
+29718,Dim,Haridwar,Uttarakhand,Hno211near railway road jwalapur,True,Delivered,Confirmed,on call,699
+29717,Ana,Tuticorin,Tamil Nadu,Address Ananthi 15719 palai roadnear murugan temple ArchDhanalakshmi nagar kumarapuramTiruchendur628215 Landmark kumarapuram Aarchi leftside  road,False,Delivered,Confirmed,On call,950
+29716,Kom,Bangalore,Karnataka,H202 Mantri Espana Bellandur Bangalore,False,Delivered,Confirmed,On call,950
+29715,Min,South Delhi,Delhi,4295 Govindpuri kalkaji new Delhi,True,Delivered,Confirmed,on call,599
+29714,Poo,Gurgaon,Haryana,Golflink Apt 1201 near AIT Chowk  Sector 54 Gurgaon,False,Delivered,Confirmed,On call,3417
+29712,Bha,Mumbai,Maharashtra,Avantika CHS RBI parallel Road 2 Dattapada Near Welcome Hotel Rajendra Nagar Borivali East,False,Delivered,Confirmed,On call,2049
+29711,Rat,Tiruchirappalli,Tamil Nadu,T2 sign residency 1598 evr road puthurtruchy3,True,Delivered,Confirmed,Insta,3596
+29710,Sat,West Tripura,Tripura,Ramthakur road opposite to udiyaman sangha,True,Delivered,Confirmed,On call,759
+29709,Kot,Ganjam,Odisha,401 Gautam Kalyani apartmentjoura streetnearkhaspa streetBerhampurOrissa,True,Delivered,Confirmed,On call,759
+29708,Ish,Chandrapur,Maharashtra,Ishrat Rahil Sheikh Behind rajasthan soap factory ghutkala ward chandrapur,False,Delivered,Confirmed,On call,1707
+29706,Val,South Goa,Goa,174C St Minguel Vado A Dramapur,True,Delivered,Confirmed,on call,3596
+29704,Ch,Hyderabad,Telangana,Flot no302 saitowers 4th floor above tipsy topsy bakeryvijaya dianostic center lane,True,Delivered,Confirmed,DPU order,599
+29701,Naz,Navsari,Gujarat,1st floor hashmi complexjawahar road,True,Returned,Confirmed,Not Interested,999
+29699,Shr,Kanchipuram,Tamil Nadu,8CF2 Muraliram Srinivas flat Ramalingam street,True,Delivered,Confirmed,DPU order,699
+29696,Neh,Kolkata,West Bengal,81A DIAMOND HARBOR ROAD Shanti vihar colony,True,Delivered,Confirmed,Script,999
+29695,Suk,Pune,Maharashtra,Morya park lane no 4 morya residensy 3rd floor flat no 301 pimplegurav pune,True,Delivered,Confirmed,Script,599
+29693,Mha,Dimapur,Nagaland,Sovima Near Nagaland Cricket stadium,True,Delivered,Confirmed,On call,3596
+29688,Rup,Mumbai,Maharashtra,Plot no145 chetan villa garodia nagar bwing 104 ghatkopar east,True,Delivered,Confirmed,Script,3596
+29686,Sun,Bangalore,Karnataka,No 924 Lloyd road Cooke Town Bangalore,True,Delivered,Confirmed,On call,999
+29685,Ilm,Saharanpur,Uttar Pradesh,court road khemka sadan road saharanpur,True,Returned,Confirmed,confirm on whatsapp,599
+29684,Kis,Chennai,Tamil Nadu,NO262 narayappan naicken street old washermenpet Chennai,True,Returned,Confirmed,On call,999
+29683,Rit,Gurgaon,Haryana,1119 11th Floor JMD megapolis  Sector48 Gurgaon,False,Delivered,Confirmed,On call,570
+29682,Sne,Mumbai,Maharashtra,Anglo Eastern Ship Management303 Leela Business ParkAndheri Kurla Road Andheri East Mumbai,True,Delivered,Confirmed,DPU order,3596
+29681,Moh,Ghaziabad,Uttar Pradesh,Flat no I2002 kw shrishti raj nagar extension Ghaziabad,True,Returned,Confirmed,DPU ORDER,3596
+29679,Tha,Imphal East,Manipur,138 KHURAI THANGJAM LEIKAI  COMMUNITY HALLPOROMPAT IMPHAL EAST,True,Returned,Confirmed,On call,1996
+29676,And,Hyderabad,Telangana,Flat No 205 Sai Darshan Apartments Opposite C K Gardens VeeraReddy Nagar Nacharam Hyderabad Telengana,True,Delivered,Confirmed,On call,3596
+29675,Tot,Papum Pare,Arunachal Pradesh,Directorate of agriculture naharlagun Dsector,True,Delivered,Confirmed,On call,999
+29674,Har,Mumbai,Maharashtra,802 Raj Heritage Tower Laxman Mhatre road OPP Mary Immaculate school Borivali West,True,Delivered,Confirmed,Confirm on whatsapp,759
+29673,Meg,Bangalore,Karnataka,151 3rd floor Laxmi sympbiosis apartment laxmi main road shantinagar Bangalore 560027,True,Delivered,Confirmed,On call,3596
+29672,Tan,Ghaziabad,Uttar Pradesh,1503 s1 Cloud 9 Appartments vaishali sector1,True,Delivered,Confirmed,Script,599
+29671,Man,East Delhi,Delhi,D96 preet vihar near durga mandir,True,Delivered,Confirmed,DPU order,599
+29670,Vij,Jalandhar,Punjab,Ramamandi  main bazar  near city complex jalandhar,True,Delivered,Confirmed,On call,3596
+29669,Art,Thane,Maharashtra,A102 Mayur Nagar bldg Manvel pada road virar east,True,Delivered,Confirmed,On call,999
+29668,Lar,South Goa,Goa,House no149 near Fatima chapel xelvona bagg curchorem south goa,True,Delivered,Confirmed,On call,999
+29666,Aya,East Delhi,Delhi,F193 3rd floor laxmi nagar Chaudhary niwas,True,Delivered,Confirmed,On call,999
+29664,Pri,Patna,Bihar,Co Nathun Singh road no 5 Jai Mahaveer colony bazaar samiti Sandalpur,True,Delivered,Confirmed,On call,599
+29659,Nee,Jalandhar,Punjab,7 ganesh nagar basti nau near post,True,Delivered,Confirmed,Script,999
+29658,Man,Pune,Maharashtra,Ajmera Housing society,True,Delivered,Confirmed,On call,999
+29656,Ars,Mumbai,Maharashtra,Aquagem towers tower 1,True,Delivered,Confirmed,On call,599
+29654,Bab,East Delhi,Delhi,D 17 preet Vihar Delhi,True,Delivered,Confirmed,on call,3596
+29652,Ban,Panch Mahals,Gujarat,E 86 Anand Nagar science College road godhra,False,Delivered,Confirmed,On call,950
+29648,Mah,Junagadh,Gujarat,Mahadev Industries nr Saibaba Mandir Dari road VERAVAL,True,Returned,Confirmed,Not Interested,999
+29647,Anf,Srinagar,Jammu  Kashmir,House no1 stadium colonybudshah nagar Natipora sringar Kashmir,True,Delivered,Confirmed,Script,2156
+29646,Dr,Kasargod,Kerala,Kuttikkol kerala,False,Delivered,Confirmed,On call,950
+29644,Ric,East Khasi Hills,Meghalaya,Mawlai Syllaikariah Block 4 Pdengshnong,True,Delivered,Confirmed,On call,599
+29643,Ash,Raipur,Chattisgarh,Satyam vihar colony  street no 5 near pandey dairy  Raipura   Raipur,False,Delivered,Confirmed,On call,1329
+29639,Gau,Ludhiana,Punjab,185 E Block,True,Delivered,Confirmed,On call,759
+29638,Kai,Mumbai,Maharashtra,Ashiyana apartment 6th floor room no 606 bandra East station rood,True,Delivered,Confirmed,on call,3596
+29637,She,Pune,Maharashtra,Madhusudan housing society flat no 32 A wing Bibwewadi,True,Delivered,Confirmed,DPU order,999
+29636,Swa,Bangalore,Karnataka,A407 Kethana Orchids Silver spring layout Munekollal Bengaluru Karnataka,False,Delivered,Confirmed,On call,950
+29635,Kiv,Dimapur,Nagaland,Lhomithi village near honili memorial hr sec school,True,Delivered,Confirmed,Previous Order InTransit,2716
+29634,Nee,South West Delhi,Delhi,Flat no152 Celestial Heights aptsec 2 plot no1 a,True,Delivered,Confirmed,DPU order,999
+29633,Ast,Raipur,Chattisgarh,B59 wallfort city bhatagaon raipur,True,Delivered,Confirmed,on call,699
+29632,Sri,Kurnool,Andhra Pradesh,461L5 Montessori High school,True,Delivered,Confirmed,Script,999
+29631,Vam,Hyderabad,Telangana,53174 Goshamahal police ground,True,Delivered,Confirmed,On call,999
+29630,Arp,Lucknow,Uttar Pradesh,356SB253 Sheela Garden Brij Vihar Alamnagar Landmark  Muneshwar Mahadev Temple,False,Delivered,Confirmed,On call,3416
+29629,Kri,Chennai,Tamil Nadu,145 vannanthurai ellaiamman koil street Shastri Nagar Adyar Chennai,False,Delivered,Confirmed,On call,950
+29628,Bru,North Goa,Goa,House No 536 Cardozo Beach House Calangute Maddo Vaddo Bardez Goa,False,Delivered,Confirmed,On call,950
+29627,Alv,Kamrup,Assam,333 Manu saikia next to global gym borbari Assam  Guwahati,True,Delivered,Confirmed,On call,599
+29626,Sak,Bangalore,Karnataka,2469 10th main D block 2nd stage rajajinagar Bangalore,True,Delivered,Confirmed,On call,999
+29625,Jig,Patan,Gujarat,89 vrajdham 1 bh payal parkcanal road,True,Delivered,Confirmed,on call,599
+29624,Ash,Kamrup,Assam,3073rd floor Kamakhya Tower Christian Basti Guwahati,False,Delivered,Confirmed,Payment Link Sent,3417
+29623,Ani,Kolkata,West Bengal,175 MNK Road southGokul Baby Bazar Kolkata,True,Delivered,Confirmed,On call,759
+29622,Kee,Hyderabad,Telangana,Plotno 44Dharmapuri colonyUppalHyderabad,True,Delivered,Confirmed,On call,599
+29621,Kaw,East Delhi,Delhi,351 gali no 6 durgapuri extension shahdra,True,Delivered,Confirmed,Script,999
+29619,Ami,Mumbai,Maharashtra,A304 Shubham CHS LTD Charkop Nr Ganesh Chowk Bh Divya Gunjan Tower Kandivali West,False,Delivered,Confirmed,On call,570
+29618,Dee,Ernakulam,Kerala,2nd floor Neha park apartment Janatha road vytilla,True,Delivered,Confirmed,On call,3596
+29617,Riy,Kolkata,West Bengal,5 BiproDas street Shanti Villa Garpara road,True,Delivered,Confirmed,On call,2156
+29613,Mai,Khorda,Odisha,Plot no 3851855 Daman chakk Bhubaneswar Odisha,False,Delivered,Confirmed,On call,950
+29608,Sej,Kamrup,Assam,3rd floor Dwarkadhish Apartment Under athgaon flyover near GST bhawan AT Road Guwahati Assam,True,Delivered,Confirmed,On call,599
+29607,Neh,Ranchi,Jharkhand,Flat no3A shree durga place apartment near gokul dhaam society morabaadi ranchi,True,Delivered,Confirmed,on call,999
+29606,San,Mumbai,Maharashtra,B103 magnum opus  opposite nana nani park  7 bungalow Versova Andheri West,False,Delivered,Confirmed,On call,1139
+29605,Ayu,Kaushambi,Uttar Pradesh,51E1 Shakuntala kunj ponghat pul mundera,True,Returned,Confirmed,Will order again later,1518
+29604,Aas,Patna,Bihar,Arcade Business College Rajendra nagar  Patna  Bihar,True,Returned,Confirmed,CB,3596
+29602,Sho,Bangalore,Karnataka,3rd floor Sri sai govindam Cambridge garden,False,Delivered,Confirmed,On call,722
+29601,Ana,North 24 Parganas,West Bengal,BLOCK 3 FLAT NO 3D CLUBTOWN COURTYARD GOURANGANAGAR91 ADARSHAPALLY ROAD,False,Delivered,Confirmed,On call,3417
+29600,Shi,Bangalore,Karnataka,No81 New no 19 1st A cross Anubhavanagar  Moodalapalya  Nagarbhavi main road Bengaluru Karnataka,True,Delivered,Confirmed,On call,3596
+29599,Huv,Ernakulam,Kerala,Studio maxxo sunrise tower Keerthi nagar elamakkara  ernakulam kerala,True,Delivered,Confirmed,Script,2156
+29596,Lal,Ernakulam,Kerala,Tprra103thamburatiparambh roadedapallyernakulam,False,Delivered,Confirmed,On call,3417
+29594,Kri,Pune,Maharashtra,20 Hermes grand stand behind empress garden  sopaun baug,False,Delivered,Converted,paid,2049
+29591,Poo,Jaipur,Rajasthan,Murli tower main Market kirenwal,True,Delivered,Confirmed,Script,999
+29590,Tha,Kozhikode,Kerala,Landmarks world Entasis 5C thandayad bypass,False,Delivered,Confirmed,On call,3417
+29587,Tar,Jammu,Jammu  Kashmir,shop no 2 billu di hatti residency road jammu,True,Delivered,Confirmed,On call,999
+29586,Kun,Jharsuguda,Odisha,Infront of talpatiaa highschool talpatiaa Jharsugudaorissa,False,Delivered,Confirmed,On call,950
+29585,Unn,Nagpur,Maharashtra,51naik talav road behind police chowki near agrawal clinic nagpur,False,Delivered,Confirmed,On call,950
+29582,Anu,Kollam,Kerala,Sreesayammavelimanayilpopanmanachavarakollam,True,Delivered,Confirmed,Confirm on whatsapp,999
+29580,Tam,Namakkal,Tamil Nadu,SND road opp VV Mahal Tiruchengode,True,Returned,Confirmed,DPU 2,999
+29579,Jiy,East Delhi,Delhi,68A JExtension Street No 6 Kali Mandir Gali  laxmi Nagar,False,Delivered,Confirmed,On call,3417
+29577,Suh,Jammu,Jammu  Kashmir,House no 491 Baba lal ji Gali Jain bazar Jammu,True,Returned,Confirmed,Customer Refused,3596
+29576,Sha,Udupi,Karnataka,Ma mansion koteroad koppalangadi kaup,True,Delivered,Confirmed,confirm on whatsapp,2156
+29572,Sab,Mumbai,Maharashtra,B103Royal GardenAbove DominosSVRoadJogeshwari WestMumbai,True,Delivered,Confirmed,Script,999
+29571,Poo,Mumbai,Maharashtra,Oberoi Esquire Tower A Yashodham Goregaon,True,Delivered,Confirmed,On call,599
+29570,Ami,Mumbai,Maharashtra,B404 baag e rehmat souter street agripada mumbai,True,Delivered,Confirmed,On call,999
+29569,Gul,Shimla,Himachal Pradesh,Krishna Cottage Near New Diamond Sweets  Restaurant Chajjta Heights North Oak Sanjauli Shimla Himachal Pradesh,True,Returned,Confirmed,Customer Refused,599
+29568,Sai,Mahabub Nagar,Telangana,Phrm degree collegetirumala talkisraichur roadmahabunnagar,True,Delivered,Confirmed,Script,3596
+29567,Tah,Anand,Gujarat,Dennys Cafe Gujarati Chowk Polson Dairy Rd Ganesh Chokdi Sardar Ganj Anand Gujarat 388001,True,Returned,Confirmed,DPU ORDER,999
+29564,Dr,Kanchipuram,Tamil Nadu,shri Sathya Sai medical college Thiruporur guduvancherry main roadAmmapettaiChengalpattu talukKancheepuram districtNellikuppamTamilnadu,False,Delivered,Confirmed,On call,3417
+29563,San,Sagar,Madhya Pradesh,street no2 word no10,True,Delivered,Confirmed,On call,599
+29562,San,Belgaum,Karnataka,1317 mig S R Circle,True,Returned,Confirmed,DPU ORDER,999
+29558,Nes,Tiruvallur,Tamil Nadu,Opptopafootwear companysiddharaja Kandigai roadGummidipoondithiruvallur,False,Delivered,Confirmed,On call,3417
+29557,V R,Visakhapatnam,Andhra Pradesh,Door no 211272 prasadnagar pendhurthi,False,Delivered,Confirmed,On call,3417
+29556,Shr,Amritsar,Punjab,HNO21 ROOP NAGAR DHOBIGHAT GATEHAKIMAN NEAR AIRTEL OFFICE,False,Delivered,Converted,paid,3417
+29554,Sar,Nashik,Maharashtra,Flat no E01 mayurshwar appartment ashat vinyak colony  ashok nagar satpur nashik,False,Delivered,Confirmed,Payment Link Sent,3417
+29552,BP,Hyderabad,Telangana,Msr womens pg hostel kukatpally 6th phase kotak bank opposite street Hyderabad telangana,False,Delivered,Confirmed,On call,950
+29548,Res,Mumbai,Maharashtra,Zohra ManziRno 6A2 floor Naupada Bandra EastNear noor ala noor masjid,True,Delivered,Confirmed,Script,999
+29545,Ama,Mumbai,Maharashtra,549 sector 8b,False,Delivered,Confirmed,On call,569
+29542,Ira,Jammu,Jammu  Kashmir,House no 286 ustad mohalla    kachi chawani Jammu  Landmark choti masjid,False,Delivered,Converted,PAID,2049
+29541,Gay,Kanchipuram,Tamil Nadu,Plot no4 raja rathnam nagar extn iyyapanthangal,True,Returned,Confirmed,Do Not Want,999
+29540,Man,Mumbai,Maharashtra,A 24 Mahindra Park Narayan Nagar LBS Road Ghatkopar west,False,Delivered,Confirmed,On call,1291
+29538,Sri,Bangalore,Karnataka,111 8TH CROSS MALLESHWARAM BANGALORE,True,Delivered,Confirmed,on call,999
+29537,Bha,Krishna,Andhra Pradesh,401 4th floor Nataraj Paradise OPP buddhavari temple brahmin street,True,Delivered,Confirmed,On call,999
+29534,Chi,Pune,Maharashtra,BB 22 Swapnashilp Society Ganesh Nagar Erandwane Pune,True,Delivered,Confirmed,On call,999
+29533,Div,Kanchipuram,Tamil Nadu,311st main road Lakshmi puram extn West TambaramChennai,True,Delivered,Confirmed,DPU ORDER,999
+29532,Gud,West Delhi,Delhi,H117rama park,True,Returned,Confirmed,Delivered,3596
+29530,Roc,Dakshina Kannada,Karnataka,2172 bajav post katipalla,True,Delivered,Confirmed,On call,3596
+29529,Pad,Hyderabad,Telangana,Saibaba temple samathanagar,True,Returned,Confirmed,CB,3596
+29527,Ran,KVRangareddy,Telangana,552261201 Rainbow pride Apartments Prashanth nagar vanasthalipuram hydarabaad,True,Delivered,Confirmed,On call,3596
+29521,Anu,Bangalore,Karnataka,Buddhimed technologies 10th Floor RMZ Latitude Commercial Building Bellary Rd Hebbal Bengaluru Karnataka 560024,False,Delivered,Confirmed,On call,950
+29519,Pri,North Goa,Goa,A5 Villa Eva apartments siolim mapusa,False,Delivered,Confirmed,On call,1899
+29517,Pre,Mumbai,Maharashtra,G604 Octacrest apartments lokhanwala township Kandivali east,False,Delivered,Confirmed,On call,570
+29516,Dr,Gwalior,Madhya Pradesh,B48 flat noG1 Ashok Vihar colonytansen Nagar,False,Delivered,Confirmed,On call,3416
+29515,Ish,Chittorgarh,Rajasthan,A301 Inani Residency Sukh Shanti Nagar Bhilwara Road Chittorgarh Rajasthan,False,Delivered,Confirmed,On call,456
+29514,Gou,Udhampur,Jammu  Kashmir,Co yougal sons ward no 2 near raj theatre dhar road udhampur,True,Delivered,Confirmed,On call,799
+29512,Pan,Nashik,Maharashtra,Sai Harsh Avenue Flat No14 Dhruv Nagar Satpur,True,Returned,Confirmed,Do Not Want,3596
+29511,Pri,Patna,Bihar,Rajiv  nagar  road  no  23 patna,True,Delivered,Confirmed,On call,999
+29509,Shr,Bangalore,Karnataka,house no 561 flat 101 7th Main 4th Cross ITI Layout HSR Sec 7 Bengaluru,True,Delivered,Confirmed,On call,3596
+29507,Man,Gurgaon,Haryana,Crpf camp kadherpurGurgaon bondsi jail gate no 2,True,Delivered,Confirmed,DPU ORDER,599
+29506,Sud,North 24 Parganas,West Bengal,Chandparanear petrol pump,True,Delivered,Confirmed,Script,999
+29504,Nar,Medak,Telangana,1282 akkalabasti,True,Delivered,Confirmed,On call,599
+29502,Dia,East Khasi Hills,Meghalaya,Meghalaya__ Shillong _wahingdoh block 2 behind christian Academy nursery school shillong,True,Delivered,Confirmed,Confirm on whatsapp,999
+29501,Mal,Hyderabad,Telangana,PBEL City Tower A flat number 1208,True,Delivered,Confirmed,DPU ORDER,599
+29499,Kho,Jamnagar,Gujarat,A 13 IOCL Colony Vadinar,False,Delivered,Confirmed,On call,760
+29497,Sha,Bangalore,Karnataka,140A 18th A Main Sector 3 HSR Layout Bangalore,False,Delivered,Confirmed,On call,3417
+29496,Myt,Chennai,Tamil Nadu,No311 Thirunagar 5th Street Vadapalani,False,Delivered,Converted,paid,3417
+29495,Ris,Mumbai,Maharashtra,jj colonyGwing5th floorroom no504behind mtnlreclamation roadbandrawestmumbai,True,Delivered,Confirmed,DPU ORDER,599
+29494,Sab,Bangalore,Karnataka,Flat 6 2nd floor sh layout kavalbysandra,True,Returned,Confirmed,DPU 2,3596
+29493,Var,Bangalore,Karnataka,11991 Shri shiva Parvathi nilaya,True,Returned,Confirmed,DPU ORDER,999
+29492,Khu,Gonda,Uttar Pradesh,1010awas Vikas colony gonda,True,Delivered,Confirmed,On call,759
+29491,Ash,Chandigarh,Chandigarh,Plot no 14 Aeren building it park,True,Delivered,Confirmed,On call,999
+29489,Dip,RaigarhMH,Maharashtra,Room no 101 Aavishkar castle plot no 26 sector 10E Roadpali road Kalamboli Navi Mumbai,True,Delivered,Confirmed,Script,999
+29488,Swa,Ganjam,Odisha,209 Reliance petrol pump Raja Rani Dream in Homes,True,Returned,Confirmed,Not in the town,999
+29486,Poo,Mumbai,Maharashtra,B146 Asmita Jyoti CHS ltdMalad West,True,Delivered,Confirmed,DPU ORDER,3596
+29484,Ank,Kamrup,Assam,ojapara guwahati 781017 National Highway 37 Azara,True,Delivered,Confirmed,Confirm on whatsapp,999
+29483,Arp,East Champaran,Bihar,Bahurani kirana store,True,Delivered,Confirmed,On call,3596
+29481,Vis,Thane,Maharashtra,Dev Darshan phase 2 B3  402 Waghbil Naka Ghodbunder road Thane west,True,Delivered,Confirmed,DPU ORDER,599
+29480,Vin,West Delhi,Delhi,Pastry palace outer ring road,True,Returned,Confirmed,On call,599
+29479,Som,North 24 Parganas,West Bengal,BE37 Ground floor Rabindra Pally PO Prafulla Kanan Kestopur Kolkata,False,Delivered,Confirmed,On call,2049
+29478,Pra,Kendrapara,Odisha,Khandasahi Tilottamadeipur Near Pani dokan Kendrapara,True,Returned,Confirmed,On call,599
+29477,Ama,Dharwad,Karnataka,Swastik Electric Company Koli Peth Ganesh Peth behind Maratha Galli Hubli Karnataka 580020,False,Delivered,Confirmed,On call,3417
+29473,Nir,Ahmedabad,Gujarat,9th floor M803 Shilalekh Shahibaugh Ahmedabadabad,False,Delivered,Confirmed,On call,950
+29472,Mel,Papum Pare,Arunachal Pradesh,Naharlagun forest colony g extension,True,Returned,Confirmed,Ordered for someone else,759
+29471,SG,Kanchipuram,Tamil Nadu,No719g karumariamman Kovil Street achukattu vinayagapuran vellore road kanchipuram,True,Returned,Confirmed,DPU 2,999
+29469,Kaj,Pune,Maharashtra,C1 401 Kingsbury Pride world city charoli bhudruk pune,True,Delivered,Confirmed,On call,999
+29468,Nit,Thane,Maharashtra,A1SWAPNEK CHSPLOT NO06SECTOR14VASHINAVIMUMBAI,True,Delivered,Confirmed,Script,3596
+29466,Riy,Thane,Maharashtra,Wing 7 flat no 904 Lodha Amara kolshet road  kolshet Thane West,True,Delivered,Confirmed,DPU ORDER,999
+29464,Sak,Ghaziabad,Uttar Pradesh,160 Prakash Nagar,True,Delivered,Confirmed,On call,3596
+29463,Rat,Bangalore,Karnataka,471 2nd Main Road Defence Colony Indiranagar,False,Delivered,Confirmed,On call,3417
+29462,Dr,Patna,Bihar,Kasturba pg girls doctor hostel pmch gate no 1 near enquiry counter ashore rajpath patna,True,Returned,Confirmed,DPU ORDER,599
+29461,Fat,Mumbai,Maharashtra,202 almas apartment opposite dlh near madina manzil goregaon west,True,Returned,Confirmed,DPU ORDER,999
+29460,Var,Thane,Maharashtra,Bld no 71803vasant lawns near Jupiter hospital thane west,True,Delivered,Confirmed,On call,999
+29459,Joe,KVRangareddy,Telangana,1091 Kammaguda Village Nadergul Post Beside Sphoorthy Engineering College,True,Returned,Confirmed,On Call,3596
+29458,Arp,Mumbai,Maharashtra,1020 Mahavir building nsroad no 6 Juhu sceam opp Maharashtra bank  Vile Parle West,True,Delivered,Confirmed,On call,999
+29457,Som,Hyderabad,Telangana,Flat 1701 Block 7 My Home Avatar Narsingi Hyderabad Telangana,False,Delivered,Converted,On call,3417
+29456,Bal,Solapur,Maharashtra,Madhe road near shree ram mangal karyalay,True,Delivered,Confirmed,On call,599
+29455,Ras,Khorda,Odisha,Atkonark nagar,True,Delivered,Confirmed,On call,999
+29454,Mon,South West Delhi,Delhi,2630 Satya Niwas Zero Road Silver Oak Farms MG Road Ghitorni,True,Delivered,Confirmed,On call,999
+29452,Asi,Varanasi,Uttar Pradesh,Flat no 14blo k no 25 kabir Nagar durga kund,True,Delivered,Confirmed,Script,2716
+29451,Mal,East Delhi,Delhi,B64 surajmal vihar Karkardooma,True,Delivered,Confirmed,On call,759
+29450,Gee,Kanchipuram,Tamil Nadu,5191 Samra enclave opposite OTA officers mess St Thomas Mount Chennai,True,Delivered,Confirmed,On call,3596
+29447,Pav,Kanchipuram,Tamil Nadu,80 Grand Southern Trunk Road Kamaraj Nagar Tambaram Sanatoruim,True,Delivered,Confirmed,Script,3596
+29445,Sab,Bharuch,Gujarat,A101 Firdosh apartment Nr dargah Furja road Char rasta Bharuch,True,Delivered,Confirmed,DPU order,759
+29444,Neh,Kolkata,West Bengal,Chowdhury villa  4th floor,True,Delivered,Confirmed,On call,999
+29440,Rav,Rewa,Madhya Pradesh,34 ghogher rewa,True,Delivered,Confirmed,On call,2716
+29439,Ami,South West Delhi,Delhi,A366A chattarpur enclave phase 2,False,Delivered,Confirmed,On call,3417
+29438,Dic,East Delhi,Delhi,C15Fine Home Apartment Mayur vihar phase 1 Near Alchon Public School,True,Delivered,Confirmed,On call,999
+29435,Kal,Kota,Rajasthan,2 A 18 Mahaveer nagar ext Kota rajasthan,False,Delivered,Confirmed,On call,3417
+29434,Nau,Lucknow,Uttar Pradesh,Flat no 601 Hasan apartment peer bukhara chowk,True,Delivered,Confirmed,Script,999
+29432,Gar,Ranchi,Jharkhand,2 Kanke Dam Road Jhirga Toli Gandhi Nagar,True,Delivered,Confirmed,DPU order,599
+29431,Agh,Central Delhi,Delhi,h no 4611 flat no 501 4 th floor  near saraswati school darya ganj galaxy apartment,True,Delivered,Confirmed,DPU order,3596
+29429,Ish,Jhajjar,Haryana,Building no 191 opp metro pillar 866 delhi rohtak road,True,Delivered,Confirmed,On call,999
+29424,Pri,North 24 Parganas,West Bengal,Mita Sen2nd floorAC 51kestopurPrafulla kanan Near Balak brinda club,False,Delivered,Confirmed,On call,5465
+29423,Vas,Bangalore,Karnataka,No 13 sy no 743 5th main BSK 3rd stage 3rd phase 5th block Bangalore,False,Delivered,Confirmed,On call,570
+29422,Poo,Mumbai,Maharashtra,G01 Neel Apartment,False,Delivered,Confirmed,On call,950
+29421,Jen,Tiruvallur,Tamil Nadu,Door no 319 B block vgn amity paruthipathu avadi near shell petrol bank,True,Delivered,Confirmed,DPU ORDER,999
+29420,Afs,KVRangareddy,Telangana,814023541 Flat402 Safa Block 7 Tombs Road Shaikpet Hyderabad Telangana 500008,True,Delivered,Confirmed,Confirm on whatsapp,999
+29419,Mee,Sonipat,Haryana,Hno 1373  sector 15 sonepat  Haryana,False,Delivered,Confirmed,On call,950
+29418,Pay,Mumbai,Maharashtra,403 prathamesh tower nr donbosco school nr sailee hospitallink road borivali west,True,Delivered,Confirmed,on call,999
+29415,Sad,KVRangareddy,Telangana,Abdul khader near rajendranagar toll plaza gandhinagar rajendranagar hyderabad,True,Delivered,Confirmed,On call,1358
+29413,Kaj,Solapur,Maharashtra,Mangalwar PethTuljapur ves,True,Delivered,Confirmed,on call,599
+29411,Aak,North East Delhi,Delhi,K 28 naveen shadhara near tikona park,True,Delivered,Confirmed,Recurring,999
+29410,Kok,Tiruvallur,Tamil Nadu,910 AC kumaran apartments netaji nagar main road thirumullaivoyil chennai,True,Delivered,Confirmed,DPU order,599
+29407,Apo,South West Delhi,Delhi,Flat no 1404 IIT ENGINEERS SOCIETY PLOT 12 SECTOR 10,False,Delivered,Confirmed,On call,2049
+29406,Sum,Guwahati,Assam,PPHS AMRoad paltan bazaar Guwahati,True,Delivered,Confirmed,on call,999
+29404,Ren,Visakhapatnam,Andhra Pradesh,5113 AMG Office BESIDE Union Bank,True,Delivered,Confirmed,Script,759
+29403,Par,Amritsar,Punjab,ram tirth road labh nagar gali no1 house no10,True,Delivered,Confirmed,Script,999
+29399,San,Kannur,Kerala,indeevaram pattyam road mathukoth po varam kannur,True,Delivered,Confirmed,on call,3596
+29398,Rob,Kamrup,Assam,House 55 third floor  lachit Nagar bylane 9 guwahati,True,Delivered,Confirmed,Script,999
+29394,Gar,Faridabad,Haryana,194 sector 21 D Faridabad near jiva mor,False,Delivered,Confirmed,On call,1291
+29393,Sav,Bangalore,Karnataka,No34c anjanadri nilaya 1st cross 1st main soundarya layout sidedahalli,True,Delivered,Confirmed,On call,3596
+29391,Bij,Mumbai,Maharashtra,A103Ekta woods Raheja Estate Kulupwadi Borivali East Mumbai,False,Delivered,Confirmed,On call,570
+29385,Pra,Mumbai,Maharashtra,2 D 802 Dheeraj Upavan  Near Gayatri Mandir CTS No 176 Borivali East Mumbai,False,Delivered,Confirmed,On call,3417
+29384,Nis,Thane,Maharashtra,Kunal 3  305  3rd floor  sector21  Nerul Navi Mumbai,True,Delivered,Confirmed,On call,759
+29383,Ran,Krishna,Andhra Pradesh,32228A Mogalrajpuram Shalemu raju prayer hall,True,Returned,Confirmed,On call,599
+29382,Nik,Thane,Maharashtra,Rashmi pride shop no 4  5 6 near PVR cinema,True,Delivered,Confirmed,On call,999
+29381,Bis,KVRangareddy,Telangana,Flat 402 Kalki Chambers Block B Beside Vijetha Super Market Miyapur Hyderabad Telangana,False,Delivered,Confirmed,On call,950
+29380,Bha,West Delhi,Delhi,D92 A East Uttam nagar new delhi,True,Delivered,Confirmed,DPU order,599
+29376,Nid,Indore,Madhya Pradesh,19Kalindi KunjPipliyahanaIndoreMadhya Pradesh,False,Delivered,Confirmed,On call,2049
+29375,Saf,Bangalore,Karnataka,No31811st Main 1st Cross SRKGarden Jayanagar T Block,False,Delivered,Confirmed,On call,3417
+29374,Aam,Mumbai,Maharashtra,C 45 Jeet Nagar J P ROad,True,Delivered,Confirmed,On call,599
+29372,Ayu,Dhampur,Uttar Pradesh,House no581 Surya nagar colony Near Jaitra railway crossing,False,Delivered,Confirmed,On call,950
+29371,Dee,Gurgaon,Haryana,House no 3049,False,Delivered,Confirmed,On call,1899
+29368,Aaf,Thane,Maharashtra,403 A wing sheetal tower naya nagar mira road east,True,Delivered,Confirmed,On call,2716
+29367,Nid,Guntur,Andhra Pradesh,1215 Hindi preami Mandali road Nazerpet tenali,True,Delivered,Confirmed,On call,999
+29366,Dor,Aizawl,Mizoram,Z28 israel house dawrpui veng aizawl Mizoram,True,Delivered,Confirmed,On call,999
+29365,Mee,Thane,Maharashtra,1003B Ignis Lodha Splendora Bhayanderpada Ghodbunder road Thane west,False,Delivered,Confirmed,On call,570
+29364,Sou,South 24 Parganas,West Bengal,JatindraNath Dutta and Co Jewellers Amtala ND Road,True,Delivered,Confirmed,On call,3596
+29363,Man,Vadodara,Gujarat,aster 404 sepal recidency nr jamnotri party plot sama savali road Vadodara,True,Delivered,Confirmed,On call,3596
+29362,Ren,Patiala,Punjab,Silver City Extension Bungalow No 51,True,Delivered,Confirmed,On call,999
+29361,Lav,Thane,Maharashtra,101 Bhusare Apartment,False,Delivered,Confirmed,On call,950
+29359,Dr,Jaunpur,Uttar Pradesh,Rasula baad puliyamandir k bagal meinsadar jaunpur,True,Delivered,Confirmed,Confirm on whatsapp,3596
+29358,Pun,Bangalore,Karnataka,67 7th main 2nd cross syndicate bank colony BSK 3rd stage Bangalore,False,Delivered,Confirmed,On call,950
+29357,Sun,Hyderabad,Telangana,2426874 kachiguda kamelahybd,True,Delivered,Confirmed,DPU order,999
+29356,Dur,Mumbai,Maharashtra,Saifee burhani park transit1 Dwing 4th floor Rmno403 old anjirwadi mazgaon,True,Delivered,Confirmed,DPU order,3596
+29355,Kav,Bangalore,Karnataka,5th 5th C Cross Road Naagarabhavi 8th Block Govindraj Nagar Ward,True,Delivered,Confirmed,pickrr,999
+29354,Raj,Cuddapah,Andhra Pradesh,Raja Kota Mydukur  Proddatur Road Andhra Pradesh,True,Delivered,Confirmed,On Call,2156
+29353,Afr,Dehradun,Uttarakhand,House no 14lane no 4 inder baba margkishanpurdehradun,True,Delivered,Confirmed,DPU order,759
+29352,Aja,Krishna,Andhra Pradesh,59A17116A Plot no 13 nalluri seethsramaiah nagar pantakalava road patamata vijayawada,True,Delivered,Confirmed,On call,2156
+29350,Lee,Jhansi,Uttar Pradesh,Shree Royal City 25,True,Returned,Confirmed,on call,3596
+29349,Sus,North 24 Parganas,West Bengal,Bongaon chaygharia Haridaspur,True,Delivered,Confirmed,on call,999
+29348,Ran,Tirap,Arunachal Pradesh,Deomali indane gramin vitrak Deomali,True,Delivered,Confirmed,On call,2156
+29347,Sak,Bangalore,Karnataka,233 8th cross 1st block  vishwapriya layout begur road,True,Delivered,Confirmed,Script,2156
+29346,Ram,Junagadh,Gujarat,Jagdish park 2,True,Delivered,Confirmed,On call,999
+29345,Sup,Dharwad,Karnataka,Saptapur nadgir compound,True,Delivered,Confirmed,On call,759
+29343,Sha,Sultanpur,Uttar Pradesh,Hno 26  type IV  police line sultanpur,True,Delivered,Confirmed,Confirm on whatsapp,3596
+29342,Kru,Mumbai,Maharashtra,8 vedant bunglow1near bright day school vasnabhayli road vasna baroda,True,Delivered,Confirmed,DPU order,3596
+29341,Shi,Gautam Buddha Nagar,Uttar Pradesh,K043 Gulshan Vivanté Sector137 Noida Uttar Pradesh,False,Delivered,Converted,paid,950
+29340,Ujw,Thane,Maharashtra,Flat no 102 A wing Sai sang Society Near Nerul Gymkhana Nerul West Navi Mumbai,False,Delivered,Confirmed,On call,3417
+29339,Man,North Delhi,Delhi,4104 Gali Barna Sadar Bazar Delhi,False,Delivered,Confirmed,On call,950
+29337,Pra,Nagpur,Maharashtra,Jijamata nagar wanadogari hingana Nagpur,True,Returned,Confirmed,pickrr,999
+29335,Vin,Ernakulam,Kerala,G1Global gem apartments opp Ace amrita retreat  Kochi,True,Delivered,Confirmed,DPU order,999
+29334,Nee,Dehradun,Uttarakhand,Mr Bhag singh bisht house no 170 lane no 7,False,Delivered,Confirmed,On call,2581
+29333,Sha,Chennai,Tamil Nadu,821 rangaiah garden 1st floor mylapore,True,Delivered,Confirmed,On call,999
+29332,Poo,Gautam Buddha Nagar,Uttar Pradesh,S6 1203 Eldeco Aamantran sector 119 noida,True,Delivered,Confirmed,on call,999
+29331,Rac,Bangalore,Karnataka,No 1 guru krupe 11th main 8th cross anupama niranjan road hanumanthanagar,True,Delivered,Confirmed,On call,599
+29330,Abi,Tirunelveli,Tamil Nadu,51 vgp Murphy Nagar reddiyarpatti road NGO A colony,True,Delivered,Confirmed,On call,3596
+29328,Par,Allahabad,Uttar Pradesh,183164 Gariwan Tola Khuladabad,True,Delivered,Confirmed,DPU order,999
+29323,Jen,Sivaganga,Tamil Nadu,145 panipulanvayal valkiramanickam kanda Devi post devakottai sivangangai,True,Returned,Confirmed,Will order later,999
+29322,Ani,Mumbai,Maharashtra,BiBi Fatima dispensery near Imperial cycle mart lbs road Kurla west,False,Delivered,Confirmed,On call,950
+29321,Sin,Kolar,Karnataka,Prajula cBayregowda nagara 1st crossleft 3rd house kolar,True,Delivered,Confirmed,On call,999
+29320,Shi,Thane,Maharashtra,I1205 Bhoomi Acres phase2 Hiranandani estate Thane west Thane Maharashtra,True,Delivered,Confirmed,On call,599
+29319,Ash,Mumbai,Maharashtra,MG40 Taskand bhavn society thakkar bapa Clooney chembur Near Ramdev medical store,True,Returned,Confirmed,DPU ORDER,999
+29316,Gau,Kangra,Himachal Pradesh,128D Sitaram Chaudhary Colony VPO Sidhpur Tehsil Dharamshala District Kangra HP,False,Delivered,Confirmed,On call,3417
+29314,Ana,Kanchipuram,Tamil Nadu,c15 casa grande aldea bharathiyar nagar main road thoraipakkam chennai,False,Delivered,Confirmed,On call,3417
+29313,Sak,Mumbai,Maharashtra,103Ezzy Apartment shanti path of shivdas champsi Marg Mazgaon,True,Delivered,Confirmed,Script,759
+29312,Gar,Kangra,Himachal Pradesh,DrGarima VPO Dari Tehsil Dharamshala District Kangra Himachal Pradesh,False,Delivered,Confirmed,On call,3417
+29311,Sra,KVRangareddy,Telangana,404south block jayabheri whistling court gachibowli,False,Delivered,Confirmed,On call,3417
+29310,Piu,North 24 Parganas,West Bengal,Fiesta towers jagatpur simultala bapon enterprise near,True,Delivered,Confirmed,on call,3596
+29309,Vib,Noida,Uttar Pradesh,425 5th floor Devasthali corporate tower sector 62,True,Delivered,Confirmed,On call,1998
+29308,Bra,South 24 Parganas,West Bengal,Jethighat puratan bazar,True,Delivered,Confirmed,On call,599
+29307,Dr,Ernakulam,Kerala,Knra 96 souparnika maradu p o Kochi,True,Delivered,Confirmed,On call,999
+29306,Ish,North West Delhi,Delhi,131 bhai parmanand colony first floor near mukharjee nagar,False,Delivered,Confirmed,On call,949
+29305,Vpr,Bangalore,Karnataka,No13 jayaram colony near Keb compou railwayn  parall road near netaji Nagarld,True,Delivered,Confirmed,DPU ORDER,2156
+29304,Neh,East Delhi,Delhi,C76 Takshashila apartment IP extension Patparganj,True,Delivered,Confirmed,Script,999
+29300,Zaf,Kanchipuram,Tamil Nadu,House no124 LIC nagar3rd street Madipakkamchennaitamil nadu,False,Delivered,Confirmed,On call,3417
+29299,A N,Nizamabad,Telangana,H NO 53873 vidyanagar behind akshara school kamareddy,False,Delivered,Confirmed,On call,3417
+29298,Gay,Tiruvallur,Tamil Nadu,SRM dental college Bharathi salai Ramapuram,True,Delivered,Confirmed,on call,999
+29297,San,Budgam,Jammu  Kashmir,House no 70lane D bank colony rawal pora sanatnagar,True,Delivered,Confirmed,on call,999
+29295,Ali,Gurgaon,Haryana,D1103 Emaar Emrald Estate  Sector 65 Gurgaon,False,Delivered,Converted,paid,3417
+29294,Sac,Adilabad,Telangana,Co the cotton corporation of India limited  maheshwari talkies  GMR tower Adilabad telengana,True,Delivered,Confirmed,On call,3596
+29293,Rid,Ludhiana,Punjab,B16011 kundanpuri civil linesLudhiana,True,Delivered,Confirmed,On call,999
+29292,Ara,Hyderabad,Telangana,121118 bank colony west venkatapuram,True,Delivered,Confirmed,On call,999
+29291,Twi,Dakshina Kannada,Karnataka,902 sai palace ballalbagh,False,Delivered,Converted,paid,950
+29290,Par,Mumbai,Maharashtra,12 minal bldg k D Road Vile Parle West,False,Delivered,Converted,paid,3417
+29289,Poo,Surat,Gujarat,C 412 mount awenue apartments behind cng pump lpsawani pal road surat,True,Returned,Confirmed,DPU ORDER,999
+29288,Vis,Guntur,Andhra Pradesh,HNo50Rainbow villas Navodaya colony  TadepalliAndhra Pradesh,True,Delivered,Confirmed,On call,599
+29286,Dha,Pune,Maharashtra,1st Floor  flat no 1Poorva Bldg B wing Sahakar Nagar 2  Chintamani Nagar Kohinoor colony,True,Delivered,Confirmed,DPU order,759
+29285,Fah,Kanchipuram,Tamil Nadu,Adhiparasakthi dental college and hospital  melmaruvathur  chengalpattu district ,True,Delivered,Confirmed,DPU order,999
+29284,Amm,Kolar,Karnataka,20 watchmen line marrikupam post kgf,True,Delivered,Confirmed,on call,999
+29282,Ron,Satna,Madhya Pradesh,20487 opp lic office Krishna Nagar satna Mp,True,Delivered,Confirmed,DPU order,3596
+29280,Sha,Krishna,Andhra Pradesh,Near footover bridge penamaluru centre  machilipatnam road,False,Delivered,Converted,paid,570
+29279,Man,Hyderabad,Telangana,8323216C1 APSFC ColonyVenkatgiri Jubliee hillsHyderabadTelengana,True,Delivered,Confirmed,On call,999
+29277,Res,Ernakulam,Kerala,Kalathilparambil h moothedath lane bye lane 1 aluva,False,Delivered,Confirmed,On call,950
+29276,Pay,Agra,Uttar Pradesh,N23 HR Estate BICHPURI road bodla Agra,True,Delivered,Confirmed,On call,3596
+29274,Khu,Patna,Bihar,Pankaj Kumarnew mainpura Pragati Nagar sagunamorbehind satabadi mall Danapur cantt,False,Delivered,Converted,paid,950
+29273,Far,Malappuram,Kerala,167 Malappuram Near New Sudheer Watch CoShanti Nagar Perintalmanna Kerala,True,Returned,Confirmed,pickrr,2156
+29269,Zai,Chennai,Tamil Nadu,Doorno242greata pearl apartment,True,Delivered,Confirmed,Script,999
+29268,Har,Satara,Maharashtra,38 Cooper colony sadar bazaar satara,False,Delivered,Confirmed,On call,3985
+29267,Shw,Kanpur Dehat,Uttar Pradesh,491b naughara,True,Delivered,Confirmed,on call,999
+29266,Mur,South Delhi,Delhi,B163 3rd floor krishna market lajpat nagar 1 New Delhi,True,Delivered,Confirmed,Script,3596
+29265,Var,Hyderabad,Telangana,Blue Birds HabitatFltNoG3yousufguda,False,Delivered,Confirmed,On call,570
+29262,Uma,Sonipat,Haryana,T2 401  ansal sunshine county  kundli near naad wellness  Sonipat,True,Returned,Confirmed,Customer Refused,999
+29261,Sap,Surat,Gujarat,A3 parimal palace umarao nagar near rupali neher bhatarsurat,True,Delivered,Confirmed,On call,599
+29260,Rak,Mumbai,Maharashtra,EMP67 FLAT NO203 MOON HSGSOCLTD PHASE4 THAKUR VILLAGE KANDIVALI EAST MUMBAI,False,Delivered,Confirmed,On call,2049
+29259,Pal,Agra,Uttar Pradesh,2553b Gandhi Nagar Near R P Medicare Hospital Agra Uttar Pradesh,False,Delivered,Confirmed,On call,1899
+29258,Var,Ahmedabad,Gujarat,D 94 Tirthdham Behind Satyagraha Chawni,False,Delivered,Confirmed,On call,950
+29257,Arp,Chennai,Tamil Nadu,Door no8 subiksha apartments 69 athreyapuram 1st Street choolaimedu chennai,False,Delivered,Confirmed,On call,950
+29256,Poo,Bangalore,Karnataka,No 91 7th A main road 3rd block 4th stage basaveshwarnagar bangalore,False,Delivered,Confirmed,On call,3417
+29252,Pra,Khammam,Telangana,462092 Prakash nagar Khammam Telangana,False,Delivered,Confirmed,On call,3417
+29251,Key,Surat,Gujarat,72902 laxmi narayan bhavan nani kadiya sheri sayedpura surat,True,Delivered,Confirmed,On call,3596
+29250,Mra,Bhilwara,Rajasthan,Flat no 604 Sanskriti horizon near flora park ,True,Delivered,Confirmed,on call,1598
+29247,Sai,Lower Dibang Valley,Arunachal Pradesh,cheta 2 near cheta middle school,True,Delivered,Confirmed,Confirm on whatsapp,3596
+29245,Man,Visakhapatnam,Andhra Pradesh,camille alban  daspalla hills road no 1 opp sea rock hotel,True,Delivered,Confirmed,On call,999
+29244,Kou,Salem,Tamil Nadu,No 38 vmk nagar ayyothiapatinam salem,True,Delivered,Confirmed,On call,999
+29243,Tha,Bangalore,Karnataka,19020 S5 reddy building gokula 1st stage 1st phase mathikere,True,Delivered,Confirmed,On call,599
+29241,Arp,Ghaziabad,Uttar Pradesh,B 35 HIG DUPLEX SECTOR 23 SANJAY NAGAR GHAZIABAD NEAR NARENDRA KASHYAP MP HOUSE GHAZIABAD 201002,False,Delivered,Confirmed,On call,950
+29240,Pri,Ahmedabad,Gujarat,401 kala square  Nr Karnavati Pagarkha bazar  Nr Parimal Underpass,True,Delivered,Confirmed,Script,999
+29239,Yaa,Bangalore,Karnataka,SC601 Shriram Surabhi Apts off kanakapura main road Mallasandra village after holiday Village resort opp KSSEM college,False,Delivered,Confirmed,On call,3417
+29238,Man,South West Delhi,Delhi,B1362 DDA FLATS SAFDARJUNG ENCLAVE,False,Delivered,Confirmed,On call,950
+29237,Ais,Dharwad,Karnataka,Hno28 Nrupatunga park near j k school road shakthi colony hubli,True,Delivered,Confirmed,On call,999
+29236,Sha,Hyderabad,Telangana,H no 133A opp nalla pochmma temple Tarbund secunderabad,True,Delivered,Confirmed,On call,759
+29235,San,Villupuram,Tamil Nadu,Gopal complex  Amsakulam chinnasalem PO Chinnasalem TK  Kallakurichi DT,True,Delivered,Confirmed,Script,999
+29230,Pom,Jorhat,Assam,Basic training road Titabor Jorhat,True,Delivered,Confirmed,On call,759
+29229,Sut,North 24 Parganas,West Bengal,Bc 356 samarpally krishnapur near maa tara apartment,True,Delivered,Confirmed,On call,999
+29227,Arb,Kota,Rajasthan,75 At Amin pathans house near government school  Jhalawar road  Anantpura Kota,True,Delivered,Confirmed,Script,3596
+29226,Tsh,Darjiling,West Bengal,Khapral vastu Viharnear hotel four Vedas Simplex no 14,True,Delivered,Confirmed,On call,599
+29225,Fay,Bangalore,Karnataka,3553rd floor 4th Square Austin Town bangalore,True,Delivered,Confirmed,Script,759
+29224,Het,Ahmedabad,Gujarat,I402 tulip citadel shreyas tekra manekbaug,True,Delivered,Confirmed,On call,599
+29222,San,Salem,Tamil Nadu,No 14 Sait Extension Opposite Kiruba Hospital Next to Shanti Nursing Home,False,Delivered,Converted,paid,3417
+29221,Gee,Dibrugarh,Assam,Duliajan adarsha balika vidyapith,True,Delivered,Confirmed,On call,999
+29219,Sar,Thiruvananthapuram,Kerala,C9A UPSTAIRS OPPOSITE the National Congress Party Office C Street Jawahar Nagar Kowdiar Trivandrum Kerala,False,Delivered,Confirmed,On call,570
+29217,Nam,Bangalore,Karnataka,48 Second Floor Ambedkar Medical College Road MM Layout Kavalbysandra RT Nagar 560032,False,Delivered,Converted,On call,700
+29216,Amo,Thane,Maharashtra,B7304 Vedant Complex acharya aatre Marg Vartak Nagar thane west,True,Delivered,Confirmed,on call,999
+29214,Mum,Chennai,Tamil Nadu,no153b Zakir Hussain street sm block Ashok nagar,True,Delivered,Confirmed,on call,999
+29213,Sap,Bangalore,Karnataka,No303 3rd floor makana app dodkatappa road,True,Delivered,Confirmed,On call,479
+29212,Naz,Gandhi Nagar,Gujarat,403block Ariver flora near Sanjari Park pethapur gandhinagar,False,Delivered,Confirmed,On call,950
+29211,San,Mandya,Karnataka,Room no 303 mims girls hostel,True,Delivered,Confirmed,On call,759
+29209,Dee,East Delhi,Delhi,Shop no 7 I pocket manappuram finance limited  dilshad garden near gouri shankar mandir,True,Delivered,Confirmed,On call,599
+29208,Poo,Kharar,Punjab,Flat No318 Modern Valley Mohali Khanpur Phirni Kharar Punjab,True,Returned,Confirmed,CB,3596
+29207,Moh,Bathinda,Punjab,Amrik Singh road Calcutta street Bansal dairy,True,Delivered,Confirmed,on call,999
+29206,Jin,Surat,Gujarat,Bangalow No 8A Amrakunj society Nr Pujara Eye HospitalGHOD Dod road surat,True,Delivered,Confirmed,On call,599
+29204,Kan,Ahmedabad,Gujarat,2sutria complex near by euro kids school mithakali six rd ahmedabad,True,Returned,Confirmed,DPU 4,3596
+29203,Rad,North East Delhi,Delhi,C370 gali no16 bhajanpura,True,Delivered,Confirmed,DPU ORDER,999
+29202,Sum,Lucknow,Uttar Pradesh,26Basant BhawanPandariba,True,Delivered,Confirmed,On call,599
+29200,Nal,Mumbai,Maharashtra,4712th floorUtkarsh CHSJARaul RdNext to Sumer Trinity TowersPrabhadeviMumbai,False,Delivered,Confirmed,On call,2049
+29196,Adi,Kathua,Jammu  Kashmir,Rajpura near jk bank,True,Delivered,Confirmed,On call,3596
+29195,Abh,KVRangareddy,Telangana,A 608 Rajapushpa Regalia Shankarrpalli Hyderabad Road Kokapet Hyderabad,False,Delivered,Confirmed,On call,950
+29193,Ale,Ahmedabad,Gujarat,E 602 alburooj society neat empire party plot sarkhej ahemdabad,True,Delivered,Confirmed,On call,599
+29192,Suh,Jaipur,Rajasthan,84Vivek Vihar,False,Delivered,Confirmed,On call,3417
+29191,Rut,Thane,Maharashtra,SARTHAK Navbhat wadi giriz near giriz church next to Bassein catholic co op bank ltd Vasai west,True,Delivered,Confirmed,On call,2156
+29190,Sha,Mumbai,Maharashtra,Sandora bung a b nair road opp silver beach,True,Delivered,Confirmed,on call,999
+29189,Mar,North Delhi,Delhi,B30 gail 2 Hardev nagar jharoda Burari,True,Delivered,Converted,paid,3417
+29186,A S,KVRangareddy,Telangana,Flat no 203 SRI Sai Ram Residency  Wedia ColonyMiyapurHyderabad,True,Delivered,Confirmed,DPU order,599
+29183,Sur,Gurgaon,Haryana,H no Q 326 3rd floor South City 1 sector 40 gurgaon,True,Delivered,Confirmed,on call,3596
+29182,Aye,Chennai,Tamil Nadu,New no 29 Old no 15 Sulaiha Mahal 2nd floor   Seven wells street Seven wells  George town  Landmark  Next to MK Dental Hospital,False,Delivered,Confirmed,On call,950
+29181,Jas,Nadia,West Bengal,UG girls hostel Aiims Kalyani Basantpur Saguna kalyani,False,Delivered,Confirmed,On call,3417
+29180,Pho,Kolkata,West Bengal,31 B B D Bag HBC house,True,Delivered,Confirmed,On call,999
+29179,Ank,Ganjam,Odisha,Suryanagar Mainroad Ankuli Berhampur Ganjam,False,Delivered,Confirmed,On call,950
+29176,Ste,Kozhikode,Kerala,Second floor Calicut beach post office building,False,Delivered,Confirmed,On call,3417
+29175,Yas,South West Delhi,Delhi,A31486 Air India colony Poorvi marg Vasant Vihar Delhi,False,Delivered,Confirmed,On call,2049
+29174,Sap,Vaishali,Bihar,Ramjeevan chowk veer kunwar Singh colony Hajipur Vaishali,True,Returned,Confirmed,Will order later,3596
+29172,Twi,Kollam,Kerala,Mattel dale Kavillayil sakthikulangara P O Kollam,True,Delivered,Confirmed,confirm on WhatsApp,999
+29171,Sun,Kolkata,West Bengal,45 Lower Range Beck Bagan 1st Floor Kolkata,False,Delivered,Confirmed,On call,950
+29170,Kan,West Delhi,Delhi,108jyoti shikhar janak puri district centre,True,Delivered,Confirmed,DPU order,599
+29169,Shi,Bangalore,Karnataka,1263rd cross Nallurhalli White field,True,Returned,Confirmed,DPU ORDER,479
+29168,Sha,North Goa,Goa,CSIR National institute of oceanography Dona Paula Goa,True,Delivered,Confirmed,Script,599
+29166,Pra,Jaipur,Rajasthan,Flat number 1110 midas touch vki area sikar road jaipur,True,Delivered,Confirmed,on call,2156
+29165,Poo,Nashik,Maharashtra,Flat no 302 I wing Vascon vista phase 2 Indira Nagar Nashik,False,Delivered,Converted,paid,6833
+29164,Bec,Ernakulam,Kerala,1g3 shwas mystic heights 3,True,Delivered,Confirmed,on call,4872
+29163,Tan,South Delhi,Delhi,W130 greater Kailash 2 Delhi,True,Delivered,Confirmed,On call,999
+29162,Kir,Mandi,Himachal Pradesh,Himachal Pradesh Gramin Bank Bhambla,True,Delivered,Confirmed,On call,3596
+29161,Son,Nagpur,Maharashtra,201 Parijaat heights plot no7 Gandhi Nagar hill road Nagpur,True,Delivered,Confirmed,on call,1617
+29160,Poo,Hoshiarpur,Punjab,Royal enclave House no445 Gautams Hoshiarpur,True,Delivered,Confirmed,DPU order,759
+29159,Bha,Gurgaon,Haryana,103 Bhawna Apartment Road plot 17 Sector 43,True,Delivered,Confirmed,on call,999
+29158,Neh,Bangalore,Karnataka,A902 eta star the gardens apartment  magadi road,True,Delivered,Confirmed,on call,3596
+29157,Sur,West Midnapore,West Bengal,Traffic Durga mandir T31 unit 2,True,Delivered,Confirmed,pickrr,599
+29156,YS,Nellore,Andhra Pradesh,Patur village kovur mandalam Nellore district,True,Returned,Confirmed,Called for cancellation,759
+29152,Mel,Kanchipuram,Tamil Nadu,6th 6th Main Road Ram Nagar South Madipakkam,True,Delivered,Confirmed,On call,1198
+29119,Jea,Pondicherry,Pondicherry,Mrsjeane Isabella No11st main road Raghavendra Nagar Aishwaryam appartments A block3rd floor A1 appartment Pondicherry,True,Delivered,Confirmed,DPU order,1998
+29118,Har,South West Delhi,Delhi,Flatno8 building no3 house no131 jagbir bhawan lane no2 westend marg saidulajab saket,False,Delivered,Confirmed,On call,950
+29117,Soh,Kamrup,Assam,Lokhra lalungaw buledatre,True,Returned,Converted,On call,950
+29115,Swa,Pune,Maharashtra,E2703 Brahma Suncity Wadgaon Sheri Near Raje Shivaji Maharaj Udayan,False,Delivered,Confirmed,On call,3417
+29114,Gay,Kanchipuram,Tamil Nadu,plot no2A flat D thirumala apartments thirukkural street state bank colony chitlapakkam,False,Delivered,Confirmed,On call,664
+29113,Pra,Hooghly,West Bengal,24 Boro Panchanantala PO Chandannagar Dist Hooghly,False,Delivered,Confirmed,On call,3417
+29112,Dn,Bangalore,Karnataka,61  MANOHARA krishna road,False,Delivered,Confirmed,On call,3417
+29111,Mam,Surat,Gujarat,B_402swaar sangini residencyvesu Surat Gujarat,True,Delivered,Confirmed,On call,2156
+29110,Ann,Khammam,Telangana,13554 Ashok nagar new coloney near bye gopi keran shop,True,Returned,Confirmed,Will order later,999
+29108,Ram,Bangalore,Karnataka,1010 I Floor 17th Main BTM Layout I Stage I Phase,False,Delivered,Confirmed,On call,3417
+29107,Vas,Gurgaon,Haryana,M102 dlf phase 2,True,Delivered,Confirmed,on call,998
+29106,Gur,Panchkula,Haryana,103 parvati Durga society near IT park,True,Delivered,Confirmed,On call,599
+29105,Gur,KVRangareddy,Telangana,Plot No101 Floor No356 Gayatri Nagar Borabanda,True,Delivered,Confirmed,On call,479
+29104,Kiv,Dimapur,Nagaland,Lhomithi village near honili memorial hr sec school,True,Delivered,Confirmed,Previous Order InTransit,2716
+29103,Dr,Ahmed Nagar,Maharashtra,Deepak hospitalshevgao roadopposire sangale coth shope,True,Delivered,Confirmed,On call,999
+29102,Son,Rupnagar,Punjab,PP 9 Sector 108 Emaar MGF,True,Delivered,Confirmed,On call,3596
+29099,Pra,Visakhapatnam,Andhra Pradesh,Krishna IVF Center Krishna Nagar Rd Krishna Nagar Maharani Peta Visakhapatnam Andhra Pradesh 530002,True,Returned,Confirmed,Call Declined,599
+29097,Nus,Kozhikode,Kerala,Perumalpuram thanal road,False,Delivered,Confirmed,On call,722
+29095,Sag,Pune,Maharashtra,Flat no 204 Vyanktesh Apartment Near Jay Ganesh Bakery NDA Gate Pune,False,Delivered,Confirmed,On call,950
+29093,Sur,Bangalore,Karnataka,B1003 Mayfair Anthem,True,Delivered,Confirmed,On call,2156
+29092,Aar,Gautam Buddha Nagar,Uttar Pradesh,C010 Vivek Vihar Sector 82 Noida,False,Delivered,Converted,paid,950
+29090,Tul,Bangalore,Karnataka,Flat no 1026 Sobha eternia harlur road sarjapur,True,Delivered,Confirmed,DPU order,599
+29089,Anu,Kolkata,West Bengal,11B1 Gunjan Apartment Palm Avenue Kolkata,False,Delivered,Confirmed,On call,3417
+29088,Nih,West Godavari,Andhra Pradesh,4_14 madepalli eluru west godavri andra pradesh,False,Delivered,Confirmed,On call,950
+29086,Suc,Mumbai,Maharashtra,Raheja eternity AWing flat no 1002,True,Delivered,Confirmed,On call,2156
+29084,Son,Ganjam,Odisha,House No 5 Tota Street 2nd lane extension Singibandha Road Lanjipalli,True,Delivered,Confirmed,on call,759
+29083,Aak,Pune,Maharashtra,204 lane no 10 raigarh colony karve nagar,True,Returned,Confirmed,CB TUE,3596
+29082,Aak,Ahmedabad,Gujarat,B10 Keshav App bh Manav Mandir temple nr Memnagar lake Memnagar Ahmedabad,True,Delivered,Confirmed,Script,2156
+29081,Mum,Sibsagar,Assam,Jayatinialisepon sunpura roaddistsivasagarassam,True,Delivered,Confirmed,on call,999
+29080,Vam,Hyderabad,Telangana,159 ewsh New santoshnagar colony Hyderabad,False,Delivered,Confirmed,On call,3417
+29079,M S,Hyderabad,Telangana,HNo 937741 Regimental Bazaar Near Manohar Theatre Secunderabad Telangana,True,Delivered,Confirmed,dispatch on 26th Jan,3596
+29078,Aay,Thane,Maharashtra,A201 Suraj park CHS Pancharatna dwar New service road Kharegaon Kalwa w Thane,False,Delivered,Confirmed,On call,4097
+29077,Zal,Mumbai,Maharashtra,B404 Anshul Heights Near Vasant Complex Mahavir Nagar Kandivali West Mumbai,False,Delivered,Confirmed,On call,3417
+29075,Ish,Thane,Maharashtra,B 401 laxmi bhavan opp shalasar saibaba nagar navghar road bhayandar E,True,Delivered,Confirmed,DPU order,599
+29073,Ila,Chennai,Tamil Nadu,Sbi lho no16college road  nungambakkam,True,Delivered,Confirmed,On call,2156
+29070,Pra,Guntur,Andhra Pradesh,Door no 6830282 Arundelpet Guntur Andhra Pradesh,False,Delivered,Confirmed,On call,3417
+29069,Pra,Thane,Maharashtra,C 203 gulmohur Heritage bldgopp disha hotelnext to matrix school bolinj road virar west,True,Returned,Confirmed,Customer Refused,999
+29068,Kom,Chennai,Tamil Nadu,No07 alok apartment 56 EVK Sampath road vepery chennai,True,Delivered,Confirmed,DPU order,3596
+29067,Jas,Chennai,Tamil Nadu,5 Arava Muthan Garden St Egmore Chennai Tamil Nadu 600084,True,Delivered,Confirmed,On Call,999
+29065,Aaf,Howrah,West Bengal,Bapi builders BegriDomjurHowrah,True,Delivered,Confirmed,DPU order,1198
+29064,Gur,Chandigarh,Chandigarh,HOUSE NO 3396 first Floor opposite Maharashtra bhawan Chandigarh,False,Delivered,Confirmed,On call,950
+29063,Alo,Darbhanga,Bihar,MOH BHELUCHAK PO  KABIRCHAK District Darbhanga,False,Delivered,Confirmed,On call,665
+29061,Sha,Ahmedabad,Gujarat,Lokhandwala avenue 4th floor opp divan bunglows Raikhad Janakpur Ahmedabad 380001,True,Delivered,Confirmed,DPU order,3596
+29060,Rep,Darjiling,West Bengal,9TH MILEABOVE FIRE STATION ACARDIA COMPOUND KALIMPONG,True,Delivered,Confirmed,On call,3596
+29059,Jay,Lower Dibang Valley,Arunachal Pradesh,Chc dambuk lower dibang valley,False,Delivered,Converted,paid,570
+29058,Shi,Chennai,Tamil Nadu,No6 E455 20th cross manasarovar flats 1st floor Besant Nagar chennai,True,Delivered,Confirmed,On call,1998
+29057,Sou,Howrah,West Bengal,61Netaji Subhash roadchowdhuri Bagannear BNC Pharmacy,True,Delivered,Confirmed,DPU ORDER,999
+29056,Ris,Siwan,Bihar,Fathepur bypass hospital road siwan,True,Delivered,Confirmed,Script,999
+29049,Kan,Ghaziabad,Uttar Pradesh,C 1141 Gaur Green Avenue Abhay Khand 2 Nr Gaur Biz Park,True,Delivered,Confirmed,On call,999
+29048,Say,Lucknow,Uttar Pradesh,Hardoi Road Sitapur Bypass Near Baby Martin Public School Dubagga Lucknow Uttar Pradesh,True,Returned,Confirmed,Placed new order,3596
+29047,Nib,Bangalore,Karnataka,201 Essjay divine bliss 4th main 16th cross BHEL layout near krishna garden park  Pattanagere RR Nagar,True,Delivered,Confirmed,On call,3596
+29045,San,South Delhi,Delhi,A221 Prakash maholla near east of kailash D block,False,Delivered,Converted,paid,950
+29044,Mus,Jamtara,Jharkhand,Julie Medical Hall,False,Delivered,Confirmed,On call,3417
+29043,Son,North Goa,Goa,999 Sai Dutt Alto Torda Porvorim Goa,False,Delivered,Confirmed,On call,2049
+29041,Shw,Chitradurga,Karnataka,Near kollapuradamma temple parshuram pura,True,Delivered,Confirmed,on call,3596
+29040,Ras,Kanpur Nagar,Uttar Pradesh,1368 shastri nagar kanpur,False,Delivered,Confirmed,On call,950
+29038,Ayi,Lucknow,Uttar Pradesh,63617 Qadeer Aata Chakki Lane Sector 11 Takrohi Indira Nagar Lucknow Uttar Pradesh,False,Delivered,Converted,paid,570
+29037,Kiv,Dimapur,Nagaland,Lhomithi village near honili memorial hr sec school,True,Delivered,Confirmed,on call,2716
+29036,Mon,Bhopal,Madhya Pradesh,6th Floor Vindhyachal Bhawan Jail Rd Arera Hills Bhopal Madhya Pradesh 462004,True,Returned,Confirmed,pickrr,999
+29034,Sha,Jammu,Jammu  Kashmir,The jammu and kashmir bank ltd nai bastee satwari jammu,True,Delivered,Confirmed,On call,3596
+29032,Sre,Chandigarh,Chandigarh,Saupins School sec 32 a,True,Delivered,Confirmed,On call,999
+29031,Jig,Surat,Gujarat,71rupali society section1 hirabaug varachacha,True,Delivered,Confirmed,Script,999
+29030,Rat,Darjiling,West Bengal,Abhishek furnitureOpposite gurudwarabihar morebagdogra,False,Delivered,Converted,paid,570
+29029,Shi,Mumbai,Maharashtra,774 Ornate galaxy 202 2nd flr Tilak road Parsi colony Dadar easr,True,Delivered,Confirmed,DPU order,3596
+29028,Swe,South Delhi,Delhi,R98B GROUND FLOOR LEFT SIDE KHIRKI EXTENSION MALVIYA NAGAR,True,Delivered,Confirmed,Script,1798
+29027,Shi,North West Delhi,Delhi,I block 44 police awas colony model town 1,True,Delivered,Confirmed,DPU order,599
+29026,Pri,Indore,Madhya Pradesh,157 Telephone Nagar opposite Paramount Appr,True,Delivered,Confirmed,On call,999
+29023,Anu,North Delhi,Delhi,House No 44 Upper Ground Floor pocket11A Panchsheel enclave sector23 rohini,True,Delivered,Confirmed,Script,3596
+29022,Mou,Bardhaman,West Bengal,Qr No FD5D 3rd unit colony,False,Delivered,Confirmed,On call,3417
+29021,Sup,Faridabad,Haryana,B2202  Mahindra Chloris Apartments  Sec 19,False,Delivered,Confirmed,On call,1434
+29020,Bin,Jammu,Jammu  Kashmir,Uttam marts near next level gym chatha,True,Delivered,Confirmed,on call,759
+29019,Sin,Bangalore,Karnataka,73 chamrajpet3rd main road5th cross,True,Delivered,Confirmed,DPU ORDER,999
+29018,Chh,Agra,Uttar Pradesh,AG3 Pearl Paradise Apartments,True,Delivered,Confirmed,On call,3596
+29017,Dr,Sonipat,Haryana,Fims hospital bahalgarh chowk sonepat,True,Delivered,Confirmed,On call,3596
+29016,K P,Pondicherry,Pondicherry,118 Veerampattinam St opposite to Indian overseas bank  Ariankuppam,False,Delivered,Confirmed,On call,950
+29014,Aye,Pune,Maharashtra,Ft 10 Kamal Arcade Jadhav vasti Kalas Vishrantwadi pune 15,False,Delivered,Confirmed,On call,3417
+29013,Dev,Chittoor,Andhra Pradesh,32241 janda street Murakambattu Chittoor,False,Delivered,Confirmed,On call,3417
+29010,Kin,West Delhi,Delhi,56 avtar enclave pashim vihar first floor opp nirnkari public school near rohatak road,False,Delivered,Confirmed,On call,570
+29007,Ank,Lucknow,Uttar Pradesh,A602Rohtas Apartments,False,Delivered,Confirmed,On call,2049
+29006,Neh,Dhanbad,Jharkhand,Pandit clinic road cpsingh Enclave B Block Qtr B102 Bartand Dhanbad Jharkhand,True,Delivered,Confirmed,DPU order,3596
+29005,Pal,Mumbai,Maharashtra,5c 404  sunrise society  general A K A marg  dindoshi Malad East opposite samna parivar,False,Delivered,Converted,Paid,570
+29003,Shv,Bangalore,Karnataka,shvetha Kaushik 2229 1st main sree Gayathri layout kodigehalli main road k r puram bangalore,False,Delivered,Confirmed,On call,1708
+29002,Hem,Ahmedabad,Gujarat,48mabar hills bunglowsoppshahi kutir bunglowsmgroadnikolahmedabadgujarat,True,Delivered,Confirmed,On call,3596
+29000,Lee,Bangalore,Karnataka,Flat number 84th Floor suprith nilaya apartments,False,Delivered,Confirmed,On call,665
+28996,Ash,Thane,Maharashtra,301 Jaideep towers b wing Ambarnath east,True,Returned,Confirmed,DPU 2,999
+28995,Kas,Jaipur,Rajasthan,Security and Intelligence Services India LtdNawal Tower A1 First Floor JLN Marg Malviya Nagar Jaipur,False,Delivered,Confirmed,On call,722
+28994,Saf,Darjiling,West Bengal,Saha Diagnostic center oppSurya Sen MarketSuhshrutanagarThiknikatta Darjeeling,True,Delivered,Confirmed,On call,3596
+28992,Asa,Bangalore,Karnataka,1314 8th cross padarayanapura hosahalli main Bangalore,True,Returned,Confirmed,DPU ORDER,999
+28991,Lak,Kurnool,Andhra Pradesh,43391aroadno 2nrpetakurnoolap,True,Delivered,Confirmed,DPU ORDER,3596
+28989,Nam,Durg,Chattisgarh,jayanti nagar ward no 16 st No02 Durg,False,Delivered,Confirmed,On call,570
+28985,Ush,Coimbatore,Tamil Nadu,82 Ramachandra road RSPURAM COIMBATORE,False,Delivered,Confirmed,On call,1329
+28984,And,Hyderabad,Telangana,Flat No 205 Sai Darshan Apartments Opposite CKGardens VeeraReddy Nagar Nacharam Hyderabad Telangana,True,Delivered,Confirmed,On call,999
+28983,Rek,Bellary,Karnataka,Plot no 1 sri lakshmi nilaya first floor opp church agadi marappa compound ballari,True,Delivered,Confirmed,DPU ORDER,3596
+28982,Man,Bangalore,Karnataka,C703 Salarpuria Sattva East Crest Sy No 41 Old Madras Rd near Budigere Cross Konadasapura Bengaluru Karnataka 560049,True,Delivered,Confirmed,On call,3596
+28980,Ann,South Delhi,Delhi,Modern Savitri Public School L 1 86314 Asthal Mandir Road Devli Sangam Vihar,True,Delivered,Confirmed,DPU ORDER,999
+28978,Kan,Jalandhar,Punjab,132 sus nagar jalandhar,True,Delivered,Confirmed,Script,3596
+28976,Pra,Vadodara,Gujarat,34 Nalanda society1 Near Nalanda water tank Waghodia road,False,Delivered,Confirmed,On call,950
+28973,Dan,Papum Pare,Arunachal Pradesh,Abos Apartment near Sky Digital Cinema HallNirjuli,True,Delivered,Confirmed,On call,999
+28972,Aiz,East Khasi Hills,Meghalaya,forest quarter opposite to shullai progressive school mawlai mawroh,True,Delivered,Confirmed,On call,699
+28971,Riy,Ghaziabad,Uttar Pradesh,HNo174 Abhay Khand 1 Krishna colony Indirapuram Ghaziabad,False,Delivered,Confirmed,On call,950
+28970,Umr,Mumbai,Maharashtra,God gift buliding sra room no 704 7th floor behind Nanavati hospital opposite alpa buliding sv road vile Parle West,True,Delivered,Confirmed,On call,759
+28969,See,Bangalore,Karnataka,2142vsr layoutAB vajpayee road,True,Delivered,Confirmed,DPU ORDER,759
+28968,Bha,East Godavari,Andhra Pradesh,KGangavaram East Godavari District Andhra Pradesh,True,Returned,Confirmed,pickrr,759
+28967,Swa,Jammu,Jammu  Kashmir,House no 8 Sector9   trikuta nagar  jammu,True,Delivered,Confirmed,On call,999
+28966,Muk,Gautam Buddha Nagar,Uttar Pradesh,D105A Sector 15,False,Delivered,Confirmed,On call,950
+28965,Neh,Kanchipuram,Tamil Nadu,Flat no S2 plot no 3637 LnT colony CRR Puram mugalivakam road Manapakkam,False,Delivered,Confirmed,On call,3417
+28959,Sha,Leh,Jammu  Kashmir,Circle Office PDD choglamsar,False,Delivered,Converted,paid,3417
+28958,Nak,South West Delhi,Delhi,60266 Block D Pocket 6 Santushti Apartments Vasant Kunj New Delhi,True,Delivered,Confirmed,On call,2156
+28957,Bij,Khorda,Odisha,Tata Ariana Tower 3 Room No 403,True,Delivered,Confirmed,On call,3596
+28956,Bha,Shimla,Himachal Pradesh,Girls PG hostel IGMC Shimla HP,True,Delivered,Confirmed,Script,2716
+28955,Sou,Cuttack,Odisha,Snehalaya Badhei Sahi Buxibazar cuttack,False,Delivered,Confirmed,On call,2049
+28952,Dim,Haridwar,Uttarakhand,Hno 211 railway road jwalapur haridwar,True,Delivered,Confirmed,On call,999
+28950,Edp,Pune,Maharashtra,Edward Dmello Empire Square Bldg No J Flat No 1204 12th floor Chinchwad,False,Delivered,Confirmed,On call,3416
+28949,San,Howrah,West Bengal,Gupta Enterprises 255 Narsingh Bose Lane,True,Delivered,Confirmed,On call,999
+28948,Wai,Kolkata,West Bengal,102 Watgunj street kolkata near watgunj badi masijd,True,Delivered,Confirmed,On call,999
+28946,Bha,Bangalore,Karnataka,Plot No 629 AECS Layout C Block 1st Main  ELV Lucky Homes Flat 102 Brookefiled Bangalore KA 560037,False,Delivered,Confirmed,On call,3417
+28945,Kum,Pune,Maharashtra,Manorama Villa Survey no 48 Anand Park Dhanori,False,Delivered,Confirmed,On call,950
+28941,Dee,Jagatsinghapur,Odisha,Ujjivani bank patapur kujanga,True,Returned,Confirmed,On call,599
+28940,Shu,Bangalore,Karnataka,343013 pavamana 2nd floor gayathinagar opp khushi pg 2,True,Delivered,Confirmed,On call,599
+28939,Man,Jodhpur,Rajasthan,Shop no102 shanker nager near pfoffice,True,Delivered,Confirmed,On call,599
+28938,Ako,Mokokchung,Nagaland,HNo79 Aongza Ward Mission Compound Mokokchung Nagaland 798601,True,Returned,Confirmed,pickrr,3596
+28937,Nat,North Goa,Goa,1242 belaflor Ucassaim Bardez Goa,True,Delivered,Confirmed,Confirm on whatsapp,2156
+28935,Shr,Chickmagalur,Karnataka,Kalasapura Village Retured high school teacher chickagalore dist,False,Delivered,Confirmed,On call,3417
+28934,Tus,East Delhi,Delhi,B117 Pandav Nagarnear om jewellersnera D park,True,Delivered,Confirmed,on call,599
+28933,Mee,Jammu,Jammu  Kashmir,Hno131aashianapatoli mangotrian jammu tawi,False,Delivered,Confirmed,On call,2049
+28932,Sta,Imphal West,Manipur,2 2nd street newlambulane checkon imphal manipur,True,Returned,Confirmed,On call,759
+28930,Sne,Thane,Maharashtra,Tejaswini working women hostelsec10SanpadaoppJuinagar railway stationNavi Mumbai,False,Delivered,Confirmed,On call,950
+28929,Mis,East Delhi,Delhi,263 Tower Number 4 Supreme Enclave Mayur Vihar Phase 1 Delhi 91,True,Delivered,Confirmed,On call,759
+28928,RS,Kurnool,Andhra Pradesh,HNO 4037L13A River view colony beside kotlas housekurnool Andhra Pradesh,True,Delivered,Confirmed,on call,999
+28927,Kee,Sonipat,Haryana,Vpo sersa near panchayat bhwan kundli,False,Delivered,Confirmed,On call,950
+28926,Sal,Bangalore,Karnataka,25th main 36thcross 4the floor 303 flatno sapthagiri Sannidhi  rajarajeshwari nagar  bangalore Pincode560098,False,Delivered,Confirmed,On call,1899
+28924,Kom,Krishna,Andhra Pradesh,Tvs towers flat number 401 opposite panchamukha aanjaneya swami temple kothapet,True,Delivered,Confirmed,On call,3596
+28922,Adi,Thane,Maharashtra,Bhoomi Paradise A2602 Sector11Sanpada Navi Mumbai,True,Delivered,Confirmed,on call,999
+28921,Vib,South West Delhi,Delhi,B151 1st floor Maidangarhi extn opp lavanya hospital,True,Returned,Confirmed,Placed a new order,1998
+28920,Jay,Faridabad,Haryana,T110C puri aanadvillas sec 814ď,True,Returned,Confirmed,DPU ORDER,999
+28918,Man,South Delhi,Delhi,P29 south ex part2 1st Floor,False,Delivered,Converted,On call,300
+28917,Pra,Gwalior,Madhya Pradesh,Gupta Kirana stores Near CB Palace In front of Nagras ka Bada Shinde ki Chawani Lashkar Gwalior MP,False,Delivered,Converted,paid,4629
+28916,Sar,Lucknow,Uttar Pradesh,Maudh Jain riverdale school balaganj general thakurganj Lucknow,True,Delivered,Confirmed,DPU order,999
+28915,Jas,Thane,Maharashtra,Shop no 1 DNS tower opposite townhall,True,Delivered,Confirmed,On call,3596
+28913,Sri,Chittoor,Andhra Pradesh,Khadi colony,False,Delivered,Confirmed,On call,4705
+28912,Jat,Rewari,Haryana,house no 767 SECTOR 6A,False,Delivered,Confirmed,On call,950
+28911,Vho,Ahmedabad,Gujarat,Banglow 1 in alif residency jivapura busstand rupal road  bavla,True,Delivered,Confirmed,On call,699
+28909,Sam,Sindhudurg,Maharashtra,State Bank Of India ATM,True,Returned,Confirmed,Customer Refused,3596
+28907,Rit,Pune,Maharashtra,F11204 Ganga Carnations Fatima Nagar Korregaon Park Annexe Pune Maharashtra,False,Delivered,Confirmed,On call,569
+28906,Kar,Erode,Tamil Nadu,Panchayat Union Office Near Perundurai Erode SH96 Chennimalai Road Erode,True,Returned,Confirmed,Will order later,3596
+28905,Har,Mahabub Nagar,Telangana,Hno 560near aliakbar pirla chaudi,False,Delivered,Confirmed,On call,950
+28903,Pan,Rajkot,Gujarat,Bijay Building 7 Shakti Plot Ravapar Road Near RNS Bank   C C Parda,True,Delivered,Confirmed,On call,3596
+28902,Ami,South West Delhi,Delhi,12 rohit apartments plot 30 sector 10 dwarka,False,Delivered,Converted,On call,700
+28901,Bha,Navsari,Gujarat,Dena Bank BOB Samroli Branch Desai faliya Ranchhoji Temple Road,False,Delivered,Converted,On call,700
+28900,Say,Imphal West,Manipur,Mantripukhri Muslim colony opposite IIIT gate trust foundation lane,True,Delivered,Confirmed,on call,999
+28899,Shr,Mumbai,Maharashtra,B151 Asmita jyoti charkop naka marve road malad west,True,Delivered,Confirmed,Dispatch on 23rd,3596
+28898,Zai,Udham Singh Nagar,Uttarakhand,Rudraksh gArden,True,Delivered,Confirmed,Script,999
+28897,Dr,Nagpur,Maharashtra,Kavita apartment 2nd flor s 3 visalinagar nagpur 440017,True,Delivered,Confirmed,On call,999
+28896,Tos,Ghaziabad,Uttar Pradesh,C24 LIG SINGLE STOREY BRIJVIHAR,False,Delivered,Confirmed,paid,2049
+28894,Vib,Thane,Maharashtra,703B Twin Tower Tirupati nagar phase 2Virar West,False,Delivered,Confirmed,paid,950
+28892,Sas,Cuddapah,Andhra Pradesh,Ankamma nagar 53612 kodur,True,Delivered,Confirmed,On call,599
+28891,Pon,Hyderabad,Telangana,Apple valley apartment Film Nagar rd no 14,False,Delivered,Confirmed,dpu 2,2049
+28890,Vis,Bangalore,Karnataka,1750 naveen nilaya kammakshama layout,True,Returned,Confirmed,On call,599
+28889,Moh,Nalgonda,Telangana,512754 RAHMATH NAGAR MLG ROAD NALGONDA OPP SR GARDEN,True,Returned,Confirmed,Do Not Want,999
+28888,Swe,Kanchipuram,Tamil Nadu,No 49 Semmozhi Street J Nagar Panayur Chennai,False,Delivered,Confirmed,On call,3417
+28886,Sil,Bardhaman,West Bengal,Near BSNL office Doluibazar Rosulpur Burdwan,False,Delivered,Confirmed,On call,570
+28882,Poo,East Godavari,Andhra Pradesh,488 Krishna Murthy street,True,Delivered,Confirmed,confirm on whatsapp,599
+28881,Ana,North 24 Parganas,West Bengal,Block 3 Flat No 3D Clubtown Courtyard Gouranganagar Kolkata West Bengal,False,Delivered,Confirmed,On call,950
+28878,San,Imphal West,Manipur,Mongshangei Boroi makhong,True,Delivered,Confirmed,On call,999
+28877,Mon,Bangalore,Karnataka,The oxford college of engineering Bommanahalli hogasandra,True,Delivered,Confirmed,Script,3596
+28876,Pad,Dharwad,Karnataka,Bd jatti college,False,Delivered,Confirmed,On call,570
+28874,San,Aligarh,Uttar Pradesh,4789 faiz street near tooty boundary jamalpur,True,Delivered,Confirmed,Script,759
+28871,Pri,Bangalore,Karnataka,Flat no 10410th block heritage estate apartmentdoddaballapur road yelahanka,True,Delivered,Confirmed,Script,3596
+28870,Sur,Ambala,Haryana,Hno 11 near bhagwati mandir ground mahesh nagar ambala cantt,False,Delivered,Confirmed,On call,570
+28867,Shi,Panchkula,Haryana,839 sector 21 Panchkula,False,Delivered,Confirmed,On call,950
+28864,Kir,Chandigarh,Chandigarh,House No2337 First Floor Sector 35,True,Returned,Confirmed,Call Declined,999
+28862,Abh,Surat,Gujarat,Althan Surat,True,Delivered,Confirmed,pickrr,759
+28861,Nas,Ahmedabad,Gujarat,Bungalow No5 Mazinpark 2 Near Society Vishala Circle Ahmedabad Gujarat 380055,True,Delivered,Confirmed,pickrr,3596
+28860,Mit,West Tripura,Tripura,CONag Offset Colonel Chowmuhani Near SBI Bank,True,Delivered,Confirmed,On call,3596
+28857,Kom,Pune,Maharashtra,Alkasa society wing C 608 mohammadwadi anand nagar,False,Delivered,Confirmed,On call,2049
+28856,Taz,Kamrup,Assam,Omega Electronics Opp Pantaloons Down Town,True,Returned,Confirmed,pickrr,999
+28855,Aks,Bangalore,Karnataka,144 shankarnagar mahalaxmi layout,True,Returned,Confirmed,DPU 4,999
+28854,Swa,Lucknow,Uttar Pradesh,2256 rajani khand sharda nagar Lucknow,False,Delivered,Confirmed,On call,665
+28851,Shr,Mumbai,Maharashtra,Vishal Ashiana CHS B wing 3rd floor 304 room no Ganesh chowk  Nirmal Nagar Bandra East Mumbai,True,Delivered,Confirmed,On call,3596
+28850,Pra,Hyderabad,Telangana,Plot no 24 ground floor suman housing colony west marredpally secunderabad,True,Delivered,Confirmed,On call,999
+28849,Meh,Kolkata,West Bengal,Flat 5A Block G IDEAL REGENCY 46 Diamond Harbour Road Kolkata,False,Delivered,Confirmed,On call,3417
+28848,Apa,Wayanad,Kerala,Anakkuzhi tharayil H Kaippanchery Sultan Bathery po WayanadKerala,True,Delivered,Confirmed,confirm on whatsapp,3596
+28847,Anj,Dimapur,Nagaland,213 Maple Tree School Rangapahar Rd Kashiram Dimapur Nagaland,True,Returned,Confirmed,DPU 2,999
+28846,Pad,Kanchipuram,Tamil Nadu,L 303 The Central Park south elcot Avenue shollinganallur,False,Delivered,Confirmed,On call,570
+28845,AN,Dharwad,Karnataka,F4 KALPATHARU APARTMENTS MOTHER THERESA COLONY GADAG ROAD HUBLI,True,Delivered,Confirmed,On call,3596
+28843,Sri,Mahabub Nagar,Telangana,Irwin Irwin Charakonda Road,True,Returned,Confirmed,Call Declined,699
+28842,Rad,KVRangareddy,Telangana,N2 woods villa gautami enclave,False,Delivered,Converted,paid,2049
+28841,San,Udupi,Karnataka,Silas international school Hanumantha Nagarnittur puttur bpo  udupi  Karnataka,False,Delivered,Confirmed,On call,2049
+28839,Sqn,Jaipur,Rajasthan,Airforce station jaipur,False,Delivered,Confirmed,On call,950
+28838,Sar,Kottayam,Kerala,Palackalpurayidom housekanakappalam p o erumely thampurankunnu kottayam kerala,True,Delivered,Confirmed,On call,3596
+28837,Guf,Bathinda,Punjab,Ganpati rice mill bareta,True,Returned,Confirmed,Called for cancellation,999
+28835,Rit,South West Delhi,Delhi,Q9 third floor Hauz khas enclave,True,Delivered,Confirmed,On call,3596
+28834,Bha,Krishnagiri,Tamil Nadu,37 krishnappa layout State bank backside,True,Delivered,Confirmed,On call,599
+28833,Dr,Kathua,Jammu  Kashmir,Medical suptd district hospital,True,Delivered,Confirmed,on call,999
+28832,Dhr,Mumbai,Maharashtra,D 201 kukreja palace vallaugh baugh lane ext rd,False,Delivered,Converted,paid,3417
+28830,Man,KVRangareddy,Telangana,Flat no 202 alekya homes whistling woods manjeera pipeline road opp sri sairam towers hafeezpet Hydrabad,False,Delivered,Confirmed,On call,3417
+28828,Sir,Surat,Gujarat,atpomalekporAhir streettapalsanadistsurat,True,Delivered,Confirmed,confirm on whatsapp,1198
+28827,Khu,Mumbai,Maharashtra,204Jeevan Bodh bldgsix lanemamletdarwadimalad westmumbai,True,Delivered,Confirmed,Script,3596
+28825,Kom,Hyderabad,Telangana,Flat no 602A Block Mahaveer Apartments King Koti shergate,True,Delivered,Confirmed,On call,999
+28824,Pre,Pune,Maharashtra,250A Anandrao Lande Rd Indrayani Colony MIDC Bhosari PimpriChinchwad Maharashtra 411026,False,Delivered,Converted,paid,3417
+28823,Lak,Guntur,Andhra Pradesh,Ankalamma tempul back said,True,Returned,Confirmed,Customer Refused,3596
+28822,Dar,Mumbai,Maharashtra,A201vasundhara bldg near vikrant circle ghatkopar east,True,Delivered,Confirmed,Script,3596
+28821,Dra,Mumbai,Maharashtra,404 vishwa laxmi apt dhanukarwadi west,True,Delivered,Confirmed,on call,3596
+28820,Arc,Hyderabad,Telangana,Plot no 3road no 1malla reddy nagarventure2lothkunta near rp Bridge,False,Delivered,Confirmed,Payment Link Sent,2581
+28817,Smr,South West Delhi,Delhi,D184 freedom fighters enclave neb Sarai,False,Delivered,Confirmed,On call,3417
+28816,Ram,Hyderabad,Telangana,FNo401 Cresents Sindhura Pride Eswaripuri Colony Sainikpuri,False,Delivered,Confirmed,On call,2049
+28815,Jat,Jalandhar,Punjab,Major Kartar Singh House no 104 British town near Anandpur Ashram Dakoha road Rama Mandi  Jalandhar Cantt Punjab,False,Delivered,Confirmed,On call,3417
+28812,Nee,Bangalore,Karnataka,734 3rd floor 62nd cross  bhashyam circle,False,Delivered,Confirmed,On call,2049
+28810,Pre,Vellore,Tamil Nadu,682 A1 Phase 2 sathuvachari,False,Delivered,Confirmed,On call,3417
+28805,Poo,Bhopal,Madhya Pradesh,Sri sai villa Bonnie foi society ayodhya by pass road narela shankri Bhopal M P,True,Delivered,Confirmed,On call,3596
+28804,San,Pune,Maharashtra,B603Pimple Saudagar,False,Delivered,Confirmed,On call,950
+28803,Abh,Vadodara,Gujarat,B 306 Omkardarshan Flats Nr Sai chokdi opp Suvarna Duplex,False,Delivered,Confirmed,On call,2049
+28800,Apo,Thane,Maharashtra,Flat No 1305 Gagan CHS Sagar Heritage Thankar Pada Opp BSNL Tower Kalyan West,False,Delivered,Confirmed,On call,3596
+28798,Mah,Jaipur,Rajasthan,4344 vinayak apartment F1 vaishali elegance lalarpura gandhi path vaishali nagar jaipur,True,Delivered,Confirmed,Script,3596
+28795,Dr,Faridabad,Haryana,A17612nd floor gate no 5 Greenfield colony faridabad,True,Delivered,Confirmed,On call,2156
+28794,Kir,Bhojpur,Bihar,Vishal grament Ara road near of post office piro bhojpur bihar,True,Delivered,Confirmed,Script,759
+28793,Sri,Chittoor,Andhra Pradesh,Tmv kandriga,False,Delivered,Confirmed,On call,2049
+28792,San,Ghaziabad,Uttar Pradesh,12222 gaur vallerio ahinsha khand 2 indirapuram Ghaziabad uttar pradesh,True,Returned,Confirmed,Call Declined,3596
+28791,Aku,Warangal,Telangana,471269 warngal,True,Returned,Confirmed,On call,599
+28790,Ara,Gulbarga,Karnataka,Plot no 7 1st cross pavan ganga colony rajapur road opposite kosgi kalayan mantap  near Akash trade,True,Delivered,Confirmed,DPU order,999
+28789,Rup,Mumbai,Maharashtra,602 Bhuvaneshwari Ram nagar Boriwali w,False,Delivered,Confirmed,On call,950
+28786,Sun,Rohtak,Haryana,167021 prem nagar rohtak near new bus stand oppo to new petrol pump fouji wali gali,True,Delivered,Confirmed,Script,3596
+28785,Nai,North 24 Parganas,West Bengal,4224 SUBARNALAYA ASHOKENAGAR PO ASHOKENAGAR HABRA DT NORTH 24 PARGANAS WEST BENGAL,False,Delivered,Confirmed,On call,3417
+28781,Neh,Chamrajnagar,Karnataka,Hanur RS doddi near veveikananda college,True,Returned,Confirmed,Shifted to different product,599
+28780,Apo,Kohima,Nagaland,Upper kenuozou colonyNear Nagaland Christian Revival church Kohima,True,Delivered,Confirmed,On call,2156
+28779,Asi,Bangalore,Karnataka,Flat 4401 Propulsive Pinnacle junior college roadKadugodi Bangalore,False,Delivered,Confirmed,On call,3417
+28777,Vin,Salem,Tamil Nadu,141Four road rasipurathanurPadaiveedu post sankari west,True,Delivered,Confirmed,on call,3596
+28775,Kav,Jodhpur,Rajasthan,Hazi chand kha bulding in side nagouri gate jodhpur,True,Delivered,Confirmed,On call,599
+28774,Neh,Mumbai,Maharashtra,Flat no  4U104 Awho township,False,Delivered,Confirmed,On call,3417
+28773,Kal,Coimbatore,Tamil Nadu,237Annapoorna LayoutNew SidhapudurCoimbatore,False,Delivered,Converted,paid,570
+28772,Var,Mumbai,Maharashtra,A404 Shree Complex Opp Old MHB Colony Bus Stop Gorai Road Above Vividh Hotel Borivali West,False,Delivered,Confirmed,On call,570
+28771,San,Jorhat,Assam,CISF UNIT ONGC JORHAT CINNAMARA RAILWAY STATION,True,Returned,Confirmed,DPU 2,599
+28770,Vin,Visakhapatnam,Andhra Pradesh,991273 sivajipalem,True,Returned,Confirmed,DPU 2,3596
+28768,Pri,Mumbai,Maharashtra,121 Trishul Apts3rd cross lanelokhandwala,False,Delivered,Confirmed,Payment link shared,2716
+28766,Lak,Bangalore,Karnataka,Slv 4th Floor 3rd Main 11th Cross Srinivasanagar,False,Delivered,Confirmed,On call,950
+28765,Ram,Udupi,Karnataka,Shree laxmi nilayam4173Dopposite upavan garden1st mainhayagreeva nagarudupi,True,Delivered,Confirmed,On call,999
+28764,Har,Thane,Maharashtra,Room no05 Datt Chhaya Niwas Santoshi Mata Road Near Ekveera Hotel Kalyan West,False,Delivered,Confirmed,On call,950
+28763,Nit,Yamuna Nagar,Haryana,3071 vishnu nagar,True,Delivered,Confirmed,Script,599
+28762,Gop,Bardhaman,West Bengal,E1 Balaji housing complex st Xaviers road Burdwan3 West Bengal,True,Delivered,Confirmed,Script,759
+28760,Shu,PimpriChinchwad,Maharashtra,Shinde Building Radha Krishna Colony Near PMT Bus Stop Bhosari Gaonthan Bhosari PimpriChinchwad Maharashtra,True,Returned,Confirmed,DPU ORDER,599
+28759,Kej,Mumbai,Maharashtra,1804c wing ajmera prisitine building  yogi nagar road  eksar road  borivali west  Mumbai 400092,False,Delivered,Converted,paid,3417
+28757,Pri,Damoh,Madhya Pradesh,Tandon bagicha Civil ward no 8 behind HDFC bank near CA nikunj office damoh madhya Pradesh,True,Delivered,Confirmed,On call,1998
+28756,San,West Delhi,Delhi,EA 314 maya enclave G8 area rajouri garden,False,Delivered,Confirmed,On call,3417
+28755,Pra,Tiruvallur,Tamil Nadu,Plot no 1 Dunlop Nagar Veppampattu,False,Delivered,Confirmed,On call,722
+28754,Nan,Chittoor,Andhra Pradesh,Sir Nagar colony near MLA party office palamanar town and chittoor district,True,Delivered,Confirmed,Script,3596
+28752,Kav,Faridabad,Haryana,House no 1533 sector 15,True,Delivered,Confirmed,Script,599
+28751,Nee,Chandigarh,Chandigarh,3234 sec 23 D Chandigarh,True,Delivered,Confirmed,DPU order,999
+28750,San,Tuticorin,Tamil Nadu,486  east street  theriyoor  udangudi,True,Delivered,Confirmed,on call,3596
+28749,Raj,Ernakulam,Kerala,Maniyil House PNRA 80 Palliparambukavu Road Tripunithura  P O,False,Delivered,Confirmed,On call,2049
+28745,Bal,Solapur,Maharashtra,At post bhosare,True,Returned,Confirmed,On call,599
+28744,Tir,North 24 Parganas,West Bengal,322 New Jessore Road S Aponaloy Prothoma Block  C Flat No 304,False,Delivered,Confirmed,On call,950
+28743,Hem,North Delhi,Delhi,E483rd floorSector7RohiniDelhi110034,True,Delivered,Confirmed,Script,1198
+28741,Moh,KVRangareddy,Telangana,Flat 102 Srinivasa towers Beside Mount view Apartments Timber lake colony Manikonda,False,Delivered,Confirmed,On call,3417
+28740,Anj,Mayurbhanj,Odisha,Atpokaranjia wd no8near deo river pakud sahi mayurbhanj odisha,True,Delivered,Confirmed,On call,999
+28739,G L,Krishna,Andhra Pradesh,18544A flat no503 Saisurya enclave2nd lane kederaswarapet,False,Delivered,Confirmed,On call,722
+28738,Kus,Panchkula,Haryana,House No 593 Sector 16,False,Delivered,Confirmed,On call,3417
+28737,Pra,Belgaum,Karnataka,Patil Galli AtGajapati Post Badas kh Taluk Belagavi Distict Belagavi Pin591131 Karnataka,False,Delivered,Confirmed,paid,950
+28732,Anj,Muzaffarnagar,Uttar Pradesh,H538 lane no 15 gandhi colony Muzaffarnagar,False,Delivered,Confirmed,On call,3417
+28731,Nay,Kolar,Karnataka,1424veeranna layoutshanthi Nagar bangarpet,False,Delivered,Confirmed,paid,950
+28730,Kav,Kanchipuram,Tamil Nadu,Flat no 413 BlockE Fourth Floor,True,Delivered,Confirmed,DPU order,999
+28727,Sud,Nadia,West Bengal,Silver Jubilee Road opposite PWD office near pramanik cinema post office ranaghat district Nadia West Bengal po ranaghat dist nadia,False,Delivered,Confirmed,On call,720
+28726,Ash,Ludhiana,Punjab,66Tagore nagar block A Civil lines,True,Delivered,Confirmed,On call,3596
+28725,Kes,Meerut,Uttar Pradesh,D128 Pallav puram phase 1 near peer Meerut,False,Delivered,Confirmed,On call,2581
+28724,Pri,Mumbai,Maharashtra,2004 Neelkanth HeightsDevidayal Road Mulund West Mumbai,True,Delivered,Confirmed,DPU order,2156
+28722,Ash,Karnal,Haryana,VPOBalu Near DrAshwani clinic,True,Delivered,Confirmed,On call,999
+28721,Aye,Nashik,Maharashtra,Flat 401 Grapecity ortega pipe line road near Sant Kabir nagar Gangapur road  Nashik,True,Delivered,Confirmed,DPU order,999
+28719,Man,Gurgaon,Haryana,J101 La Lagune Apartment La Lagune Road Suncity Sector 54,True,Delivered,Confirmed,On call,999
+28718,See,South Delhi,Delhi,242GF KAILASH HILL,True,Delivered,Confirmed,DPU ORDER,599
+28716,Vib,Bangalore,Karnataka,402D Valmark Orchard Square Classic Orchards Kothnur Main Road,False,Delivered,Confirmed,On call,570
+28713,Sun,Mumbai,Maharashtra,Himgiri society C wing flat no 4034th floorveena nagar phase 2veena nagarmulund westmumbai,False,Delivered,Confirmed,On call,3417
+28712,Met,Srikakulam,Andhra Pradesh,plot no T1indira nagar colony surya apartments near water tank,False,Delivered,Confirmed,On call,3417
+28710,Cha,Gautam Buddha Nagar,Uttar Pradesh,Building no 751  shaberi near modren public school greater noidau p,True,Returned,Confirmed,Placed new order,759
+28709,Uts,Mumbai,Maharashtra,Sorrento CHS Veera Desai Road opposite the country clubAndheri West,False,Delivered,Confirmed,On call,1993
+28707,Kam,South West Delhi,Delhi,Room no 355 Hotel Andaz Aerocity,True,Returned,Confirmed,Do Not Want,999
+28706,Pav,Mumbai,Maharashtra,105B Gavadevi Darshan2nd KoliwadaDockyard road Mumbai,True,Delivered,Confirmed,On call,1198
+28705,Man,Bangalore,Karnataka,28 2nd cross opp To SHK convention hall pattegarapalya moodalapalya man road,False,Delivered,Confirmed,On call,950
+28704,Poo,Mumbai,Maharashtra,6b Gunbow street Mangrol mansion 4th floor above mathura dairy farm near fort fire brigade,True,Delivered,Confirmed,Script,599
+28703,Pri,North West Delhi,Delhi,E54 grnd floor  new multan Nagar Paschim vihar opp metro pillar number 230,False,Delivered,Confirmed,On call,950
+28702,Poo,Mumbai,Maharashtra,A 1501 Aquaria Grande  Devidaslane  Borivali west Mumbai,False,Delivered,Confirmed,Payment Link Sent,570
+28701,Shi,Panchkula,Haryana,839 sector 21 Panchkula,False,Delivered,Converted,Paid,950
+28700,Son,Mumbai,Maharashtra,20E3world CrestWorld Towerslodha group,True,Delivered,Confirmed,On call,999
+28698,Mis,East Delhi,Delhi,98 Dayanand Vihar  Karkardooma,False,Delivered,Confirmed,On call,2049
+28697,Pri,Indore,Madhya Pradesh,TSN 13 Sinchai Vibhag Colony Bakshibagh Opp Urdu School,False,Delivered,Confirmed,On call,2581
+28696,Dar,Pune,Maharashtra,536sai colony behind khenat hospital karvenagar pune411052,True,Delivered,Confirmed,On call,999
+28695,Pri,Howrah,West Bengal,456gt roadideal grand block B flat no9A,True,Delivered,Confirmed,DPU ORDER,2156
+28693,Gun,South West Delhi,Delhi,D1042 SHAYAM VIHAR PHASE 1ROAD NO6 GALI NO 6,True,Delivered,Confirmed,On call,999
+28690,Sug,Bellary,Karnataka,S0310 Vidyanagar township Jsw steel limited,False,Delivered,Confirmed,On call,570
+28688,Pal,North West Delhi,Delhi,Flat 266A  block B4 keshavpuram,False,Delivered,Confirmed,On call,3417
+28686,Dil,Valsad,Gujarat,Industrial Boilers Ltd Plot no 227  228 GIDC Vapi,True,Delivered,Confirmed,On call,759
+28685,Ami,Faridabad,Haryana,1D57A 2nd floor near maharaja hairpoint not faridabad,True,Delivered,Confirmed,confirm on whatsapp,999
+28683,Sau,Solapur,Maharashtra,At sangdari post boramani taluka South solapur,True,Returned,Confirmed,DPU 4,999
+28682,Rin,Golaghat,Assam,Amritalaya girls pgnear boxing club golaghatassam,True,Delivered,Confirmed,On call,3596
+28681,Ras,Lucknow,Uttar Pradesh,Amrapali Awadh  238 Faizabad road beside HAL Lucknow  Utaar Pradesh,False,Delivered,Confirmed,On call,2049
+28680,Rah,Chennai,Tamil Nadu,Flat C1 GKN villa no1 94th street Ashok Nagar chennai600083,True,Delivered,Confirmed,confirm on whatsapp,599
+28679,Vin,Pune,Maharashtra,Parth Terraces Baner Residency,True,Delivered,Confirmed,On call,3596
+28678,Nek,Ghaziabad,Uttar Pradesh,19b2nd floorkanha apartment,True,Delivered,Confirmed,On call,3596
+28676,Vis,South West Delhi,Delhi,E3D DDA FLATS MUNIRKA,False,Delivered,Confirmed,On call,3417
+28673,Raj,Coimbatore,Tamil Nadu,Priya ladies hostel ganesh nagar vellakinar pirivu Coimbatore,True,Delivered,Confirmed,Confirm on whatsapp,3596
+28672,Bus,Hyderabad,Telangana,22_3_366 mir alam mandi beside mir chowk ps,True,Delivered,Confirmed,Confirm on whatsapp,599
+28671,Pra,Bangalore,Karnataka,S14202 smondoville neotown electronicity phase 1,False,Delivered,Confirmed,On call,1797
+28670,Bin,South Andaman,Andaman  Nicobar,Immigration and foreigners Branch near DC office Port Blair South Andaman,True,Delivered,Confirmed,Confirm on whatsapp,599
+28667,Aks,Gadag,Karnataka,Huduco colony Behind DGM college gadag,False,Delivered,Confirmed,On call,950
+28664,R S,Chittoor,Andhra Pradesh,Ramarao Colony Puttur Andhra Pradesh,True,Returned,Confirmed,pickrr,999
+28662,Dik,Mumbai,Maharashtra,Green star appartment 604 Sherly rajan rd Rizvi complex Bandra w,True,Delivered,Confirmed,on call,999
+28661,Shr,Bangalore,Karnataka,39 1st floor Dsouza nagar kerekodi main road behind Pesit college near Vinayaka temple Hoskerehalli,False,Delivered,Converted,paid,570
+28659,Ahm,Mumbai,Maharashtra,Ardee mall sector 52 second floor Skechers shop,True,Returned,Confirmed,Call Declined,3596
+28658,Jyo,Medak,Telangana,H No 2535182A Ramachandra reddy Nagar  RCpuram Hyderabad,True,Delivered,Confirmed,0n call,599
+28657,Sau,Central Delhi,Delhi,H409Type2 Block no15 Kali Bari Marg New Delhi,False,Delivered,Confirmed,On call,3417
+28654,Shi,Mumbai,Maharashtra,Mantri parijat flat no 1011st floor saraswati colony opp lila nursery Santacruz w,True,Delivered,Confirmed,0n call,1198
+28652,Kal,North West Delhi,Delhi,BK2 HOUSE NO84 2ND FLOOR SHALIMAR BAGH NEW DELHI  88,True,Delivered,Confirmed,Confirm on whatsapp,759
+28651,Kal,North West Delhi,Delhi,BK2 HOUSE NO84 2ND FLOOR SHALIMAR BAGH NEW DELHI  88,True,Delivered,Confirmed,Confirm on whatsapp,3596
+28650,Mon,Kanyakumari,Tamil Nadu,Jay compound3 high ground opposite to peace trust kanyakumari,False,Delivered,Confirmed,On call,3417
+28649,Shr,Solan,Himachal Pradesh,422 Block C6 Jacaranda Complex Omaxe Parkwoods Baddi Himachal Pradesh,False,Delivered,Confirmed,On call,950
+28647,Jas,Thane,Maharashtra,A301akshar bhuwanvijay vihar complexevershine cityvasai east,True,Delivered,Confirmed,on call,599
+28645,Nis,Dakshina Kannada,Karnataka,Bejai new road savera devine home flate no 303,True,Delivered,Confirmed,On call,2716
+28641,Sra,Medak,Telangana,toopran Srinivas nagar Laxmi gardens  Hyderabad,True,Returned,Confirmed,Customer Refused,3596
+28640,Nee,Mumbai,Maharashtra,B 604Great Eastern Garden LBS Road Kanjurmarg West,False,Delivered,Confirmed,On call,2581
+28639,Ruk,Mumbai,Maharashtra,Casa Carolina Flat No  1 ground floor mahem,True,Delivered,Confirmed,On call,3596
+28638,Dr,Mumbai,Maharashtra,Lord houseMaharshi Karve roadCharni roadmumbai,False,Delivered,Confirmed,On call,950
+28637,Par,Gurgaon,Haryana,701 Tower 9 Sector 53 Golf Course Road Gurgaon,False,Delivered,Confirmed,On call,2733
+28632,Ruc,Panchkula,Haryana,National Medical Hall Booth no 19 Sector 8 Panchkula,False,Delivered,Confirmed,On call,3417
+28631,Pra,Gautam Buddha Nagar,Uttar Pradesh,H602 Ace Aspire  Techzone 4 Greater Noida west,False,Delivered,Confirmed,On call,3417
+28630,Ban,Rajkot,Gujarat,Bansi vraj vatika society ravapar road morbi,True,Delivered,Confirmed,On call,999
+28629,Sik,Papum Pare,Arunachal Pradesh,Dote village naharlagan,True,Returned,Confirmed,On call,999
+28628,Div,Bangalore,Karnataka,Villa 85 The Gran Carmen  Sarjapur Road Bangalore560035 Sarjapur,False,Delivered,Confirmed,On call,2049
+28627,Ric,West Delhi,Delhi,WZ 773 Tihar Village near ashok nagar,False,Delivered,Converted,paid,570
+28626,Kal,Ganganagar,Rajasthan,533 residential colony near waterworks new gharsana sri ganganagar Rajasthan,True,Delivered,Confirmed,On call,999
+28624,Sum,East Delhi,Delhi,D48 first floor Preet vihar,True,Delivered,Confirmed,On call,2156
+28623,Ame,Surat,Gujarat,6c priyadarshini appartment ghod dod road near regent mall  surat,True,Delivered,Confirmed,DPU ORDER,2156
+28621,Niy,Patna,Bihar,Opp lalit bihar apartmentnear krishna traders departmental stores bihar college of pharmacy Gola road  petrolpump Patnabihar,True,Returned,Confirmed,Will order again in Feb,759
+28620,Shi,Gautam Buddha Nagar,Uttar Pradesh,C78 Sector 50 noida behind kothari school,False,Delivered,Confirmed,On call,2049
+28618,Aar,South West Delhi,Delhi,140 Sadar Bazaar Delhi Cantt,True,Delivered,Confirmed,On call,759
+28616,Bha,Jamnagar,Gujarat,Ashutosh Apartment flat01 cricket bungalow street2 near gurudwara jamnagar 361001,True,Delivered,Confirmed,DPU ORDER,3596
+28615,Nit,Panchkula,Haryana,House No 99 First Floor Sector 15,False,Delivered,Confirmed,send a link,3417
+28614,Ani,Kanchipuram,Tamil Nadu,Villa 21Groovy woods srininvasa nagarkazhipattur,True,Delivered,Confirmed,Script,999
+28613,Kal,Kanchipuram,Tamil Nadu,Casagrande Irene  F403  Girigori Nagar,True,Delivered,Confirmed,On call,759
+28611,Tem,Mokokchung,Nagaland,Mangkuterong sector,True,Delivered,Confirmed,On call,999
+28609,Sud,Ernakulam,Kerala,kodanadu PO NEAR POLICE STATION,False,Delivered,Confirmed,On call,3417
+28601,Reh,South Andaman,Andaman  Nicobar,Seven Seas Dream Castle Marine Hill,False,Delivered,Confirmed,On call,950
+28600,Sam,Nagpur,Maharashtra,Laddhad House opp G S College J B Thakkar Marg Gorepeth Nagpur,False,Delivered,Confirmed,On call,722
+28599,Stu,Darjiling,West Bengal,Bandri Jot Near Savin Kingdom Darjeeling More Dagapur Siliguri West Bengal 9811439047,True,Returned,Confirmed,pickrr,999
+28597,Noo,Hyderabad,Telangana,172113611A rain bazar yakutpura,True,Delivered,Confirmed,On call,1998
+28595,Sum,Hooghly,West Bengal,Chikrand  Garbagan  Post Office  Chikrand  District  Hooghly,False,Delivered,Confirmed,On call,3416
+28594,Mal,Bangalore,Karnataka,No38 Om Shakthi ladies pg 13th cross 20th a main maruthi nagar btm 1st stage Bangalore,False,Delivered,Confirmed,On call,3417
+28593,Pri,Mumbai,Maharashtra,B16 2nd Flr Kinara Bldg Mahim Koli CHS Behind SV Garden Mahim Causeway Mahim Mumbai,True,Delivered,Confirmed,On call,3596
+28592,Nit,Karad,Maharashtra,Shree Balaji Hospital Karad  Yashwant Budhwar Peth Station Road Near Cottage Hospital Satara Budhwar peth Karad Maharashtra,True,Delivered,Confirmed,On call,3596
+28590,Sup,Dharwad,Karnataka,Saptapur nadgir compound house name prateeksha second floor side house,True,Delivered,Confirmed,On call,599
+28588,Meg,Bengalore,Karnataka,No453 9th Main Avalahalli New Bda Layout Banashankari 3rd Stage Banashankari,True,Returned,Confirmed,Call Declined,999
+28586,San,Sagar,Madhya Pradesh,Street no2 ward no07 House no21 Sagar,True,Delivered,Confirmed,On call,3596
+28585,Bha,Chikmagalur,Karnataka,Chikmagalur Diabetic Care Raameshwara Nagara Nallur Chikmagalur Karnataka,True,Delivered,Confirmed,Script,3596
+28584,Sur,South West Delhi,Delhi,B431 ground floor Safdarjung enclave,True,Delivered,Confirmed,Confirm on whatsapp,3596
+28582,Rac,Bengaluru,Karnataka,141 5th cross 1st block Jayanagar,False,Delivered,Confirmed,On call,950
+28581,Tan,Mira Bhayandar,Maharashtra,Bldg No 1 501 Shanti Gardens Rd Sector 3 Gaurav Galaxy Mira Road Mira Bhayandar Maharashtra,True,Delivered,Confirmed,On call,1998
+28576,Wal,North Delhi,Delhi,6449Idgha road Karol Bagh new Delhi,True,Delivered,Confirmed,On call,999
+28575,Aar,Bahraich,Uttar Pradesh,217Hanumanpuri ColonyNearDaimond Talkies,True,Returned,Confirmed,DPU ORDER,599
+28574,Ish,Kolkata,West Bengal,10 Sunny park flat 5a ballygunj,True,Delivered,Confirmed,On call,2156
+28573,Gow,Krishna,Andhra Pradesh,74128 SF5 Radhakrishna Residency Opp Autonagar gate New RTC Colony Patamata,True,Delivered,Confirmed,On call,2156
+28572,Man,Salem,Tamil Nadu,15852 paithoor road attur salem,True,Delivered,Confirmed,On call,3596
+28571,Shw,Ghaziabad,Uttar Pradesh,Panchsheel primrose tower no 1 flat no 1101,True,Delivered,Confirmed,On call,599
+28568,Dr,Jaipur,Rajasthan,Plot no 10 c jagadamba colony phulera jaipur,True,Delivered,Confirmed,On call,999
+28564,Md,North Delhi,Delhi,1276street num 2faiz ganjbahadurgarh roadsadar bazar delhi6,True,Delivered,Confirmed,DPU ORDER,599
+28562,Har,Chikkaballapur,Karnataka,6611 1st cross Shankara mata road,False,Delivered,Converted,paid,3417
+28560,Nay,Mumbai,Maharashtra,A6 Highway chs shivsrushti kurla east,True,Delivered,Confirmed,On call,999
+28558,Neh,Rewa,Madhya Pradesh,B77 shreeji virundavan society near janta college Anantpur Rewa MP,False,Delivered,Confirmed,On call,950
+28557,Mah,Chennai,Tamil Nadu,181 A1 Jai Shakti Apartments Subramaniya nagar 1st street  kodambakkam chennai,False,Delivered,Confirmed,On call,2733
+28556,Har,Bangalore,Karnataka,Jala krupa apartments flat no 103 A block 2nd Croods madhavnagar,True,Delivered,Confirmed,Confirm on whatsapp,599
+28555,Lat,Mumbai,Maharashtra,Deepak Bldg Pedder rd Opp jaslok hospital behind doctors house 3rd floor flat no 22 Mumbai,True,Delivered,Confirmed,On call,699
+28554,Shw,South West Delhi,Delhi,A18 choice Apartments third floor 1043D08,False,Delivered,Confirmed,On call,570
+28552,Sri,Murshidabad,West Bengal,26 Goalpara Lane Gorabazar Berhampore Murshidabad,False,Delivered,Confirmed,On call,570
+28550,Ank,Bardhaman,West Bengal,Quarter no D3 regional hospital salanpur,True,Delivered,Confirmed,On call,3596
+28549,Dij,North Goa,Goa,Konkan cordage near Holy Cross High School GaunsaVaddo Siolim,False,Delivered,Confirmed,Script,950
+28548,Vas,Gurgaon,Haryana,M102 dlf phase 2,True,Delivered,Confirmed,On call,3596
+28547,Kav,Ananthapur,Andhra Pradesh,House no 16224 Mahendra Street opposite bsnl office,True,Delivered,Confirmed,On call,759
+28546,Kin,Valsad,Gujarat,Saibaba Temple Road Tithal near shanti dham gali,True,Delivered,Confirmed,Confirm on whatsapp,2156
+28544,Pre,Shimla,Himachal Pradesh,Parth villa near jawala Mata temple road bhattakufer Sanjauli shimla,False,Delivered,Confirmed,On call,950
+28542,Aak,North East Delhi,Delhi,k 28 naveen shahdara near tikona park,True,Delivered,Confirmed,On call,599
+28541,Ris,Sonitpur,Assam,Sipani niwas harripatty ward no9 Tezpur aasam,True,Delivered,Confirmed,On call,4872
+28540,Sir,Visakhapatnam,Andhra Pradesh,Madhurawada pm palem  Drno8_23,True,Delivered,Confirmed,On call,999
+28539,Nas,Hyderabad,Telangana,Flat No 104 Asafjahi Towers Road no 10 Banjara Hills Hyderabad opposite City Center Mall,False,Delivered,Confirmed,On call,3417
+28538,Jen,Mumbai,Maharashtra,Lemon Tree Hotel Kalina 176 CST Road Santacruz East mumbai opp merc showroom,False,Delivered,Confirmed,On call,950
+28536,Anu,East Midnapore,West Bengal,Office of the DFO Purba Medinipur Division Chakkamina Nimtala Tamluk,True,Delivered,Confirmed,On call,3596
+28534,Abe,Udaipur,Rajasthan,Pacific medical college and hospitalbhilo ka bedla pratapura,True,Delivered,Confirmed,Script,599
+28533,Bet,Dimapur,Nagaland,Padampukhri Dubagoan gate,True,Returned,Confirmed,On call,999
+28532,Fai,Mumbai,Maharashtra,311 Palms Apt 1 Royal Palms Aarey colony Goregaon East,False,Delivered,Converted,On call,700
+28531,Dha,Ratnagiri,Maharashtra,UdhyamnagarShri Swami Samarth Residency Flat no 2  Udhyamnagar Road,False,Delivered,Converted,On call,700
+28530,Sup,Ludhiana,Punjab,185 e block,True,Delivered,Confirmed,Script,599
+28529,Jas,Mumbai,Maharashtra,B 18 3rd flr  basant bahaarjuhu tara rd mumbai 49,False,Delivered,Confirmed,On call,570
+28528,Sah,Guntur,Andhra Pradesh,LDC23PWD COLONY MACHERLA GUNTUR DIST,True,Delivered,Confirmed,On call,3596
+28527,Poo,Mumbai,Maharashtra,6b gunbow street Mangrol Mansion 4th floorfortMumbai,True,Delivered,Confirmed,DPU ORDER,599
+28526,Meg,Surat,Gujarat,D 303 stuti avenue,True,Delivered,Confirmed,Confirm on whatsapp,3596
+28525,Div,Thane,Maharashtra,Building Number 6 Shanti Garden Sector 2 Mira Road Thane 401107,True,Delivered,Confirmed,On call,599
+28524,Het,Mumbai,Maharashtra,A1303Ajmera Pristine toweryogi nagar borivali west Mumbai,True,Delivered,Confirmed,On call,2156
+28523,Sum,Chandigarh,Chandigarh,House no 3093 sec 35D,True,Delivered,Confirmed,On call,999
+28522,Sou,Pune,Maharashtra,Flat 4 2nd Floor Apoorvagad Apartment Aamchi Colony NDA Pashan Road Bavdhan Pune,False,Delivered,Confirmed,On call,570
+28520,Ram,Thane,Maharashtra,1801 millennium Avanish sector 10behind d Mart airolinavi Mumbai,False,Delivered,Confirmed,On call,3416
+28519,Man,Bhopal,Madhya Pradesh,C85Sarvdharm,False,Delivered,Confirmed,On call,3417
+28515,Lal,Aizawl,Mizoram,V20 Bungkawn LB Associates,True,Delivered,Confirmed,Confirm on whatsapp,3596
+28513,Amr,Sangli,Maharashtra,Near islampur highschool islampur uran islampur,True,Delivered,Confirmed,On call,599
+28511,Sri,Chittoor,Andhra Pradesh,Khadi colony,False,Delivered,Confirmed,On call,2657
+28509,Shi,Bangalore,Karnataka,F603 Sterling terraces apartment  BSK 3rd stage near janatha bazaar,True,Delivered,Confirmed,DPU order,599
+28508,Man,Jalandhar,Punjab,427 Guru Teg Bahadur Nagar GTB Nagar,True,Delivered,Confirmed,On call,1758
+28507,Nay,Kolar,Karnataka,3rd Block behind Naidu complex bethamangala,True,Delivered,Confirmed,On call,999
+28506,Sin,Chittoor,Andhra Pradesh,155312 Vinayak NagarRRN COLONY MADANAPALLE,False,Delivered,Confirmed,On call,950
+28505,Pur,Thane,Maharashtra,A101 Mahavir Sadhana Plot No18 G Sector14 Sanpada Navi Mumbai,True,Returned,Confirmed,Call Declined,3596
+28504,Din,East Siang,Arunachal Pradesh,Education Colony Pasighat Ranivillage East Siang Arunachal Pradesh,True,Delivered,Confirmed,pickrr,999
+28503,Nit,Erode,Tamil Nadu,SITE NO192 SRII ISWARIYAM PANDIAN NAGAR 2ND ST PERIYASADAYAMPALAYAM ROAD ERODE,False,Delivered,Confirmed,On call,570
+28502,Shu,Aligarh,Uttar Pradesh,B4305 Dr Ehsan Street behind Barula Market Civil Lines Dodhpur Aligarh UP,False,Delivered,Confirmed,On call,722
+28501,San,Mau,Uttar Pradesh,rahul hospital sahadatpura mau,True,Delivered,Confirmed,DPU order,2156
+28500,Shw,Mumbai,Maharashtra,701 B Wing RNA ROYAL PARK Dhanukarwadi signal off Link Road Kandiiwali West,False,Delivered,Confirmed,On call,950
+28498,Imr,Mumbai,Maharashtra,A1301 Emgee greens mtv road near sengol hosp Wadala east mumbai,False,Delivered,Confirmed,On call,2581
+28497,Khu,Bangalore Rural,Karnataka,002 DS MAX Smartnest Ganigarahalli papareddy pally rd Chikbanavara Bangalore,True,Delivered,Confirmed,DPU  order,999
+28496,Pri,Kolkata,West Bengal,51block 5 turf viewalipore kolkata,False,Delivered,Confirmed,On call,3417
+28493,Ate,Dimapur,Nagaland,House no 281 lengrijan next to police outpost near Lima aier school firing range,True,Delivered,Confirmed,DPU order,3596
+28492,Dit,Vadodara,Gujarat,19 Suvarna rosette D Mart road bhayli,True,Delivered,Confirmed,On call,3596
+28489,Tri,Bareilly,Uttar Pradesh,850 janakpuri  near vaish marbel bareilly up,False,Delivered,Confirmed,On call,950
+28488,Ann,Gautam Buddha Nagar,Uttar Pradesh,B3201 Amarpali Platinum sector 119,True,Returned,Confirmed,DPU ORDER,759
+28486,Jiy,Surat,Gujarat,B 303 surya darshan app near anuwrat dwar citilight,False,Delivered,Confirmed,On call,3417
+28484,Mis,East Delhi,Delhi,House no 98 2nd floor Dayanand Vihar Karkardooma,False,Delivered,Converted,paid,2049
+28482,Swa,Dehradun,Uttarakhand,Ashutosh bagar Baddowala shimla bypass road Dehradun,True,Returned,Confirmed,Customer Refused,3596
+28480,Con,Kolkata,West Bengal,96A Maya Dasi road  P O  Parnashree Pully,True,Returned,Confirmed,DPU 2,999
+28478,Ank,North Delhi,Delhi,D307 Nehru Vihar New Delhi,False,Delivered,Confirmed,On call,3417
+28477,Bha,Jaipur,Rajasthan,A305 manglam aanchal apartments kalwar road near power house jaipur,True,Returned,Confirmed,Customer Refused,999
+28476,Ras,Mumbai,Maharashtra,Mujassama Bungalow 41 HK Bhaba Road Mount Mary Bandra West,True,Delivered,Confirmed,Confirm on whatsapp,999
+28475,Bab,North West Delhi,Delhi,Axis Bank Ltd 244 Gujranwala town part 3,True,Delivered,Confirmed,On call,2156
+28471,Sne,Bangalore,Karnataka,D401 Purva Fountain Square MarathahalliBangalore,False,Delivered,Confirmed,On call,570
+28470,Var,Bangalore,Karnataka,76 Second Floor 5th Main 4th A Cross Shankar Nagar Nandini Layout Post Bengaluru 560096,False,Delivered,Confirmed,On call,570
+28469,Sab,Central Delhi,Delhi,2972nd floor gali sujan Rai Delhi Gate New Delhi,False,Delivered,Confirmed,On call,3417
+28465,San,Bangalore,Karnataka,804 1st floor 20th main Jnanabharathi Layout 2nd Block Mariyappanapalya near jnanaprakasha kalyana mantapa,False,Delivered,Converted,paid,570
+28464,Son,Pune,Maharashtra,Rainbow Vissta Ravet Pune Ravet,False,Delivered,Confirmed,On call,950
+28463,Kan,North West Delhi,Delhi,A 785 3rdfloor sector 17 Rohini near mother dairyNew Delhi  110089,False,Delivered,Confirmed,On call,3417
+28461,Ran,Ramanathapuram,Tamil Nadu,4104A new east street kilakkarai ramnathapuram tamilnadu,True,Delivered,Confirmed,On call,2156
+28460,Nao,Aizawl,Mizoram,Dv 18A Dinthar vengthlang Dinthar high school thlangah,True,Delivered,Confirmed,On call,2156
+28458,Mon,Imphal West,Manipur,Salam maning leikai district imphal west,True,Returned,Confirmed,DPU 2,2997
+28457,Fai,North East Delhi,Delhi,D52 Gali No17 Brahampuri RdChauhan Banger Shahdara Delhi,True,Delivered,Confirmed,On Call,599
+28456,Aka,Gurgaon,Haryana,Tower 1 flat  no 203Parsvnath Green Ville Sohna road sector 48 Gurgaon 122018,False,Delivered,Confirmed,On call,2580
+28455,Ana,Mumbai,Maharashtra,702 markaz view sv Road abv diamond hospital,True,Delivered,Confirmed,on call,2716
+28454,Ais,Lucknow,Uttar Pradesh,5 j c Bose marg opposite LDA office Lalbagh Lucknow,True,Delivered,Confirmed,On call,3596
+28453,Aka,Gurgaon,Haryana,Tower 1 flat  no 203Parsvnath Green Ville Sohna road sector 48 Gurgaon 122018,False,Delivered,Confirmed,On call,3416
+28449,Raj,South Delhi,Delhi,C I S F Ladies hostel Near Sawage pumping house Sarita vihar Pocket M Jasola Delhi,False,Delivered,Converted,paid,3417
+28446,Sal,Bangalore,Karnataka,25th main 36thcross 4the floor 303 flatno sapthagiri Sannidhi  rajarajeshwari nagar  bangalore,False,Delivered,Converted,paid,505
+28443,Cha,Gurdaspur,Punjab,mugrali gate house no59 dinanagar,True,Delivered,Confirmed,On call,999
+28441,Urv,Bharuch,Gujarat,A1501 SHYAMVILLA DAHEJ BY PASS ROAD SHRVAN CHOKDI BHARUCHGujrat,True,Returned,Confirmed,DPU ORDER,999
+28439,Neh,Gorakhpur,Uttar Pradesh,Mm 46 surya vihar colony near water tank ramleela maidan Gorakhnath Gorakhpur,True,Delivered,Confirmed,On call,2156
+28437,Ree,Ernakulam,Kerala,Olive heights 9B KP vallon road kadavanthra P O cochin682020,True,Delivered,Confirmed,On call,3596
+28436,Suh,Jaipur,Rajasthan,84Vivek Vihar  Bajaj Nagar,False,Delivered,Confirmed,On call,712
+28435,Sha,Chennai,Tamil Nadu,821 rangaiah garden 1st floor mylapore,True,Delivered,Confirmed,On call,749
+28434,Shr,Lucknow,Uttar Pradesh,1785 Sector H Jankipuram Lucknow  Near Bright way collage,False,Delivered,Converted,On call,700
+28433,Pra,Guntur,Andhra Pradesh,Door no 68302 82 Arundelpet Guntur,False,Delivered,Converted,On call,700
+28432,Dr,Mumbai,Maharashtra,1703170417th flooropulence Behind raikar chamber Near neelkanth gardengovandi,False,Delivered,Converted,On call,700
+28431,Ree,Central Delhi,Delhi,Nangal Raya wz1278 near by Arya samaj mandir,True,Delivered,Confirmed,On call,2876
+28430,Ama,KVRangareddy,Telangana,Villa No125 Aparna County Miyapur,True,Delivered,Confirmed,On call,3596
+28429,Aka,Gurgaon,Haryana,Tower 1 flat  no 203Parsvnath Green Ville Sohna road sector 48 Gurgaon 122018,False,Delivered,Confirmed,On call,2391
+28427,Pri,South Andaman,Andaman  Nicobar,Mb 18 Aberdeen Village Round Basti Port Blair Andaman ,True,Delivered,Confirmed,Confirm on whatsapp,2156
+28426,Ruc,Pune,Maharashtra,32kohinoor planet behind Spicer college aundh,True,Delivered,Confirmed,On call,479
+28425,Arp,Thane,Maharashtra,1536406 Amidhara CHS LTD  kamatghar  anjurphata road near oswal school anjurphata bhiwandi Thane 421305,False,Delivered,Confirmed,On call,5997
+28424,Dee,Bangalore,Karnataka,Gangondanahalli Tippenahalli,True,Delivered,Confirmed,On call,1358
+28420,Paw,Gautam Buddha Nagar,Uttar Pradesh,H No 1 Bill Salarpur khadar Noida office Iron Body Gym In front of White castle Hotal Near Vijaya bank and Indian bank,True,Delivered,Confirmed,Call back,3596
+28419,Nil,Mumbai,Maharashtra,D112 Om Jay Shree gurukripa CHS kasturba cross road no 3 near Mota Ambaji Mata Ashram,True,Delivered,Confirmed,Confirm on whatsapp,3356
+28418,Sak,Jhajjar,Haryana,Pushpa Niwas Adarsh Nagar Jhajjar,True,Delivered,Confirmed,On call,1398
+28417,Gan,Mumbai,Maharashtra,G2 PNG bld opposite custom colony a s Marg powai,True,Delivered,Confirmed,Confirm on whatsapp,1198
+28416,Moh,Saharanpur,Uttar Pradesh,Mohd asim rajput house vardh man colony,True,Delivered,Confirmed,On call,999
+28414,Din,Mumbai,Maharashtra,2A701 shrmaik chs building no 2 tilak nagar chembur west,False,Delivered,Confirmed,On call,2733
+28406,Aka,Raipur,Chattisgarh,E14GuruChhaya Opp HR Towers Agroha Society Raipura Chowk RaipurChhattisgarh,True,Delivered,Confirmed,On call,2876
+28403,Rki,Aizawl,Mizoram,ICFAI University Mizoram Durtlang North Aizawl Mizoram,True,Returned,Confirmed,On call,999
+28402,Sar,Yavatmal,Maharashtra,Cotton City Multispeciality Hospital Dhamangaon Rd near head post office Pangari,False,Delivered,Confirmed,On call,2733
+28399,Mal,Gulbarga,Karnataka,Plot No338A GDA Layout Gulbarga Karnataka,True,Delivered,Confirmed,Confirm on whatsapp,1398
+28395,Tan,Bangalore,Karnataka,FLAT NO S1 SAI TEJA APARTMENT 1ST C CROSS CHANDRA REDDY LAYOUT KORMANGALA,True,Delivered,Confirmed,Confirm on whatsapp,2876
+28393,Nam,Pune,Maharashtra,Q701 Ganga Platino kharadi Pune,False,Delivered,Confirmed,On call,2733
+28391,Tej,Bangalore,Karnataka,No655 Sanvi NilayaBTM 2nd stage7th Main11th Cross opposite to public library,False,Delivered,Confirmed,On call,456
+28386,Sun,Rohtak,Haryana,167021 prem nagar rohtak near new bus stand oppo to new petrol pump fouji wali gali,True,Delivered,Confirmed,On call,999
+28385,Shr,Palakkad,Kerala,Anugraha Rajeshwari Street near KRK Kalyana Mandapam Palakkad,False,Delivered,Confirmed,On call,1519
+28384,Sup,Guntur,Andhra Pradesh,Quarters b3nsp colony narasaraopet guntur district Andhra pradesh,False,Delivered,Confirmed,On call,911
+28382,Nik,Pune,Maharashtra,6162 sankul society 411004 Pune Maharashtra,False,Delivered,Confirmed,PAID,2563
+28381,Kro,Pune,Maharashtra,Bliss tha Spa sopphiro house chambersabove Axis Bank,True,Delivered,Confirmed,On call,2156
+28379,Aph,Kohima,Nagaland,New minister hill,True,Returned,Confirmed,Confirm on whatsapp,999
+28378,Hem,Bangalore,Karnataka,43 5th main 5th cross 7th block 4th phaseBanashankari 3rd stage Bangalore,False,Delivered,Confirmed,On call,2049
+28377,Ava,South West Delhi,Delhi,201 sectorA pocket C vasant kunj,False,Delivered,Confirmed,On call,1139
+28376,Sur,Lucknow,Uttar Pradesh,15 Rana Pratap Marg Rajas Parishad custodium near Idea office Sikandarbagh chauraha Lucknow Uttar Pradesh,False,Delivered,Confirmed,On call,6833
+28374,Sha,Indore,Madhya Pradesh,42a shree kunj gulmarg colony,True,Delivered,Confirmed,On call,479
+28373,Mas,Aizawl,Mizoram,29 KulikawnNear State Bank of India,False,Delivered,Confirmed,On call,1638
+28372,Tan,Khorda,Odisha,Lb 71 Brot Colony Badagada,True,Returned,Confirmed,DPU ORDER,1724
+28370,Puj,Koraput,Odisha,Block Office,True,Delivered,Confirmed,On call,599
+28369,Gan,Tirunelveli,Tamil Nadu,19b104 2nd floor indra mansion pichu vana Street palayamkottai tirunelveli,True,Delivered,Confirmed,On call,0
+28368,Arj,Hyderabad,Telangana,19313A jahanuma lancer besides government hospital and govt school,True,Delivered,Confirmed,On call,599
+28367,Mud,Krishna,Andhra Pradesh,Post Office VJ POLYTECHNIC VIJAYAWADA 2nd LINE JAYAPRAKASH NAGAR KRISHNA ANDHRA PRADESH,True,Returned,Confirmed,pickrr,2517
+28366,Fay,Thane,Maharashtra,Lush villa next to Platinum heritage Hiranandani estate godhbunder road thane west,True,Delivered,Confirmed,DPU ORDER,2876
+28363,Riy,Ghaziabad,Uttar Pradesh,Hno174 Abhay Khand 1 Indirapuram Ghaziabad Uttar Pradesh India,False,Delivered,Confirmed,On call,760
+28361,Cha,Patna,Bihar,Malhotra engg works rk bhattacharya road,True,Delivered,Confirmed,On call,999
+28360,Ari,Kamrup,Assam,Balijhar market,True,Delivered,Confirmed,Confirm on whatsapp,799
+28359,Ras,Kolkata,West Bengal,Chowdhury House 11 A Nanda Mullick Lane4th FloorAbove SBI Bank,False,Delivered,Confirmed,On call,1899
+28358,Rah,Hyderabad,Telangana,B1504 My Home Bhooja,True,Delivered,Confirmed,On call,1198
+28357,Pal,West Delhi,Delhi,C2A 238 D janakpuri new delhi,True,Delivered,Confirmed,DPU ORDER,599
+28356,Ver,Deoria,Uttar Pradesh,House no432ward no2 Ramnath Deoria near maa sharda hospital,True,Delivered,Confirmed,On call,999
+28354,Har,Nagpur,Maharashtra,111ramnagar near south indian temple beside sathe hospital nagpur,True,Delivered,Confirmed,DPU ORDER,999
+28353,Rhy,Ludhiana,Punjab,2196 dugri phase1 urban estate,True,Delivered,Confirmed,On call,1203
+28351,San,Koppal,Karnataka,Room no 220 girls hostel  koppal institute of medical sciences gangavathi road near kidadhal gate,False,Delivered,Converted,paid,1899
+28347,Sau,Azamgarh,Uttar Pradesh,Rampur tarwa azamgarh Near kali mata mandr,True,Delivered,Confirmed,on call,799
+28344,Juv,Solapur,Maharashtra,602 Antrolikar Nagar Hotgi road Solapur,True,Delivered,Confirmed,On call,4195
+28343,Lax,Mumbai,Maharashtra,JTR creation gala no 17 first floor azmi compound Durga Mandir lane kherani road sakinaka Andheri East Mumbai Maharashtra,True,Returned,Confirmed,Mind Changed,999
+28342,Poo,Mumbai,Maharashtra,501 Sai Krupa Bldg  Opp Jamnabai School  NSRoad no7  Jvpd scheme  vile parle west,False,Delivered,Confirmed,On call,2732
+28339,Sim,Faridabad,Haryana,Equator 206BT1 OMAXE HEIGHTS sector 86,True,Delivered,Confirmed,on call,3596
+28338,Boi,Dimapur,Nagaland,Olive christian hospital Darogapathar ara mile Dimapur Nagaland,True,Delivered,Confirmed,On call,799
+28337,Shr,Udaipur,Rajasthan,Income tax office near sub city center savina,True,Returned,Confirmed,Call Declined,999
+28336,Sra,Meerut,Uttar Pradesh,F193 Shastri Nagar meerut,False,Delivered,Confirmed,On call,2733
+28335,Sad,Hyderabad,Telangana,Plot 20 B MLA COLONY Banjara Hills Road 12,False,Delivered,Confirmed,On call,1443
+28334,San,Hyderabad,Telangana,H No 1259342C Opp Ramachandra Mission,False,Delivered,Confirmed,On call,950
+28333,Urv,Gandhi Nagar,Gujarat,65 vedika exotica bhaijipura chokdi pdpu raod kudashan Gandhinagar,True,Delivered,Confirmed,on call,1998
+28332,Dha,Pune,Maharashtra,1st Floor  flat no 1Poorva Bldg B wing Sahakar Nagar 2 near Hanuman provision store Chintamani Nagar Kohinoor colony Pune,True,Delivered,Confirmed,On call,1998
+28331,Har,South West Delhi,Delhi,140 Sadar Bazaar Delhi Cantt,True,Delivered,Confirmed,On call,759
+28330,Dip,Chandrapur,Maharashtra,Anta mgr rod bhadrawti,True,Returned,Confirmed,Customer Refused,759
+28327,Rit,Jammu,Jammu  Kashmir,01 peer baba street Tcp kharian miran sahib,False,Delivered,Confirmed,On call,2733
+28326,Nem,Ghaziabad,Uttar Pradesh,Neel padam kunj vashali sec I Gzb g1105 ansal Plaza ke pass pin code 201010,True,Delivered,Confirmed,on call,2876
+28325,Aks,Gadag,Karnataka,Huduco colony sidling Nagar behind DGM college gadag hotel vishwa,False,Delivered,Confirmed,On call,2733
+28323,Par,Jorhat,Assam,Malow ali by pass,True,Returned,Confirmed,DPU 4,3596
+28322,Sun,Dehradun,Uttarakhand,National Institute The Empowerment of Person with Visually Disability116 Rajpur Road Dehradun Uttarakhand,True,Delivered,Confirmed,On call,1518
+28320,Ank,West Delhi,Delhi,A5 Galaxy apartments F block Vikas Puri,False,Delivered,Converted,PAID,6833
+28319,Poo,Thane,Maharashtra,Gardenia C302 Casa Rio Palava City KalyanShil Road Dombivli East,False,Delivered,Confirmed,On call,2733
+28318,Apu,North Goa,Goa,K103 Esmeralda Apartments Panaji  Old Goa Bypass Road Panelim Goa  403402,False,Delivered,Confirmed,On call,950
+28317,Sus,Cooch Behar,West Bengal,Teesta girls hostelubkvpundiari coochbehar,True,Delivered,Confirmed,on call,799
+28316,Par,Ambala,Haryana,295 HOUSING BOARD COLONY BALDEV NAGAR AMBALA CITY,False,Delivered,Confirmed,Payment Link Sent,2733
+28310,Ind,Hyderabad,Telangana,Hno127102 Raghavendra nagar uppal Hyderabad,True,Returned,Confirmed,DPU 4,1998
+28307,Pra,Hyderabad,Telangana,D 301 fortune enclave Banjara Hills 12,True,Delivered,Confirmed,confirm on whatsapp,2876
+28306,Van,Ghaziabad,Uttar Pradesh,Villa Anandam 201001 Ghaziabad Uttar Pradesh,False,Delivered,Converted,paid,2733
+28305,Son,Nagpur,Maharashtra,Parijaat heights plot no 7 off to febindia,True,Delivered,Confirmed,Confirm on whatsapp,999
+28304,Shi,Imphal East,Manipur,Chingmeirong tangkhul avenue,True,Returned,Confirmed,on call,2876
+28302,Jen,Khorda,Odisha,Qtr No EF 45 Utkal University Campus Vani Vihar,False,Delivered,Confirmed,On call,1139
+28299,Poo,Mumbai,Maharashtra,94 Dhiraj Building vrindanvan society Chunabhatti sion West mumbai 400022,True,Delivered,Confirmed,confirm on whatsapp,1724
+28298,Jan,Mumbai,Maharashtra,123 Trishul  3rd Cross Lane Lokhandwala Complex Andheri West,False,Delivered,Confirmed,On call,2733
+28296,Anu,Mumbai,Maharashtra,New Mhada towers Building no 7A Flat no 1304near lokhandwala circle Andheri west,True,Delivered,Confirmed,confirm on whatsapp,1598
+28294,Abh,Karim Nagar,Telangana,1983Gopalraopet govt high schoolthippannapet,False,Delivered,Confirmed,On call,2733
+28292,Sum,North West Delhi,Delhi,387412 kanhiya nagar opp pillar no 229 Tri nagar delhi,False,Delivered,Confirmed,On call,1806
+28291,San,Mandya,Karnataka,Room no 303 MIMS girls hostel mandya district hospital campus mandya,True,Delivered,Confirmed,On call,1998
+28290,Poo,Nashik,Maharashtra,Flat no 302 I wing Vascon vista phase 2 Indira Nagar Nashik,False,Delivered,Converted,paid,760
+28289,Shi,Aurangabad,Maharashtra,Tirupati kairana Chitegaon paithan road Sadat nagar CHITEGAON MAHARASHTRA 431105,True,Delivered,Confirmed,On call,999
+28288,Div,Kanpur Nagar,Uttar Pradesh,12342 Saresh Bagh Near Shyam Dhoop Industries Fy Area Civil Lines Civil Lines Kanpur Uttar Pradesh,True,Delivered,Confirmed,On call,3596
+28286,Shr,Kolkata,West Bengal,4 Pretoria street 4 Pretoria court flat 3D,False,Delivered,Confirmed,On call,1139
+28283,Vis,Jammu,Jammu  Kashmir,Bari brahmana,True,Delivered,Confirmed,On call,1598
+28282,Adi,KVRangareddy,Telangana,Pearl Residency Flat No 205 Pearl Village  Near Masjid Banda  Kondapur,True,Delivered,Confirmed,confirm on whatsapp,2876
+28281,Tan,Jammu,Jammu  Kashmir,H no 425 sec7 chinar enclave,True,Delivered,Confirmed,On call,599
+28280,Din,Vizianagaram,Andhra Pradesh,Patha bobbili sidda street tbr cinemas,True,Delivered,Confirmed,on call,999
+28278,Khu,Rajkot,Gujarat,Tirupati park 1 block no 3 near angan park opp punit Nagar 150ft ring road Rajkot,True,Returned,Confirmed,Call Declined,3596
+28276,Adi,Mumbai,Maharashtra,501 Rugved Bhavan G V Scheme Road 1 Chaurewadi Nr old post office Mulund East,False,Delivered,Confirmed,On call,950
+28275,Kav,Bangalore,Karnataka,SY no 363 Bayandhallinear shivakumarswamiji circlekadabagere post dasanpura hobliBanglore north,False,Delivered,Confirmed,On call,722
+28273,Hri,Thiruvananthapuram,Kerala,Vilayil veedu Vakkom Po,False,Delivered,Confirmed,On call,570
+28272,Nik,Thane,Maharashtra,Tulsa garden b cabin road near aqua marine b wing 601,True,Delivered,Confirmed,confirm on whatsapp,599
+28271,Arc,Bangalore,Karnataka,3505Nethravathi block Nandi Enclave apartment bhuwaneshwari nagar Banashankari 3rd stage Bangalore,True,Delivered,Confirmed,On call,2876
+28270,Sha,North West Delhi,Delhi,Tp882nd floor  Pitampura,True,Delivered,Confirmed,On call,1998
+28266,Pri,Chandigarh,Chandigarh,Sco 172173 sector 9 c Madhya Marg near hairmaster salon Chandigarh jeamour clinic,True,Delivered,Confirmed,on call,958
+28265,Sab,Kolkata,West Bengal,5 th floor Above gynae department Room no 10,True,Delivered,Confirmed,confirm on whatsapp,1724
+28262,Sha,Hyderabad,Telangana,flat no 305 trinity towers landmark Fernandez hospital hyderguda,False,Delivered,Confirmed,On call,2391
+28261,Ash,Bangalore,Karnataka,4931 Highpoint 4 11th floor 45 Palace Road,True,Delivered,Confirmed,DPU order,2876
+28258,Rah,South Delhi,Delhi,101 First Floor  Fatima Manzil  Lane No 1  Ghaffar ManzilJamia Nagar Okhla,False,Delivered,Confirmed,On call,2216
+28255,Ari,Patiala,Punjab,B 403 garden heights,True,Delivered,Confirmed,On call,999
+28254,Dr,Kanchipuram,Tamil Nadu,19217kurinji street JCK nagar,True,Delivered,Confirmed,On call,799
+28251,Tan,Mumbai,Maharashtra,Flat no 1501 b wing ansal heights building Worli naka mumbai,True,Delivered,Confirmed,confirm on whatsapp,1798
+28250,Meg,Surguja,Chattisgarh,Infront of PG College Near Rajmohini Bhawan Ambikapur,False,Delivered,Confirmed,On call,2733
+28249,She,Indore,Madhya Pradesh,Azad Nagar Indore sheikh alim,True,Returned,Confirmed,DPU 2,999
+28241,Yas,Satara,Maharashtra,Ap lonand tal khandala dist satara Near IDBI bank,True,Returned,Confirmed,Call Declined,799
+28240,Maa,South Delhi,Delhi,A 16 Geetanjali Enclave,True,Delivered,Confirmed,Confirm on whatsapp,799
+28239,Man,Kamrup,Assam,House No5CHANDMARI COLONYOpposite Chandmari PS SUDHAKANTHA PATH,False,Delivered,Confirmed,On call,1638
+28237,Har,Chamrajnagar,Karnataka,644 Atcham Steel Tradersmain roadkollegal,False,Delivered,Confirmed,On call,570
+28236,Pad,Dharwad,Karnataka,Pratima apartment ub hill 5th cross,False,Delivered,Confirmed,Payment Link Sent,1139
+28235,Alv,Khorda,Odisha,B401 imperial mansion,True,Delivered,Confirmed,confirm on whatsapp,1998
+28234,Man,Mohali,Punjab,HOUSE NO249 BLOCK 08,False,Delivered,Confirmed,On call,1519
+28233,Thi,Tiruvallur,Tamil Nadu,4258 mmda colony Maduravoyal,True,Delivered,Confirmed,confirm on whatsapp,999
+28232,Alf,Bangalore,Karnataka,4791 302 Basappa Layout Virat nagar Near Mecolam Engineering pvt Ltd Bommanahalli,True,Delivered,Confirmed,On call,999
+28230,Shr,Angul,Odisha,Neheru Satabadi Central Hospital Colony Near Kalimandir PODera  District Angul,False,Delivered,Confirmed,On call,722
+28229,See,Bangalore,Karnataka,164 2nd main 2nd cross byrappa garden banglore,False,Delivered,Confirmed,On call,456
+28228,Ash,Bangalore,Karnataka,11 beerappa layout sonnehalli road near Shobha construction medahallu,True,Delivered,Confirmed,On call,2156
+28227,Sad,Kolkata,West Bengal,40q dharamtala road bosekpur kolkata,False,Delivered,Confirmed,On call,1899
+28226,Shw,Sawai Madhopur,Rajasthan,2 chuli gate chamunda Devi temple gangapur city Rajasthan,True,Delivered,Confirmed,confirm on whatsapp,799
+28224,Pra,Kolkata,West Bengal,Prayas 71 Vivekananda Sarani Doctor Bagan Garfa near Garfa Police Station,False,Delivered,Confirmed,On call,1638
+28221,Mon,Lakhimpur,Assam,villamulapattyDhakuakhanaDistrict Lakhimpur state Assam,True,Returned,Confirmed,Customer Refused,799
+28220,Son,Gurgaon,Haryana,K 10  31 dlf phase 2 Gurgaon 122002,True,Returned,Confirmed,Will order in Feb,449
+28219,Mou,Bangalore,Karnataka,Awwa pg Sri Lakshmi narasimha swamy road doddathoguru electronic city1,False,Delivered,Confirmed,On call,2733
+28217,Kav,Mumbai,Maharashtra,B wing 404 yashwant shopping centre borivali e,True,Delivered,Confirmed,confirm on whatsapp,479
+28216,Naf,Ujjain,Madhya Pradesh,Pathar gali near namak mandi badsa raj apartment,True,Returned,Confirmed,Wrong Number,1406
+28214,Swa,Thane,Maharashtra,Room no 07 Dada Patil Wadi Gokhale Road Naupada Thane west Nr Thane rly stn,True,Delivered,Confirmed,on call,2037
+28212,Nan,Chennai,Tamil Nadu,2ND FLR HARINIVAS TWR THAMBU CHETTYparry chennai 1,False,Delivered,Confirmed,On call,1899
+28209,Sug,Chennai,Tamil Nadu,RBL BANK LTD  No32  Nelson manickam road  Aminjikarai Chennai,False,Delivered,Confirmed,On call,456
+28206,Gay,Kanchipuram,Tamil Nadu,Plot no 2A flat D thirumala apartments thirukkural street state bank colony,False,Delivered,Confirmed,On call,1139
+28204,Aja,South West Delhi,Delhi,One Army headquarters Signals Enclave Subroto Park Dhaula Kuan,True,Returned,Confirmed,Call Declined,999
+28203,Neh,Greater Noida,Uttar Pradesh,Flat No4U104 Awho Township Greater Noida Uttar Pradesh,False,Delivered,Confirmed,On call,5466
+28200,Sus,North 24 Parganas,West Bengal,Bongaon chaygharia Haridaspur,True,Delivered,Confirmed,On call,999
+28199,Poo,Bhopal,Madhya Pradesh,HNo A305 Rajdeep Residency Nahru Nagar,False,Delivered,Confirmed,On call,2307
+28198,Tri,Lucknow,Uttar Pradesh,30L 1st floor Pragati Kendra block no 3 kapoorthala road Aliganj Lucknow,False,Delivered,Confirmed,On call,2733
+28196,Ree,Vadodara,Gujarat,B2207 Sunrise appartments opp Ambe school Manjalpur Vadodara Gujarat,False,Delivered,Confirmed,On call,7593
+28195,Sre,Malappuram,Kerala,Harrison medical centreEdarikode malappuram district kerala,True,Delivered,Confirmed,Confirm on whatsapp,999
+28193,Nan,West Delhi,Delhi,J 1225 first floor Rajouri Garden near Optima mart delhi,True,Delivered,Confirmed,on call,3794
+28192,San,Tuticorin,Tamil Nadu,486  east street  theriyoor  udangudi,True,Delivered,Confirmed,Mailed 2,2876
+28191,Meg,West Godavari,Andhra Pradesh,224borrampalem Tnarasapuram mandel,False,Delivered,Confirmed,On call,1899
+28190,Kes,Meerut,Uttar Pradesh,D128 Pallav puram phase 1 near peer Meerut,False,Delivered,Confirmed,On call,1899
+28189,Jig,Valsad,Gujarat,402arihant app Alka puri soc,True,Delivered,Confirmed,confirm on whatsapp,999
+28188,Swa,Bangalore,Karnataka,3419 sneha nagar amruthahalli Sahakarnagar bangalore,False,Delivered,Confirmed,On call,2563
+28187,Kav,Bangalore,Karnataka,2nd cross Balaji nagar uttarahalli main road,True,Delivered,Confirmed,On call,999
+28186,Jen,Imphal West,Manipur,New lambulane 1st street tribal market road pink building first floor,True,Delivered,Confirmed,On call,479
+28185,Rum,Kolkata,West Bengal,Q8 Raja dinadra street near Garpar more kolkataore,True,Delivered,Confirmed,On call,1598
+28184,Muk,Darbhanga,Bihar,Mrs Ritu Das chitragupta nagar colony barheta near sunil traders laheriasarai Darbhanga,True,Delivered,Confirmed,DPU ORDER,2876
+28183,Pur,Rajkot,Gujarat,Ramdev jeevnath park 2 near gandhi school behind panchvati hall,True,Delivered,Confirmed,DPU order,1724
+28182,Sre,Bangalore,Karnataka,4083 Sobha Daffodil 27th Main Road HSR Layout Sector2,False,Delivered,Confirmed,On call,950
+28178,Amr,South 24 Parganas,West Bengal,Goria nabin sanga club,True,Delivered,Confirmed,on call,999
+28177,San,Kolar,Karnataka,Door no 1292 1 at cross road,True,Delivered,Confirmed,Call back,3596
+28175,Man,West Delhi,Delhi,GG1 House  61 B Vikaspuri New Delhi,True,Delivered,Confirmed,On call,0
+28173,Mar,Chennai,Tamil Nadu,231st floor14th trust cross streetmandavelipakkam,True,Delivered,Converted,Mailed,1899
+28172,Div,Rajkot,Gujarat,Bholenath society ishvariya post main road madhapar village,True,Delivered,Confirmed,Mailed 2,0
+28169,Raj,Mumbai,Maharashtra,No 2 Mistry chambers near strand cinema Colaba mumbai,True,Delivered,Confirmed,DPU order,999
+28168,Nee,Bangalore,Karnataka,734 62nd cross  bhashyam circle,True,Returned,Confirmed,Placed new paid order,4345
+28167,Dee,Jagatsinghapur,Odisha,Ujjivani bankpatapurkujanga paradeep,True,Delivered,Confirmed,on call,1998
+28165,Bha,Tonk,Rajasthan,237 bhaskar school housing board tonk,True,Delivered,Confirmed,on call,599
+28164,Apo,Moradabad,Uttar Pradesh,3C233 Budhi Vihar Avas Vikas Colony,False,Delivered,Confirmed,On call,1899
+28163,Ruk,Chennai,Tamil Nadu,R G 8 lloyds colony Royapettah,False,Delivered,Confirmed,On call,2733
+28160,R K,Chennai,Tamil Nadu,NO9 RAMAN STREET PERIYAR NAGAR NESAPAKKAM CHENNAI TAMILNADU,False,Delivered,Confirmed,On call,570
+28159,Ros,Thane,Maharashtra,Bldg no 3 room no 104 mahadev complex vagad nagar maira road,False,Delivered,Confirmed,On call,1899
+28158,Nam,Gurgaon,Haryana,2573F sector 46,False,Delivered,Confirmed,On call,2848
+28156,Neo,Gurgaon,Haryana,Shop No213 Second Floor Qutub Plaza DLF Phase 1 Gurgaon,True,Delivered,Confirmed,On Call,3596
+28155,Man,Vadodara,Gujarat,108nopark Woodvadodara Gujarat,True,Delivered,Confirmed,On call,1998
+28154,Kus,Barabanki,Uttar Pradesh,Aalapur Jinholi post Gandhi aashram district barabanki,True,Delivered,Confirmed,on call,2876
+28153,Sre,Thrissur,Kerala,Chembukkattu Illom Cheruvaloor P O Near cheruvaloor veterinary hospital,True,Returned,Confirmed,Will order next month,1998
+28151,Suc,Jodhpur,Rajasthan,A 28 shastrinagar  jodhpur,True,Delivered,Confirmed,On call,1198
+28150,Aak,Papum Pare,Arunachal Pradesh,Dote village iv nearby pachin,True,Delivered,Confirmed,On call,1998
+28149,Sha,Mumbai,Maharashtra,Akash ganga society near fish market anand gard room no 325 vikhroli parksite Mumbai 400079,True,Delivered,Confirmed,On call,1198
+28148,Ash,Raipur,Chattisgarh,Street no5 satyam vihar colony raipur raipur 492013 Raipur Chattisgarh,False,Delivered,Converted,paid,3458
+28147,Pal,Agra,Uttar Pradesh,2553b gandhi nagar near rp medicare hospital  agra,True,Delivered,Confirmed,On call,479
+28145,Pal,Kathua,Jammu and Kashmir,badh no  6  Radha Krishna Mandir lower kharote  jammu and kashmir,True,Delivered,Confirmed,On call,799
+28144,Ank,Kolkata,West Bengal,1212 duk dutta road dumdum canttonment gorabazar mandir road landmark near bank of baroda atm,True,Delivered,Confirmed,On call,799
+28143,Sha,Satna,Madhya Pradesh,Kailas house no2 new sindhi camp colony Infront of gelani paints,False,Delivered,Confirmed,On call,7593
+28142,Dim,Rajkot,Gujarat,Raviraj tanti Park Street no 1 near by karan park main road,True,Delivered,Confirmed,on call,799
+28140,Shr,Bangalore,Karnataka,16 Victoria Layout Corporation Quarters Bangalore,True,Returned,Confirmed,DPU 4,799
+28139,Sai,Khammam,Telangana,52sri venkateswara automobiles trunk road khammam,True,Delivered,Confirmed,On call,0
+28135,Aim,Mumbai,Maharashtra,B_717718  saifee burhani park,False,Delivered,Confirmed,On call,760
+28133,Hem,Gurgaon,Haryana,House No 244 sector 17A Gurgaon,True,Delivered,Confirmed,On call,479
+28132,Sou,Cuttack,Odisha,Snehalaya Infront of Pari kathagola Badhei Sahi Buxibazar Cuttack,False,Delivered,Confirmed,On call,1899
+28131,Sri,Ernakulam,Kerala,B2 Blue moon saphier Apartments  matha nagar church road kaloor po,False,Delivered,Converted,Paid,2733
+28130,Kan,Mumbai,Maharashtra,C4504 Exquisite by Oberoi Realty Oberoi Garden City Near Oberoi Woods Off Western Express Hwy Goregaon Mumbai Maharashtra,True,Returned,Confirmed,DPU 2,2517
+28129,Akh,Central Delhi,Delhi,2409A tilak street chuna mandi paharganj  new delhi,False,Delivered,Converted,On call,700
+28128,Sha,Guntur,Andhra Pradesh,25258 Rvscvs high school ground back side line opposite ammavaru tree chilakaluripet,True,Delivered,Confirmed,DPU order,599
+28127,Alv,Shimla,Himachal Pradesh,3 old brockhurst,False,Delivered,Converted,paid,2733
+28126,Luc,East Khasi Hills,Meghalaya,Madanrting block F Shillong Meghalaya,False,Delivered,Confirmed,On call,1899
+28125,Lil,Gautam Buddha Nagar,Uttar Pradesh,N 73 SECTOR 12 NOIDA UP 201301,False,Delivered,Confirmed,On call,570
+28124,Sru,Kanchipuram,Tamil Nadu,Flat 3135 Osian Chlorophyll Porur Link Rd,False,Delivered,Confirmed,On call,5466
+28123,Pra,Gadchiroli,Maharashtra,Yudhishthir Biswas building deshabandhugram road,False,Delivered,Confirmed,On call,570
+28117,Ayu,Ratlam,Madhya Pradesh,Roomno 124 Boys hostel  Government medical college Ratlam,False,Delivered,Confirmed,On call,456
+28114,Jes,Kanyakumari,Tamil Nadu,3H7 crown Street krishnancoil Nagercoil,True,Returned,Confirmed,DPU ORDER,599
+28113,Reb,Imphal West,Manipur,Near CTS SchoolLangol,True,Delivered,Confirmed,On call,2716
+28112,Chh,Fatehgarh Sahib,Punjab,Street no 3 house no 1922,True,Returned,Confirmed,DPU 2,1518
+28110,Pad,Leh,Jammu  Kashmir,Choglamsar dassepema,True,Delivered,Confirmed,On call,999
+28109,Shi,Tuticorin,Tamil Nadu,3013 therespuram main roadnear Indian bank tuty,True,Delivered,Confirmed,confirm on whatsapp,599
+28106,S N,Kurnool,Andhra Pradesh,Villa no 6s s palmtree villasMasa MasjidKurnool,False,Delivered,Converted,paid,1139
+28104,Sar,Cuddapah,Andhra Pradesh,Flat no3 2nd floor srikanth apartment,True,Delivered,Confirmed,DPU order,1998
+28101,Neh,Pune,Maharashtra,A 14 Kumar Meadows Opp Sagar Inn Pune Solapur Highway Hadapsar,False,Delivered,Confirmed,On call,1899
+28100,Sub,West Tripura,Tripura,Battala Bazaar  Agartala,True,Returned,Confirmed,Do Not Want,2876
+28098,Lil,Pune,Maharashtra,Della adventure  resort kunegaon lonavla,True,Returned,Confirmed,Call Declined,1198
+28094,Pay,Surat,Gujarat,Rohit mangukiya C804 shivanjali height2 opp Gokuldham society Near sankar tirth school Surat GUJARAT 394101 India,True,Delivered,Confirmed,on call,1198
+28092,Ani,Surat,Gujarat,Nava faliyavankaner,False,Delivered,Confirmed,On call,2733
+28091,Khu,Nagpur,Maharashtra,Near meetha neem dargah  YMCA club opp Zero miles road civil lines Nagpur,True,Delivered,Confirmed,on call,799
+28088,Shi,West Delhi,Delhi,MG180 Vikas Puri new delhi,True,Delivered,Confirmed,On call,0
+28083,Wai,Kolkata,West Bengal,107 dh road Kali bazaar khiderpore kolkata,True,Delivered,Confirmed,on call,799
+28082,Unn,Palakkad,Kerala,Kannanthodi House Near Thekkekav Temple OttapalamKerala India,False,Delivered,Confirmed,On call,2733
+28080,Kum,Bhagalpur,Bihar,BhagalpurZero milejyoti viharnear shiv mandir co Sunil Sharma Sharma Niwas,True,Delivered,Confirmed,On call,2876
+28073,Cha,Hyderabad,Telangana,Flat no 203 KBR saila villas near villa Marie college Somajiguda Raj Bhavan Road Hyderabad Telangana,True,Delivered,Confirmed,On call,1198
+28071,Sha,Thiruvananthapuram,Kerala,Febina Manzil Near Sreekariyam Post Office Rose Nagar Road Rose Nagar Sreekariyam Thiruvananthapuram Kerala,True,Delivered,Confirmed,Confirm on whatsapp,2876
+28070,Sun,Mumbai,Maharashtra,505 c wing emerald vasant oasis apartment marol mumbai,False,Delivered,Converted,On call,0
+28069,Sap,Ghaziabad,Uttar Pradesh,Flat no 1003Tower A10 Supertech Eco village 3Greater Noida west,False,Delivered,Confirmed,On call,2733
+28067,Mat,Bangalore,Karnataka,12 Godavari Goodwill apartments Chandra Layout Vijayanagar Bangalore,False,Delivered,Confirmed,On call,1329
+28066,Pri,Patna,Bihar,Co Nathun Singh Road no 5 Jai Mahaveer colony bazaar samiti Sandalpur PatnaBihar,True,Delivered,Confirmed,On call,1198
+28064,Sha,Thane,Maharashtra,403 E WING ORCHID UNNATI GARDENS DEVDAYA NAGAR POKHRAN ROAD NO1,False,Delivered,Confirmed,On call,2733
+28063,Bal,Karnataka,Bengaluru,Avalahalli virgonagar post vinodh leyout Bangalore,True,Returned,Confirmed,Not in the town,799
+28059,Sud,Dehradun,Uttarakhand,Nai busty clementown Dehradun,True,Delivered,Confirmed,confirm on whatsapp,2876
+28058,Pri,Hyderabad,Telangana,MIG 514 3 Rd phase KPHB colony kukatpally Telangana Hyderabad,True,Delivered,Confirmed,On call,479
+28056,Lat,Mumbai,Maharashtra,22Deepak Bldg Pedder rd Behind doctors house 3rd floor opp jaslok hospital,True,Delivered,Confirmed,DPU ORDER,1118
+28055,Dr,Meerut,Uttar Pradesh,B302 venketeshwara residency near nutema hospital garh road,False,Delivered,Confirmed,On call,1899
+28054,Anj,Darjiling,West Bengal,Gandhi maidan khalpara  near sagar hotel,True,Delivered,Confirmed,On call,599
+28053,Sud,Nadia,West Bengal,Silver Jubilee Road opposite PWD office near pramanik cinema post office ranaghat district Nadia West Bengal po ranaghat dist nadia,True,Delivered,Confirmed,On call,2876
+28051,Pra,Visakhapatnam,Andhra Pradesh,Viman Nagar lane 4 west F2 Sri sai swaghat  vishakapatnam,True,Delivered,Confirmed,Confirm on whatsapp,2876
+28050,Bid,Bangalore,Karnataka,403 elegant dafodills apartment,False,Delivered,Confirmed,On call,4553
+28049,Sne,Hyderabad,Telangana,104663pvncolony beside indu Sagar appartmentmirjalgudamalkajgiri Hyderabad,True,Delivered,Confirmed,On call,999
+28048,Rid,KVRangareddy,Telangana,Villa no33pristine estatesgopanpally thandahyderabad,True,Delivered,Confirmed,on call,1724
+28047,Pra,Bangalore,Karnataka,No 104 15 th cross vijayalakshmi layout kalkere main hormavu landmark near sams security,False,Delivered,Confirmed,On call,760
+28045,Arp,Thane,Maharashtra,House no  805 Kaniya building  shivai nagar,True,Delivered,Confirmed,Confirm on whatsapp,999
+28044,Mad,Thane,Maharashtra,C 204 Shrikrishna SadanMumbra Devi colony Road above Shree classes Diva East,True,Delivered,Confirmed,On call,479
+28043,Son,Ranchi,Jharkhand,4B Bethel Apartment New Garden Siromtoli Ranchi Jharkhand,True,Delivered,Confirmed,ON call,2876
+28042,Nav,Jalandhar,Punjab,586 mota Singh nagar,False,Delivered,Confirmed,Payment Link Sent,1899
+28041,Jun,Kanpur Nagar,Uttar Pradesh,1231 ratan lal nagar kanpur UP,True,Delivered,Confirmed,On call,759
+28040,Ani,Damoh,Madhya Pradesh,House no 2122 palandi chouraha bade mazat hatta damoh,True,Delivered,Confirmed,On call,2876
+28038,Raj,Lucknow,Uttar Pradesh,G6 B block bcc residency lalbagh lucknow,False,Delivered,Converted,On call,0
+28037,Oli,Dibrugarh,Assam,Bank of India Lepetkata Branch Rameshwar bhawan NH 37 Barbaruahh,False,Delivered,Confirmed,On call,3417
+28036,Jat,Jalandhar,Punjab,Major Kartar SinghHouse no 104 British Town near Anandpur Ashram Dakoha road Rama Mandi Jalandhar Cantt Punjab,False,Delivered,Confirmed,On call,2392
+28035,Rad,North East Delhi,Delhi,C370 gali no16 bhajanpura Delhi,False,Delivered,Confirmed,On call,760
+28034,Nee,Thiruvananthapuram,Kerala,Best Choice Margin free Supermarket  Sarkara Chirayinkeezhu,True,Delivered,Confirmed,On call,1298
+28033,Nid,Bangalore,Karnataka,Aastha vallmark appt  b block 1104  Bannerghatta main road  near Meenakshi temple,True,Returned,Confirmed,Call Declined,2876
+28032,Van,Bangalore,Karnataka,Virat Nagar circle bommanahalli vinayaka medical store road,True,Delivered,Confirmed,On call,799
+28031,Kir,Thane,Maharashtra,A203rajendra suri apt 60 feet road opposite nakoda hospital,False,Delivered,Converted,On call,0
+28030,Gar,Faridabad,Haryana,194 sector 21D Faridabad,False,Delivered,Converted,paid,722
+28029,Cha,Bankura,West Bengal,Joyrambati  Bankura,False,Delivered,Confirmed,On call,285
+28028,Sup,Jalgaon,Maharashtra,Plot no 53 Vardhman nagar parolatal  parola dist Jalgaon,True,Delivered,Confirmed,DPU order,999
+28027,Akh,Ernakulam,Kerala,Mannuchirayil house Perumpadanna Nparavur,True,Delivered,Confirmed,On call,1509
+28026,Sal,Hyderabad,Telangana,3M Diagnostic center behind Old Prince hotel  Sakina Complex Mehdipatnam,True,Delivered,Confirmed,On call,999
+28025,Par,Vijapur,Gujarat,28A Gayatri Society Near Raghav Gas Agency  Industrial Area Vijapur Gujarat,True,Delivered,Confirmed,On call,0
+28022,Jei,Tiruvallur,Tamil Nadu,Plot No313 easwaran Nagar vepampattu thiruvallur district,True,Delivered,Confirmed,On call,7992
+28018,Aaf,Howrah,West Bengal,Bapi buildersVillpost  BegriPS DomjurDistHowrah,True,Delivered,Confirmed,confirm on whatsapp,759
+28016,Vis,Bangalore,Karnataka,No162A 2nd cross 6th Main JP nagar 3rd Phase Bangalore,False,Delivered,Confirmed,On call,2733
+28015,Min,South Delhi,Delhi,4295 Govindpuri kalkaji new delhi,True,Returned,Confirmed,DPU ORDER,599
+28013,Mar,Mumbai,Maharashtra,Bahadoor manzil first floor Store lane fort mumbai,False,Delivered,Confirmed,Payment Link Sent,1638
+28012,Nat,Mumbai,Maharashtra,22012 challenger thakur village kandivali east mumbai,False,Delivered,Confirmed,On call,4553
+28011,Min,Wayanad,Kerala,House No9112 Docter PadiCheeral Cheeral PO Sulthan Bathery Wayanad,False,Delivered,Confirmed,paid,1899
+28009,Mon,Pune,Maharashtra,43 krishna bungalow servno 17 opp euro kids shayadri park off Salunke vihar road Kondhwa  Pune 411048,True,Delivered,Confirmed,On call,1398
+28008,San,North Goa,Goa,D20  lane 3 La Marvel  Colony Rajbhavan  Rd,False,Delivered,Confirmed,On call,1329
+28007,Shr,Nagpur,Maharashtra,99New Om Nagar Hudkeshwar Road Nagpur,True,Delivered,Confirmed,DPU ORDER,489
+28006,Mon,Pune,Maharashtra,Flat no503Wing C2 Mahalaxmi Vihar Society Visrantwadi Alandi Road,False,Delivered,Confirmed,On call,1899
+28004,Vij,Meerut,Uttar Pradesh,B214 SUPERTECH PALMGREEN Delhi road Near shopprix mall,False,Delivered,Confirmed,On call,1780
+28003,Bha,East Delhi,Delhi,X811chand mohalla Gandhi Nagar Delhi,False,Delivered,Confirmed,On call,1139
+28002,Mat,Bangalore,Karnataka,12 Godavari Goodwill apartments Chandra Layout Vijayanagar Bangalore,False,Delivered,Confirmed,On call,1329
+27997,Arj,Gautam Buddha Nagar,Uttar Pradesh,D 16932 Sector 50 Neo hospital,False,Delivered,Converted,On call,700
+27996,Esh,Pune,Maharashtra,Flat 502 Sharda Florentia Chowdhary wasti Ashoka Nagar Kharadi Near shell petrol pump,False,Delivered,Converted,On call,700
+27992,Sha,Lucknow,Uttar Pradesh,Shalu singh bhadauriyawo piyush mishra Admaaham city doctor kheda tikoniya tana para near saroj hospital Lucknow,True,Delivered,Confirmed,On call,1998
+27991,Kau,Wardha,Maharashtra,Shriram Govind Kathane Saraf line opp to Balaji templewardha,False,Delivered,Confirmed,pay after sometime,4097
+27989,Mal,North 24 Parganas,West Bengal,394 bindubasini Ghosh Lanemonirampore Barrackpore,True,Returned,Confirmed,Call Declined,2876
+27987,Swa,Fatehgarh Sahib,Punjab,State Bank of India Amloh Road Mandi Gobindgarh,False,Delivered,Converted,paid,1899
+27986,Ras,Kolkata,West Bengal,Paras Apartment flat 5b 11 Chakraberia Lane Kolkata700020,False,Delivered,Converted,paid,1899
+27985,Run,Kolkata,West Bengal,Natural Heights Ph1  42B 137 VIP Road,True,Delivered,Confirmed,On call,1198
+27984,Chh,Fatehgarh Sahib,Punjab,proffessor colony street no 3 house no 1922,False,Delivered,Confirmed,On call,455
+27983,Sha,Chennai,Tamil Nadu,35 4th Trust Cross Street Mandavelipakkam Raja Annamalai Puram,False,Delivered,Confirmed,On call,2563
+27981,Chr,Chikkaballapur,Karnataka,St Francis Xaviers church compound BB Road Chickballapur  562101,True,Delivered,Confirmed,On call,799
+27980,Shi,South Delhi,Delhi,A176 ground floor new friends colony,True,Delivered,Confirmed,On call,1198
+27978,Shi,RaigarhMH,Maharashtra,Areva apartment flat no 101 plot no 86 sector18,True,Returned,Confirmed,Do Not Want,479
+27977,Pal,Bangalore,Karnataka,27 2nd crossshetty layout anjanapura,True,Delivered,Confirmed,On call,1998
+27975,Aku,North West Delhi,Delhi,BP 39 FOURTH FLOOR SHALIMAR BAGH WEST DELHI,False,Delivered,Converted,SSG,0
+27973,Div,Bangalore,Karnataka,93Aanjenaya Temple Road Valegerahalli last bus stop KS Town Bangalore,True,Delivered,Confirmed,DPU ORDER,999
+27972,Shi,Jammu,Jammu  Kashmir,Doomi Sobka akhnoor near govt primary school sobka,True,Returned,Confirmed,DPU ORDER,999
+27971,Gau,West Delhi,Delhi,D70 Ajay Enclave Tilak Nagar Near Subhash Nagar Metro Station,True,Delivered,Confirmed,Mailed,3596
+27970,Pan,North West Delhi,Delhi,BP 39 FOURTH FLOOR SHALIMAR BAGH WEST DELHI,False,Delivered,Converted,SSG,0
+27969,Div,Parbhani,Maharashtra,Karegaon Road swagat Nagar Parbhani,True,Delivered,Confirmed,confirm on whatsapp,999
+27968,Sup,Bangalore Rural,Karnataka,No38 Ganigara Pet Kammavari Pete Hoskote Karnataka,True,Returned,Confirmed,DPU 4,999
+27967,Jas,Thane,Maharashtra,A301akshar bhuwanvijay vihar complexevershine  city vasai east,True,Returned,Confirmed,DPU ORDER,1198
+27966,Arp,Lucknow,Uttar Pradesh,362  SBI Colony sector G  jankipuram  226021 lucknow UP,False,Delivered,Confirmed,On call,664
+27965,Deb,Mumbai,Maharashtra,B Type building 1 Apartment 3 Near Jalvihar Guest house Indian Institute of TechnologyBombay Powai Mumbai400076 India IIT powai Mumbai Maharashtra,False,Delivered,Confirmed,On call,285
+27964,Pri,Mumbai,Maharashtra,C wing flat number 401 link palace chs behrambaug,False,Delivered,Confirmed,On call,3417
+27962,Jen,Rajkot,Gujarat,3rd floor above Drsendip pala hospital nirmala main road Rajkot,True,Delivered,Confirmed,On call,999
+27961,Jac,South Goa,Goa,Macbrout Engineering Pvt Ltd sao jose de areal,True,Delivered,Confirmed,On call,599
+27960,Bhu,Ghaziabad,Uttar Pradesh,712 Bharat Residency Ahinsa Khand 2 Near DPS Indirapuram Ghaziabad UP,False,Delivered,Confirmed,On call,1139
+27959,Van,Ghaziabad,Uttar Pradesh,Km22Ff1 ganpati Appartment Kavi nagar Ghaziabad,True,Delivered,Confirmed,Confirm on whatsapp,1998
+27958,Gar,Faridabad,Haryana,194 Sector 21 D,False,Delivered,Confirmed,DPU 2,570
+27957,Pan,North West Delhi,Delhi,BP 39 FOURTH FLOOR SHALIMAR BAGH WEST DELHI,False,Delivered,Converted,SSG,0
+27955,Ara,Gulbarga,Karnataka,Plot no 7 1 cross pavan ganga colony rajapur road opposite kosgi kalayan mantap gulbarga state Karnatak,True,Delivered,Confirmed,DPU order,1498
+27953,Pin,Mumbai,Maharashtra,A wing Arham tower2303dr compoundDuttaram landmarkChinchpokli eastMumbai 400012,True,Delivered,Confirmed,On call,1998
+27952,Ric,Indore,Madhya Pradesh,Flat no202moon palace building laal radio wali gali jail road,True,Delivered,Confirmed,On call,1724
+27950,Anu,Mumbai,Maharashtra,Flat no 1301 Auris Serenity tower no A Kanchpada Malad west,False,Delivered,Confirmed,On call,2049
+27949,Man,Kapurthala,Punjab,Rail Coach Factory Near Gurudwara Sant Baba Harnam Singh Ji Kapurthala Punjab,True,Delivered,Confirmed,pickrr,2156
+27948,Pad,Chennai,Tamil Nadu,No95 kumrappan street3rd floorgovindappa anapalli near chandrapuri bhavansowcarpet,True,Delivered,Confirmed,Confirm on whatsapp,1598
+27947,Son,North Goa,Goa,999 Sai Dutt Alto Torda Porvorim,False,Delivered,Confirmed,On call,1899
+27944,Ash,Haveri,Karnataka,1st cross Manjunath Nagar,True,Returned,Confirmed,DPU ORDER,2876
+27943,Dee,South Delhi,Delhi,B512 New Friends Colony  Near gurudwara  New Delhi,False,Delivered,Confirmed,On call,2049
+27942,Bin,Kolkata,West Bengal,Mohini villablock 2flat no 2DMohini Villa Road Arjunpur Kaikhali Kolkata,True,Delivered,Confirmed,DPU order,799
+27941,Nan,Vellore,Tamil Nadu,No63 kovil Street kallalan kuppam village via sholinghur tamil nadu,False,Delivered,Converted,PAID,3417
+27940,Nit,Panchkula,Haryana,House No 99 First Floor Sector 15 134109 Panchkula Haryana,False,Delivered,Converted,PAID,1899
+27938,Chr,Bangalore,Karnataka,Flat No207 Kristal sunstone Apt 17th E Main 5th A cross Koramangla 6th Block,False,Delivered,Confirmed,On call,1899
+27936,Ran,Jaipur,Rajasthan,3692 Pratap nagar Sanganer Jaipur Rajasthan,True,Delivered,Confirmed,on call,1998
+27934,Neh,East Delhi,Delhi,C 76 Takshashila apartment,True,Delivered,Confirmed,on call,1998
+27933,Har,Ahmedabad,Gujarat,Labh Engineering B  156 shakti tenaments Near Municipal school Isanpur Ahmedabad 382443,False,Delivered,Converted,PAID,2563
+27932,Rup,Mumbai,Maharashtra,602 Bhuvaneshwari Ram nagar Boriwali w,False,Delivered,Confirmed,On call,380
+27931,Ais,Lucknow,Uttar Pradesh,5 j c Bose marg opposite LDA office Lalbagh Lucknow,True,Delivered,Confirmed,on call,2876
+27930,Son,Gurgaon,Haryana,K 10  31 dlf phase 2 Gurgaon 122002,True,Delivered,Confirmed,Confirm on whatsapp,559
+27929,Anj,RaigarhMH,Maharashtra,Flat No301 Block G Uttam Galva Housing Colony Anand Nagar Khopoli Maharashtra,True,Delivered,Confirmed,Confirm on whatsapp,479
+27928,Pan,Tiruvannamalai,Tamil Nadu,2A Mattupatti street,True,Returned,Confirmed,Call Declined,999
+27927,Suh,Jaipur,Rajasthan,84 Vivek Vihar  JLN marg Bajaj Nagar Jaipur Rajasthan,False,Delivered,Converted,PAID,760
+27926,Har,Amritsar,Punjab,Post Office JALALPURA AMRITSAR PUNJAB,True,Returned,Confirmed,DPU 4,1724
+27925,Dev,North East Delhi,Delhi,T8A STREET7 GAUTAMPURI  DELHI,False,Delivered,Converted,PAID,2563
+27924,Rid,Mumbai,Maharashtra,504 tower 4 Raheja tipco heights Rani sati Marg Malad East,True,Delivered,Confirmed,On call,799
+27923,Rak,Bhilwara,Rajasthan,Mahadev associates shani dev temple ke piche gandhi nagar,True,Delivered,Confirmed,confirm on whatsapp,999
+27921,Tar,Mumbai,Maharashtra,Orchid ENCLAVE A wing 804 opp st bus depot  belasis road Mumbai central,True,Delivered,Confirmed,On call,1398
+27920,Sac,Gautam Buddha Nagar,Uttar Pradesh,Sds nri residency Tower B room no 1103 near pari chowk greater noida,False,Delivered,Converted,On call,0
+27919,Ish,Kanchipuram,Tamil Nadu,Ruby residency s122 chandran nagar irumbuliyur,True,Delivered,Confirmed,On call,1198
+27918,Man,Ananthapur,Andhra Pradesh,Shanthi Nagar rayadurgam Anantapur district Andhra Pradesh rayadurgam,True,Delivered,Confirmed,on call,799
+27914,Y A,KVRangareddy,Telangana,J S N RAJU Womens Hostels Laxmi Nagar Kalapuram Basti Miyapur Telangana India,False,Delivered,Confirmed,On call,2733
+27913,Asi,South West Delhi,Delhi,Dwarka sector 23 ponchampur shivamber apartment,True,Delivered,Confirmed,confirm on whatsapp,799
+27912,Rio,Mumbai,Maharashtra,220802 West View Heights Sir Bhalchandra Road Matunga,False,Delivered,Confirmed,On call,1899
+27911,Len,Bangalore,Karnataka,87A23rd Cross16th Main2nd Stage BTM Layout,True,Delivered,Confirmed,on call,2876
+27910,She,Thane,Maharashtra,om ujjwala sadan flat502bhatt wadiKisan nagar3behind Shreeram buildinglandmarkshivtekdi bridge,True,Delivered,Confirmed,On call,0
+27909,Rid,East Delhi,Delhi,14141 3rd floor Geeta Colony Delhi,True,Delivered,Confirmed,confirm on whatsapp,799
+27908,May,Thane,Maharashtra,1401tower2saket towerveer savarkar roadthane west,False,Delivered,Confirmed,On call,456
+27907,Nad,Bangalore,Karnataka,17017 Prestige Shantiniketan Whitefield Bangalore,False,Delivered,Confirmed,On call,6833
+27906,Anj,Jaipur,Rajasthan,S1 virasat paradise 29 raghu vihar maharani farm Durgapura,True,Delivered,Confirmed,On call,2876
+27905,Sha,Pune,Maharashtra,2422 Narangi Baug Road Lane opposite Bramhanand Society,False,Delivered,Confirmed,On call,2733
+27904,Sk,Bardhaman,West Bengal,Dipali Apartment3rd floor flat no 2 sb Gorai Road,True,Delivered,Confirmed,On call,999
+27903,Poo,Mumbai,Maharashtra,B902 AKRUTI ATRIA SAIWADI OPPOSITE TELI GULLY OFF ANDHERI FLYOVER ANDHERI EAST,False,Delivered,Confirmed,On call,2733
+27902,Shr,Thane,Maharashtra,Heramb apartmenta 102 beside samartha super market,False,Delivered,Confirmed,Payment Link Sent,570
+27901,Yog,Dhule,Maharashtra,142 Oswal Nagar Near Satpuda HighschoolDhule,False,Delivered,Confirmed,On call,456
+27900,Rox,Mumbai,Maharashtra,7 Prem court pedder road,True,Delivered,Confirmed,On call,0
+27899,Sac,Gautam Buddha Nagar,Uttar Pradesh,Sds nri residency Tower B room no 1103 near pari chowk greater noida,False,Delivered,Converted,On call,0
+27898,Mon,Patiala,Punjab,D2104 Maya Garden City Zirakpur Punjab,False,Delivered,Confirmed,On call,760
+27896,Nik,Raigarh,Chattisgarh,Amantaran chowk behind BSNL Colony beladula road RaigarhCG,True,Delivered,Confirmed,On call,1198
+27890,Aka,Mumbai,Maharashtra,Room no988 Bhagat singh nagar no 1Goregaon West Mumbai,True,Delivered,Confirmed,Confirm on whatsapp,599
+27887,Int,Krishna,Andhra Pradesh,Near kamala theatre Seetharampuram Jaggayapet Krishna dist,False,Delivered,Confirmed,paid,1638
+27886,Sum,Tinsukia,Assam,mugilpur dist tinsukia,True,Returned,Confirmed,DPU 6,2876
+27884,Pra,East Godavari,Andhra Pradesh,Flat no 302 Budha Enclave,False,Delivered,Confirmed,paid,760
+27879,Anj,Bangalore,Karnataka,No320 4th block 19th main 2nd cross Nandini Layout Bangalore,True,Delivered,Confirmed,On call,419
+27878,Meg,Satna,Madhya Pradesh,20487 krishna nagar opposite jhankar ornaments Satna MP,True,Delivered,Confirmed,On call,2876
+27876,Jer,Darrang,Assam,Tangla jalukbari Ward no 2,True,Returned,Confirmed,Customer Refused,999
+27875,Chi,Bangalore,Karnataka,C203 DNA ARISTON DNA APARTMENTS BOREWELL ROAD WHITEFIELD Bengaluru,False,Delivered,Confirmed,razorpay confirmed,1899
+27874,Rak,Kachchh,Gujarat,SECTOR 1 A PLOT NO 26 BEHIND GANDHI MARKET  GANDHIDHAM,True,Delivered,Confirmed,On call,2876
+27873,Mai,Khorda,Odisha,Plot no 3851855 Daman chakk Bhubaneswar Odisha,False,Delivered,Confirmed,razorpay confirmed,950
+27870,Deb,Darjiling,West Bengal,52subarnabeena apartment Bankim Chandra Road Hakim paraSiliguri  Darjeeling,True,Delivered,Confirmed,On call,2876
+27868,Med,Nashik,Maharashtra,7 Sanskruti Srushti Anjani Nagar Behind Bhosala Military School Nashik,True,Delivered,Confirmed,on call,599
+27866,Ran,Jalandhar,Punjab,Nawanshahar Road Near skDairy Garha Tehsil Phillaur Distt jalandhar punjab,False,Delivered,Confirmed,paid,2733
+27865,Kom,Ahmedabad,Gujarat,90 arcus skycity near o7 club road sela AHMEDABAD,True,Delivered,Confirmed,confirm on whatsapp,2876
+27860,Ras,Sambalpur,Odisha,STATE BANK OF INDIASARB BRANCHNEAR MADNAWATI SCHOOLAINTHAPALLISAMBALPUR,False,Delivered,Converted,paid,2392
+27859,Jay,Thane,Maharashtra,302 BD Wadhwa Meadows RTO Road Near Icon Plaza Hall Bhoirwadi,False,Delivered,Confirmed,On call,2733
+27858,Hem,Pune,Maharashtra,Sylvania Building Towards John Deere Inner Cir Magarpatta Hadapsar Pune Maharashtra,True,Delivered,Confirmed,Confirm on whatsapp,479
+27857,Cha,Chittorgarh,Rajasthan,chaitanyas H227 VIKRAMNAGAR RAWATBATA,False,Delivered,Confirmed,PAID,2733
+27856,Nan,West Delhi,Delhi,J 1225 first floor Rajouri garden,True,Delivered,Confirmed,on call,479
+27855,Nik,Dakshina Kannada,Karnataka,Vishwaroopa Sauda 2nd Floor Near Sagar hotel Gurpura kaikamba Mangalore,True,Delivered,Confirmed,confirm on whatsapp,2876
+27853,Sha,North 24 Parganas,West Bengal,68 jessore road diamond city north block 3 flat 6 E,True,Delivered,Confirmed,confirm on whatsapp,2876
+27852,Bin,Ernakulam,Kerala,Kakkanad SFS silicon meadows seaport Airport Rd opposite CSEZ,True,Delivered,Confirmed,On call,999
+27848,Eli,Hyderabad,Telangana,C3502 HUDA Colony Near MMTS Main Road Chanda Nagar Hyderabad Telangana 500050,True,Delivered,Confirmed,On Call,3596
+27847,She,Bangalore,Karnataka,DECCAN PRIDE1 Service Road RPC Layout Vijayanagar 560040 Bangalore Karnataka,False,Delivered,Confirmed,paid,2733
+27844,Pur,Sundergarh,Odisha,Qr no A130 Sector19 769005 Sundergarh Odisha,False,Delivered,Confirmed,paid,1638
+27842,Van,Mumbai,Maharashtra,1002 Delight City of Joy ACC Cement Company Compound JSD Road Mulund west,False,Delivered,Confirmed,On call,949
+27841,Mon,Mumbai,Maharashtra,7 tirupati balaji coop society  Dr Ambedkar Road Charkop Sector 1 above mangal murti hospital,True,Delivered,Confirmed,on call,999
+27839,Mou,South 24 Parganas,West Bengal,1542picnic garden road,False,Delivered,Converted,paid,3417
+27837,Gop,Mumbai,Maharashtra,B 203 Gokul Vraj Bldg JB Nagar Andheri East  Jain Mandir road,False,Delivered,Converted,On call,550
+27836,Anu,Hyderabad,Telangana,Plot no 87 hno 4572 Mithilanagar Rci road Mithilanagar Ramalayam,False,Delivered,Converted,On call,550
+27835,Ekt,Mumbai,Maharashtra,Room no187Ramabai nagarMatunga labour camp Behind bldg no5nr siddharth seva sanghambedkar road Labour restaurant,False,Delivered,Converted,On call,550
+27834,Kus,Panchkula,Haryana,House No 593 Sector 16 Opposite Agarwal Bhawan,False,Delivered,Converted,On call,550
+27833,Kus,Panchkula,Haryana,House No 593 Sector 16 Opposite Agarwal Bhawan,False,Delivered,Converted,On call,550
+27832,Swa,Kolkata,West Bengal,67a beadon street Opposite beadon street post office Beadon street post office,False,Delivered,Converted,On call,550
+27830,Ric,Dehradun,Uttarakhand,HNo170 Lane No6 Sarthi Vihar Rajeev Nagar Upper Nathanpur Dehradun Uttarakhand,True,Delivered,Confirmed,Mailed 2,2876
+27828,Roh,Patna,Bihar,C31 indrapuri colony ramnagri more ashiana digha road,False,Delivered,Confirmed,On call,2732
+27827,Lin,Ernakulam,Kerala,121216 kallattil house panyapilly kochi2,True,Returned,Confirmed,DPU 4,599
+27825,Aks,Indore,Madhya Pradesh,Sanjana park2 rau indore cate road,True,Delivered,Confirmed,On call,799
+27824,Par,Faridabad,Haryana,House no 1026  sector 16 Faridabad,False,Delivered,Confirmed,On call,1638
+27823,Nam,Bhilwara,Rajasthan,Sundar sadan near ganesh MandirGandhi nagar bhilwara rajasthan,True,Delivered,Confirmed,On call,0
+27821,Ani,Gurgaon,Haryana,House No423P Sector51 Gurgaon,False,Delivered,Confirmed,On call,2716
+27818,Ama,KVRangareddy,Telangana,Villa no 125 Aparna County,True,Delivered,Confirmed,On call,799
+27814,Van,Bhavnagar,Gujarat,Balram panjvani plot no1531 behind BMcommerece high schoolnear nilmani tenaments ghogha circle  bhavnagar,True,Delivered,Confirmed,On call,799
+27812,Sha,Almora,Uttarakhand,Panchwati colony bhawanijang Ramnagar,True,Returned,Confirmed,Customer Refused,599
+27809,Neh,Surat,Gujarat,1st floor marg ane makan bhavan nanpura surat,True,Delivered,Confirmed,On call,599
+27807,Sun,West Delhi,Delhi,61BGG1 VIKASPURI NEW DELHI,True,Delivered,Confirmed,On call,0
+27804,Pra,North West Delhi,Delhi,B167LOK VIHAR,True,Delivered,Confirmed,DPU order,1724
+27803,Par,Ahmedabad,Gujarat,102surdhara bunglowsnear surdhara circle SAL hospital roadThaltejahmedabadgujarat,True,Delivered,Confirmed,On call,2876
+27802,Kou,Coimbatore,Tamil Nadu,Ak Complex Ravindranath Tagore rd Ganapathy Coimbatore,True,Delivered,Confirmed,DPU order,799
+27800,Riy,Hooghly,West Bengal,VillBali Post Balidewanganj DistHooghly,True,Delivered,Confirmed,On call,2876
+27799,Sin,Coimbatore,Tamil Nadu,No 23 Sekar auto electrical works avinashi road gandhinagar tirupur,True,Delivered,Confirmed,On call,599
+27798,Kiv,Dimapur,Nagaland,Lhomithi village signal bazaar,True,Delivered,Confirmed,On call,2172
+27797,Dee,Morena,Madhya Pradesh,12538 Gupta gali Gandhi Colony Morena,True,Delivered,Confirmed,On call,0
+27796,Kha,Mumbai,Maharashtra,Kidwai Nagar colony building no4 room no 8,True,Returned,Confirmed,DPU ORDER,599
+27795,Gau,Pune,Maharashtra,C704Leon orbit opposite Aakash Ganga society konkane chowk rahatani road Pimple Saudagar Pune,False,Delivered,Confirmed,On call,2733
+27793,U V,Hyderabad,Telangana,222219 jayanagar kphb colony Kukatpally,True,Delivered,Confirmed,On call,0
+27792,Omk,Thane,Maharashtra,Plot 115 b cabin road pathare park ambernath east,True,Delivered,Confirmed,On call,2876
+27788,Sun,West Delhi,Delhi,Plot no 14block B Rekha enclavemansrover garden,True,Delivered,Confirmed,on call,1214
+27787,Hem,Mysore,Karnataka,Aakash institute anikethana road Mysuru,False,Delivered,Confirmed,On call,2563
+27785,Pal,Nagpur,Maharashtra,47jay durga leout no6 bhind hotel prayed Manish Nagar Nagpur,True,Delivered,Confirmed,DPU order,599
+27783,Arc,Chennai,Tamil Nadu,1634hh1Vishnu padmanab,True,Delivered,Confirmed,on call,599
+27782,Meh,Gurgaon,Haryana,A640A  PALAM VIHAR GURGAON HARYANA,True,Delivered,Confirmed,cod,760
+27781,Sha,Gurgaon,Haryana,Raj Villas Sector52 A Block,True,Returned,Confirmed,On Call,999
+27779,San,South Delhi,Delhi,F97 East of Kailash 2nd floor New Delhi,False,Delivered,Confirmed,On call,950
+27777,Sar,Kamrup,Assam,H no 29 Surya Nagar Satgaon Near Railway line  Guwahati Assam,False,Delivered,Confirmed,On call,1638
+27776,Ras,Bangalore Rural,Karnataka,Nagarjuna collage beedaganahalli,True,Returned,Confirmed,Customer Refused,559
+27775,Ras,Bangalore Rural,Karnataka,Nagarjuna collage beedaganahalli,True,Returned,Confirmed,Customer Refused,2156
+27774,Mid,Coimbatore,Tamil Nadu,No 12a moogambigai nagar extension uthukuli road karumarampalayam tirupur,True,Delivered,Confirmed,DPU Order,999
+27772,Dip,Sundergarh,Odisha,Hamirpur near kalyani chowk sector19 Rourkela,True,Delivered,Confirmed,On call,799
+27771,Sha,Bangalore,Karnataka,A206 Sri Sai Supreme Apt 2nd floor Gottigere Near Nandi  Park,False,Delivered,Confirmed,On call,2733
+27769,Div,Lucknow,Uttar Pradesh,A25 sector J Aliganj lucknow,True,Delivered,Confirmed,on call,479
+27768,Hap,West Delhi,Delhi,Gali no 13 Krishna park Tilak Nagar,True,Delivered,Confirmed,confirm on whatsapp,999
+27765,Vik,North West Delhi,Delhi,House no 5 indra vihar Mukherjee Nagar,False,Delivered,Confirmed,On call,2733
+27763,Aak,Durg,Chattisgarh,Canara Bank Nandini Road Power House Bhilai,True,Delivered,Confirmed,on call,2876
+27761,Rid,North West Delhi,Delhi,E1066 Saraswati Vihar Pitampura,False,Delivered,Confirmed,On call,4783
+27759,Pan,Mumbai,Maharashtra,Sandwizza 3 Kamala Terrace Subhash Road Vile Parle East Vile Parle,True,Delivered,Confirmed,on call,2876
+27757,Aru,Tiruchirappalli,Tamil Nadu,No 478 12th cross Shanmuga Nagar UKT Malai Trichy,False,Delivered,Confirmed,Mailed,2733
+27756,Har,Ratlam,Madhya Pradesh,Om morvi tiles and sanitary Barbad naka Sailana raod  Ratlam,True,Delivered,Confirmed,Confirm on whatsapp,799
+27755,Sam,Warangal,Telangana,25376 behind addalat hanamkondawarangal Telanganaindia,True,Delivered,Confirmed,on call,2876
+27754,Poo,Bangalore,Karnataka,18195cross Kogilu main road Yelahaka Bangalore,True,Returned,Confirmed,DPU ORDER,999
+27753,Nit,Salem,Tamil Nadu,1317Richview Apartment Sahadevapuram Extn Rajaram NagarSalem,False,Delivered,Confirmed,Paid,760
+27752,Arv,Chandigarh,Chandigarh,1549 Sector36D,True,Delivered,Confirmed,on call,1724
+27748,Bha,Krishnagiri,Tamil Nadu,37 krishnappa layout Krishnagiri,True,Delivered,Confirmed,DPU order,799
+27746,Mam,Mumbai,Maharashtra,ROW HOUSE NO 34 CUSTOM COLONYRIGHT NEXT TO BAMANDAYA PADA BUS STOP MILITARY ROAD MAROL ANDHERI EAST MUMBAI,False,Delivered,Confirmed,On call,2733
+27743,Rac,Jalpaiguri,West Bengal,Nagrakata school more Nagrakata Distric jalpaigudi,True,Delivered,Confirmed,confirm on whatsapp,2876
+27742,Kul,Datia,Madhya Pradesh,New girraj collection Gobind plaza bhander road indergarh Datia,True,Delivered,Confirmed,On call,0
+27736,Kal,Kurnool,Andhra Pradesh,Flat no115,False,Delivered,Confirmed,On call,2733
+27734,Poo,Mumbai,Maharashtra,A1501 AQUARIA GRANDE 400103 Mumbai Maharashtra,False,Delivered,Converted,paid,2733
+27733,Gag,Firozpur,Punjab,572 Near Saint Farid School New Azad Nagar Ferozepur City,True,Delivered,Confirmed,On call,1724
+27732,B S,Chittoor,Andhra Pradesh,3148 Teachers Colony Madanapalle,True,Delivered,Confirmed,On call,799
+27731,Nee,Ludhiana,Punjab,85h block sarabha nagar ludhiana,False,Delivered,Converted,Paid,1638
+27726,Shr,Nagpur,Maharashtra,99New Om Nagar Hudkeshwar Road Nagpur,True,Delivered,Confirmed,DPU ORDER,479
+27722,Deb,North 24 Parganas,West Bengal,FE 5078sector iiisaltlakekolkata,False,Delivered,Confirmed,On call,2733
+27715,Dim,Hyderabad,Telangana,114 maltinaik plaza hanuman tekdi Abids Hyderabad,True,Delivered,Confirmed,On call,1278
+27713,Nit,Yamuna Nagar,Haryana,3071Vishnu nagar jagadhri workshop Yamunanagar,True,Delivered,Confirmed,DPU order,449
+27712,Sub,Bangalore,Karnataka,Flat 564 DSR Woodwinds Sarjapur Road Doddakanelli Bangalore,False,Delivered,Converted,On call,0
+27711,Sub,Bangalore,Karnataka,Flat 564 DSR Woodwinds Sarjapur Road Doddakanelli,False,Delivered,Converted,On call,0
+27710,Pan,North West Delhi,Delhi,Bp 39 shalimar bagh west delhi,False,Delivered,Converted,On call,0
+27707,Aki,Cuddalore,Tamil Nadu,Kalai vimala dream house Mela veedhi,True,Delivered,Confirmed,On call,1724
+27706,Vig,Sivaganga,Tamil Nadu,GVignesh kanna      27F1 Somasundharam Nagar Ramnagar Devakottai,False,Delivered,Confirmed,On call,721
+27705,Nuf,Thrissur,Kerala,Yakkeery  house Pannithadam  Chiramenenghade po Thrissur,True,Delivered,Confirmed,DPU ORDER,599
+27704,Gul,Rewa,Madhya Pradesh,21830 purani aabkari tarahti rewa mp,True,Returned,Confirmed,DPU ORDER,599
+27702,San,Bangalore,Karnataka,301 21st Cross J C Nagar Kurubrahalli,False,Delivered,Confirmed,pickrr,760
+27699,Sap,Mumbai,Maharashtra,United medical and general store shop no 2 near samraj hotel,True,Delivered,Confirmed,On call,599
+27698,Vid,Haridwar,Uttarakhand,D113first floorshivalik nagarbhel,True,Delivered,Confirmed,On call,999
+27697,Him,Darjiling,West Bengal,Composite Hospital BSF Kadamtala near Shiv mandir Siliguri,True,Delivered,Confirmed,On call,799
+27696,Tej,Thane,Maharashtra,D Y Patil University Sector 7 Nerul,True,Delivered,Confirmed,DPU,2876
+27693,Asm,East Midnapore,West Bengal,Near Kali Mandir Khejurtala Chaitanyapur Purba Medinipur West Bengal,True,Delivered,Confirmed,DPU ORDER,479
+27692,Tsh,East Sikkim,Sikkim,Tashiling sectret office,True,Delivered,Confirmed,On call,759
+27691,Man,North Delhi,Delhi,4104 Gali Barna Sadar Bazar Delhi,False,Delivered,Confirmed,On call,2733
+27690,Pat,Anand,Gujarat,574 Moti Khadki Vasad388306  Ta  DistAnand Gujarat,True,Delivered,Confirmed,On call,2876
+27689,Anj,Gautam Buddha Nagar,Uttar Pradesh,B102 great value sharnam sec 107 noida,False,Delivered,Confirmed,On call,456
+27687,Jee,Ludhiana,Punjab,Jeena Saharan  Home no3  COUNTRY HOMES EAST South City 142027  Ludhiana,True,Delivered,Confirmed,On call,1724
+27686,Har,Tiruchirappalli,Tamil Nadu,25 tennur high roadtennur,True,Delivered,Confirmed,On call,2780
+27684,Shr,Bangalore,Karnataka,11th cross Balaji nagar Thigalarapalya main road,True,Delivered,Confirmed,On call,599
+27683,Ais,East Godavari,Andhra Pradesh,B2ullithota streetrajahmundry,True,Delivered,Confirmed,On call,799
+27682,Res,Mumbai,Maharashtra,Zohra ManziRno6A2nd floorNaupada Bandra EastNear noor ala noor masjid,True,Delivered,Confirmed,On call,799
+27681,Che,Kolhapur,Maharashtra,Flat 401 Patson Orchid Apartment CS NO 473 Mukta Sainik Vasahat,False,Delivered,Confirmed,On call,2733
+27679,Rut,Jammu,Jammu  Kashmir,House No 33 Sector 1A East Extension  Trikutanagar Jammu,False,Delivered,Confirmed,On call,2049
+27675,Har,North West Delhi,Delhi,B77A New Gupta Colony second floor street no 13 second floor,True,Delivered,Confirmed,DPU ORDER,479
+27674,Saj,Gautam Buddha Nagar,Uttar Pradesh,B201 Sector76 Noida,True,Delivered,Confirmed,On call,0
+27672,Swa,Thane,Maharashtra,Room no 07 Dada patil wadi Shivaji Nagar Gokhale Road Nr Waman hare pethe n sons Naupada Thane west,True,Delivered,Confirmed,On call,799
+27670,Rit,West Delhi,Delhi,GG161B Vikaspuri New Delhi,True,Delivered,Confirmed,On call,0
+27668,Kal,Coimbatore,Tamil Nadu,237Annapoorna Layout,False,Delivered,Confirmed,paid,456
+27663,Aja,Jodhpur,Rajasthan,27B Sector A Kamla Nehru Nagar 342008 Jodhpur Rajasthan,False,Delivered,Confirmed,paid,2733
+27661,Kum,South West Delhi,Delhi,D 65 Third Floor Freedom Fighter Enclave Ignou Road Neb Sarai New Delhi,False,Delivered,Confirmed,On call,2064
+27659,M N,Guntur,Andhra Pradesh,MRO Office Gurazala,True,Delivered,Confirmed,on call,999
+27658,Gop,KVRangareddy,Telangana,11381 pragathi nagar dilsukhnagar,True,Delivered,Confirmed,On call,0
+27656,Foz,Hyderabad,Telangana,Shahbaz manzil Royal palace vatipally safi colony falaknuma,True,Delivered,Confirmed,Escalated,1999
+27654,Myt,Chennai,Tamil Nadu,No 311 Thirunagar 5th Street Vadapalani,False,Delivered,Confirmed,On call,3416
+27653,Nis,Ramanagar,Karnataka,No207 Usha Kiran nilaya Navagraha temple street KNS circle Kanakapura Karnataka,True,Delivered,Confirmed,DPU ORDER,799
+27651,Kal,Ganganagar,Rajasthan,533 residential colony Near waterworks new gharsana Dist sri ganganagar Rajasthan,True,Delivered,Confirmed,on call,799
+27650,Pc,Bangalore,Karnataka,The Lalit AshokKumara Krupa high ground Next to CM guest house,True,Delivered,Confirmed,on call,599
+27649,Mer,West Delhi,Delhi,Sunil Dairy 140 Street Number 22 Chaukhandi Vishnu Garden,True,Returned,Confirmed,Not in the town,1998
+27648,Cha,Mumbai,Maharashtra,Shree sai Prasad Tejpal scheme road no 4 vile Parle East,True,Delivered,Confirmed,confirm on whatsapp,1724
+27647,Tan,Ghaziabad,Uttar Pradesh,1503 S1 cloud 9 appartMents vaishali sector1 ghaziabad,True,Delivered,Confirmed,confirm on whatsapp,799
+27645,Man,Rohtak,Haryana,Gohana mod meham Rohtak Haryana,True,Returned,Confirmed,DPU 4,2517
+27644,Lal,Aizawl,Mizoram,Kc39 near vishal mega mart,True,RTO,Confirmed,Confirm on whatsapp,699
+27643,Sne,Bangalore,Karnataka,D401 Purva Fountain Square Marathahalli Bangalore,False,Delivered,Confirmed,On call,2733
+27642,Hem,Gautam Buddha Nagar,Uttar Pradesh,Flat no E1001 French appartment noida extension Uttar Pradesh,True,Delivered,Confirmed,Confirm on whatsapp,2876
+27640,Sha,Leh,Jammu  Kashmir,SE Circle Office PDD choglamsar near police lane Choglamsar,True,Delivered,Confirmed,Confirm on whatsapp,999
+27638,Kor,Imphal West,Manipur,112  oinam sawombung dam  wangoi imphal west,True,Returned,Confirmed,DPU ORDER,759
+27637,Aiz,East Khasi Hills,Meghalaya,Forest quarter opposite to shullai progressive school mawlai mawroh,False,Delivered,Confirmed,On call,2733
+27634,Shw,Bhopal,Madhya Pradesh,101 Kapila Nagar  near Vishwakarma Nagar Karond Berasia road Bhopal,True,Returned,Confirmed,Customer Refused,2517
