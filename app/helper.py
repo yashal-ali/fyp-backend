@@ -28,6 +28,10 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 
 from .config import OUTPUT_FOLDER
 
+import io
+import os
+from PIL import Image
+import plotly.io as pio
 
 cloudinary.config(
   cloud_name="dlb6c8ftf",
@@ -35,7 +39,8 @@ cloudinary.config(
   api_secret="cMOW6mrEiAz_tqbXb494lAZpZl0"
 )
 
-
+OUTPUT_FOLDER = "output"
+os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 # Initialize the LLM and embeddings
 llm = OllamaLLM(model="llama3:8b-instruct-q4_0", base_url="http://localhost:11434")
 
@@ -204,7 +209,7 @@ def generate_insights(chain):
 
     return insights
 
-def generate_prediction(chain):
+def generate_predictions(chain):
     print("inside generate predictive function")
 
     predictive_questions = "Generate 5 predictive questions based on the complete dataset for analyzing outcomes, trends, or patterns."
@@ -240,7 +245,7 @@ def find_best_match(target_col, dataset_columns, threshold=80):
     print("MATCH---------",match)
     print(score)
     return match if score >= threshold else None
-
+llm_= OllamaLLM(model='mistral:7b-instruct-v0.2-q8_0' ,base_url="http://localhost:11434")
 def plot_chart(df, x_col, y_col, chart_type):
     print("step - plot charts")
     fig, ax = plt.subplots(figsize=(10, 6))
@@ -462,3 +467,49 @@ def extract_code_and_explanation(response_text: str) -> Tuple[str, str]:
     print("explanation",explanation)
 
     return code, explanation
+
+
+
+
+
+
+def run_plotly_code_and_save_image(code_str, output_filename="chart.png"):
+    """
+    Executes a Plotly code string, handles cleaning, generates any required dummy variables,
+    and saves the resulting chart to 'output/chart.png'.
+    """
+    # Ensure output directory exists
+    output_dir = "output"
+    os.makedirs(output_dir, exist_ok=True)
+
+    # Clean the code string (handle \n and escape characters)
+    cleaned_code = code_str.encode().decode("unicode_escape")
+
+    # Prepopulate variables commonly expected in LLM-generated code
+    pre_globals = {
+        "__builtins__": __builtins__,
+        "output": {i: round(i / 30, 2) for i in range(30)},  # default dummy if used
+        "px": __import__("plotly.express"),
+        "pd": __import__("pandas"),
+    }
+
+    local_vars = {}
+
+    try:
+        exec(cleaned_code, pre_globals, local_vars)
+    except Exception as e:
+        raise RuntimeError(f"[Plotly Code Execution Failed]: {e}")
+
+    # Retrieve the figure
+    fig = local_vars.get("fig")
+    if fig is None:
+        raise ValueError("Code executed but no Plotly figure object named 'fig' was found.")
+
+    # Save the chart as PNG
+    image_path = os.path.join(output_dir, output_filename)
+    img_bytes = pio.to_image(fig, format='png')
+    with open(image_path, "wb") as f:
+        f.write(img_bytes)
+
+    return image_path
+

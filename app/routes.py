@@ -13,7 +13,7 @@ from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_ollama import OllamaLLM
 
 from .config import OUTPUT_FOLDER
-from .helper import create_vector_db, extract_code_and_explanation, get_qa_chain, generate_insights, suggest_visualization, suggest_visualization_with_ai, generate_summary, generate_prediction, create_db_from_csv, rephrase_query, get_column_mapping, extract_sql_query, execute_query, generate_human_response, generate_plotly_code
+from .helper import create_vector_db, extract_code_and_explanation, get_qa_chain, generate_insights, run_plotly_code_and_save_image, suggest_visualization, suggest_visualization_with_ai, generate_summary, generate_predictions, create_db_from_csv, rephrase_query,llm_,get_column_mapping, extract_sql_query, execute_query, generate_human_response, generate_plotly_code
 
 from langchain_community.agent_toolkits import create_sql_agent
 from langchain_community.utilities import SQLDatabase
@@ -39,7 +39,7 @@ def image_to_base64(img):
 
 
 llm = OllamaLLM(model="llama3:8b-instruct-q4_0", base_url="http://localhost:11434")
-llm_= OllamaLLM(model='mistral:7b-instruct-v0.2-q8_0' ,base_url="http://localhost:11434")
+
 
 def init_routes(app):
 
@@ -102,8 +102,26 @@ def init_routes(app):
 
     @app.route("/api/generate_insight", methods=["POST"])
     def generate_insight():  
+        output_file_folder = OUTPUT_FOLDER
+        filename = request.json.get("filename", "")
 
-        vectordb_file_path = request.json.get("vectordb_file_path", "")
+        if not filename :
+            return jsonify({"status": False, "remarks": "Missing file_name or question"}), 400
+
+        file_path = os.path.join(output_file_folder, filename)
+       
+        print("Resolved file path:", file_path)
+
+        if not os.path.exists(file_path):
+            return jsonify({"status": False, "remarks": "File does not exist"}), 404
+
+        df = pd.read_csv(file_path)
+        print(f"CSV loaded with shape: {df.shape}")
+
+        chunk_size = 2000
+        chunk_overlap = 200
+
+        vectordb_file_path = create_vector_db(file_path, chunk_size, chunk_overlap)
         if vectordb_file_path:
             chain = get_qa_chain(vectordb_file_path=vectordb_file_path)
             print("chain is generated")
@@ -116,12 +134,30 @@ def init_routes(app):
 
     @app.route("/api/generate_prediction", methods=["POST"])
     def generate_prediction():  
+        output_file_folder = OUTPUT_FOLDER
+        filename = request.json.get("file_name", "")
+     
 
-        vectordb_file_path = request.json.get("vectordb_file_path", "")
+        if not filename :
+            return jsonify({"status": False, "remarks": "Missing file_name or question"}), 400
+
+        file_path = os.path.join(output_file_folder, filename)
+        print("Resolved file path:", file_path)
+
+        if not os.path.exists(file_path):
+            return jsonify({"status": False, "remarks": "File does not exist"}), 404
+
+        df = pd.read_csv(file_path)
+        print(f"CSV loaded with shape: {df.shape}")
+
+        chunk_size = 2000
+        chunk_overlap = 200
+
+        vectordb_file_path = create_vector_db(file_path, chunk_size, chunk_overlap)
         if vectordb_file_path:
             chain = get_qa_chain(vectordb_file_path=vectordb_file_path)
             print("chain is generated")
-            predictions =  generate_prediction(chain)
+            predictions =  generate_predictions(chain)
             return jsonify({
                     "predictions": predictions
                 }), 200
@@ -163,21 +199,52 @@ def init_routes(app):
         
     
     @app.route("/api/chat_with_data", methods=["POST"])
-    def chat_with_data():  
-        question = request.json.get("question", "")
-        vectordb_file_path = request.json.get("vectordb_file_path", "")
-        if vectordb_file_path:
+    def chat_with_data():
+        try:
+            output_file_folder = OUTPUT_FOLDER
+            filename = request.json.get("filename", "")
+            question = request.json.get("question", "")
+
+            if not filename or not question:
+                return jsonify({"status": False, "remarks": "Missing file_name or question"}), 400
+
+            file_path = os.path.join(output_file_folder, filename)
+            print("Incoming question:", question)
+            print("Resolved file path:", file_path)
+
+            if not os.path.exists(file_path):
+                return jsonify({"status": False, "remarks": "File does not exist"}), 404
+
+            df = pd.read_csv(file_path)
+            print(f"CSV loaded with shape: {df.shape}")
+
+            chunk_size = 2000
+            chunk_overlap = 200
+
+            vectordb_file_path = create_vector_db(file_path, chunk_size, chunk_overlap)
+
+            if not vectordb_file_path:
+                print("Vector DB path was not generated.")
+                return jsonify({"status": False, "remarks": "Failed to create vector DB"}), 500
+
             chain = get_qa_chain(vectordb_file_path=vectordb_file_path)
-            print("chain is generated")
-            print("Processing your question...\n")
-            result = chain.invoke({"query": question})["result"]
+            print("QA chain initialized. Processing question...")
+
+            result = chain.invoke({"query": question}).get("result", "")
+
+            print("Result from chain:", result)
+
             return jsonify({
                 "status": True,
                 "result": result
-            }), 200 
-        else:
-            return jsonify({"status": False, "remarks": "Error generating response"}), 404
+            }), 200
 
+        except Exception as e:
+            print("Exception occurred:", str(e))
+            return jsonify({
+                "status": False,
+                "remarks": f"Internal server error: {str(e)}"
+            }), 500
 
     @app.route("/api/summarizing", methods=["POST"])
     def summarizing():
@@ -190,6 +257,7 @@ def init_routes(app):
         file.save(filepath)
 
         summary = lida.summarize(filepath, summary_method="default", textgen_config=textgen_config)
+        print("summary",summary)
         goals = goal_explorer.generate(summary, textgen_config=textgen_config, text_gen=text_gen, n=2)
     
         return jsonify({
@@ -198,68 +266,15 @@ def init_routes(app):
             
         }), 200
 
-    @app.route("/api/chat_with_real_data", methods=["POST"])
-    def chat_with_real_data():  
-
-        file_name = request.json.get("file_name", "")
-        user_query = request.json.get("user_query", "")
-
-        if file_name:
-            file_path = os.path.join(OUTPUT_FOLDER, file_name)
-
-            table_name = file_name.rsplit('.', 1)[0]  # 'sales_data'
-            df = pd.read_csv(file_path)
-            create_db_from_csv(df,file_name)
-
-            db = SQLDatabase.from_uri("sqlite:///my_database.db")
-
-            # Initialize the agent with parsing error handling
-            agent_executor = create_sql_agent(
-                llm,
-                db=db,
-                agent_type="zero-shot-react-description",
-                verbose=True,
-                handle_parsing_errors="Check your output and make sure it conforms, use the Action/Action Input syntax",
-            )
-
-            # Get the column mapping
-            column_mapping = get_column_mapping(db,table_name)
-            print("column_mapping:", column_mapping)
-
-            # Rephrase the query based on the column mapping
-            rephrased_query = rephrase_query(user_query, column_mapping)
-
-            rephrased_query_with_context = (
-            f"You are a SQL expert tasked with executing the following query accurately and concisely.\n"
-            f"Database Table: {table_name}.\n"
-            f"Columns: {', '.join(column_mapping.values())}.\n\n"
-            f"User Query: {rephrased_query}.\n\n"
-            f"Instructions:\n"
-            f"1. Construct an SQL query only using columns from the {table_name} table.\n"
-            f"2. Exclude rows with null values in calculations unless specified otherwise.\n"
-            f"3. Use precise quoting for column names as needed, and avoid unnecessary commentary.\n\n"
-            f"4. Avoid ambiguous column references to prevent errors like SQLAlchemy’s `E3Q8`. Ensure all column names clearly refer to the {table_name} table.\n"
-            f"Return only the final result of the query with additional explanations or commentary."
-        )
-
-
-            response = agent_executor.invoke({"input": rephrased_query_with_context})
-            print("Response:", response)
-            return jsonify({
-                    "status": True,
-                    "result": response
-                }), 200 
-        else:
-            return jsonify({"status": False, "remarks": "Error generating response"}), 404
-        
-    
     # user question input - 
     @app.route("/api/chat_with_human_data", methods=["POST"])
     def chat_with_data_chat():  
         try:
             file_name = request.json.get("file_name", "")
             table_name = file_name.rsplit('.', 1)[0]  # 'sales_data'
-
+            file_path = os.path.join(OUTPUT_FOLDER, file_name)
+            df = pd.read_csv(file_path)
+            create_db_from_csv(df,table_name)
             user_query = request.json.get("question", "")
             db = SQLDatabase.from_uri("sqlite:///my_database.db")
             
@@ -320,10 +335,12 @@ def init_routes(app):
     def extract_sql():  
         file_name = request.json.get("file_name", "")
         table_name = file_name.rsplit('.', 1)[0]  # 'sales_data'
-
+        file_path = os.path.join(OUTPUT_FOLDER, file_name)
+        table_name = file_name.rsplit('.', 1)[0]  # 'sales_data'
+        df = pd.read_csv(file_path)
+        create_db_from_csv(df,table_name)
         user_query = request.json.get("question", "")
         db = SQLDatabase.from_uri("sqlite:///my_database.db")
-            
         column_mapping = get_column_mapping(db,table_name)
         
         print("column_mapping:", column_mapping)
@@ -418,17 +435,20 @@ def init_routes(app):
         # response_2 = generate_human_response(llm, user_query , query_result_df, sql_query=query)
         response_2 = generate_plotly_code(llm, user_query , query_result_df, query)
         code_str, explanation_str = extract_code_and_explanation( response_2)
-        local_env = {"df": query_result_df}
-        # try:
-        #     exec(code_str, {}, local_env)
-        #     fig = local_env.get("fig")
-        #     fig_json = pio.to_json(fig)
-        # except Exception as e:
-        #     return jsonify({"status": False, "error": str(e)}), 500
+        
+       
+        # Save chart image
+        image_filename = f"{table_name}_chart.png"
+        image_path = run_plotly_code_and_save_image(code_str, output_filename=image_filename)
+
+        # Serve the image from a static route
+        image_url = f"/static/output/{image_filename}"
+
         return jsonify({
             "status": True,
             "explanation": explanation_str,
-            "chart": code_str,
+            "chart_code": code_str,
+            "chart_image_url": image_url
         }), 200
   
 
